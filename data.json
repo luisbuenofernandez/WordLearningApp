@@ -1,0 +1,280 @@
+{
+    "words": [
+        {
+            "it": "🇮🇹 ciao",
+            "pt": "🇧🇷 olá",
+            "es": "🇺🇾 hola",
+            "en": "🇺🇸 hello"
+        },
+        {
+            "it": "🇮🇹 addio",
+            "pt": "🇧🇷 adeus",
+            "es": "🇺🇾 adiós",
+            "en": "🇺🇸 goodbye"
+        },
+        {
+            "it": "🇮🇹 per favore",
+            "pt": "🇧🇷 por favor",
+            "es": "🇺🇾 por favor",
+            "en": "🇺🇸 please"
+        },
+        {
+            "it": "🇮🇹 grazie",
+            "pt": "🇧🇷 obrigado",
+            "es": "🇺🇾 gracias",
+            "en": "🇺🇸 thank you"
+        },
+        {
+            "it": "🇮🇹 scusa",
+            "pt": "🇧🇷 desculpa",
+            "es": "🇺🇾 lo siento",
+            "en": "🇺🇸 sorry"
+        },
+        {
+            "it": "🇮🇹 sì",
+            "pt": "🇧🇷 sim",
+            "es": "🇺🇾 sí",
+            "en": "🇺🇸 yes"
+        },
+        {
+            "it": "🇮🇹 no",
+            "pt": "🇧🇷 não",
+            "es": "🇺🇾 no",
+            "en": "🇺🇸 no"
+        },
+        {
+            "it": "🇮🇹 acqua",
+            "pt": "🇧🇷 água",
+            "es": "🇺🇾 agua",
+            "en": "🇺🇸 water"
+        },
+        {
+            "it": "🇮🇹 cibo",
+            "pt": "🇧🇷 comida",
+            "es": "🇺🇾 comida",
+            "en": "🇺🇸 food"
+        },
+        {
+            "it": "🇮🇹 casa",
+            "pt": "🇧🇷 casa",
+            "es": "🇺🇾 casa",
+            "en": "🇺🇸 house"
+        },
+        {
+            "it": "🇮🇹 scuola",
+            "pt": "🇧🇷 escola",
+            "es": "🇺🇾 escuela",
+            "en": "🇺🇸 school"
+        },
+        {
+            "it": "🇮🇹 auto",
+            "pt": "🇧🇷 carro",
+            "es": "🇺🇾 auto",
+            "en": "🇺🇸 car"
+        },
+        {
+            "it": "🇮🇹 libro",
+            "pt": "🇧🇷 livro",
+            "es": "🇺🇾 libro",
+            "en": "🇺🇸 book"
+        },
+        {
+            "it": "🇮🇹 bambino",
+            "pt": "🇧🇷 criança",
+            "es": "🇺🇾 niño",
+            "en": "🇺🇸 child"
+        },
+        {
+            "it": "🇮🇹 amico",
+            "pt": "🇧🇷 amigo",
+            "es": "🇺🇾 amigo",
+            "en": "🇺🇸 friend"
+        },
+        {
+            "it": "🇮🇹 felice",
+            "pt": "🇧🇷 feliz",
+            "es": "🇺🇾 feliz",
+            "en": "🇺🇸 happy"
+        },
+        {
+            "it": "🇮🇹 madre",
+            "pt": "🇧🇷 mãe",
+            "es": "🇺🇾 madre",
+            "en": "🇺🇸 mother"
+        },
+        {
+            "it": "🇮🇹 padre",
+            "pt": "🇧🇷 pai",
+            "es": "🇺🇾 padre",
+            "en": "🇺🇸 father"
+        },
+        {
+            "it": "🇮🇹 fratello",
+            "pt": "🇧🇷 irmão",
+            "es": "🇺🇾 hermano",
+            "en": "🇺🇸 brother"
+        },
+        {
+            "it": "🇮🇹 sorella",
+            "pt": "🇧🇷 irmã",
+            "es": "🇺🇾 hermana",
+            "en": "🇺🇸 sister"
+        },
+        {
+            "it": "🇮🇹 cane",
+            "pt": "🇧🇷 cachorro",
+            "es": "🇺🇾 perro",
+            "en": "🇺🇸 dog"
+        },
+        {
+            "it": "🇮🇹 gatto",
+            "pt": "🇧🇷 gato",
+            "es": "🇺🇾 gato",
+            "en": "🇺🇸 cat"
+        },
+        {
+            "it": "🇮🇹 giorno",
+            "pt": "🇧🇷 dia",
+            "es": "🇺🇾 día",
+            "en": "🇺🇸 day"
+        },
+        {
+            "it": "🇮🇹 notte",
+            "pt": "🇧🇷 noite",
+            "es": "🇺🇾 noche",
+            "en": "🇺🇸 night"
+        },
+        {
+            "it": "🇮🇹 lavoro",
+            "pt": "🇧🇷 trabalho",
+            "es": "🇺🇾 trabajo",
+            "en": "🇺🇸 work"
+        },
+        {
+            "it": "🇮🇹 denaro",
+            "pt": "🇧🇷 dinheiro",
+            "es": "🇺🇾 dinero",
+            "en": "🇺🇸 money"
+        },
+        {
+            "it": "🇮🇹 mercato",
+            "pt": "🇧🇷 mercado",
+            "es": "🇺🇾 mercado",
+            "en": "🇺🇸 market"
+        },
+        {
+            "it": "🇮🇹 ospedale",
+            "pt": "🇧🇷 hospital",
+            "es": "🇺🇾 hospital",
+            "en": "🇺🇸 hospital"
+        },
+        {
+            "it": "🇮🇹 banca",
+            "pt": "🇧🇷 banco",
+            "es": "🇺🇾 banco",
+            "en": "🇺🇸 bank"
+        },
+        {
+            "it": "🇮🇹 chiesa",
+            "pt": "🇧🇷 igreja",
+            "es": "🇺🇾 iglesia",
+            "en": "🇺🇸 church"
+        },
+        {
+            "it": "🇮🇹 ristorante",
+            "pt": "🇧🇷 restaurante",
+            "es": "🇺🇾 restaurante",
+            "en": "🇺🇸 restaurant"
+        },
+        {
+            "it": "🇮🇹 musica",
+            "pt": "🇧🇷 música",
+            "es": "🇺🇾 música",
+            "en": "🇺🇸 music"
+        },
+        {
+            "it": "🇮🇹 film",
+            "pt": "🇧🇷 filme",
+            "es": "🇺🇾 película",
+            "en": "🇺🇸 movie"
+        },
+        {
+            "it": "🇮🇹 gioco",
+            "pt": "🇧🇷 jogo",
+            "es": "🇺🇾 juego",
+            "en": "🇺🇸 game"
+        },
+        {
+            "it": "🇮🇹 festa",
+            "pt": "🇧🇷 festa",
+            "es": "🇺🇾 fiesta",
+            "en": "🇺🇸 party"
+        },
+        {
+            "it": "🇮🇹 compleanno",
+            "pt": "🇧🇷 aniversário",
+            "es": "🇺🇾 cumpleaños",
+            "en": "🇺🇸 birthday"
+        },
+        {
+            "it": "🇮🇹 numero",
+            "pt": "🇧🇷 número",
+            "es": "🇺🇾 número",
+            "en": "🇺🇸 number"
+        },
+        {
+            "it": "🇮🇹 nome",
+            "pt": "🇧🇷 nome",
+            "es": "🇺🇾 nombre",
+            "en": "🇺🇸 name"
+        },
+        {
+            "it": "🇮🇹 telefono",
+            "pt": "🇧🇷 telefone",
+            "es": "🇺🇾 teléfono",
+            "en": "🇺🇸 phone"
+        },
+        {
+            "it": "🇮🇹 indirizzo",
+            "pt": "🇧🇷 endereço",
+            "es": "🇺🇾 dirección",
+            "en": "🇺🇸 address"
+        },
+        {
+            "it": "🇮🇹 città",
+            "pt": "🇧🇷 cidade",
+            "es": "🇺🇾 ciudad",
+            "en": "🇺🇸 city"
+        },
+        {
+            "it": "🇮🇹 paese",
+            "pt": "🇧🇷 país",
+            "es": "🇺🇾 país",
+            "en": "🇺🇸 country"
+        },
+        {
+            "it": "🇮🇹 mappa",
+            "pt": "🇧🇷 mapa",
+            "es": "🇺🇾 mapa",
+            "en": "🇺🇸 map"
+        },
+        {
+            "it": "🇮🇹 strada",
+            "pt": "🇧🇷 rua",
+            "es": "🇺🇾 calle",
+            "en": "🇺🇸 street"
+        },
+        {
+            "it": "🇮🇹 parco",
+            "pt": "🇧🇷 parque",
+            "es": "🇺🇾 parque",
+            "en": "🇺🇸 park"
+        },
+        {
+            "it": "🇮🇹 piazza",
+            "pt": "🇧🇷 praça",
+            "es": "🇺🇾 plaza",
+            "en": "🇺🇸 square"
+        }
+    ]
+}
