@@ -36,12 +36,3 @@ document.getElementById('next-btn').addEventListener('click', () => {
     currentIndex = 0; // Reset index to start from the beginning after shuffle
     displayWord(currentIndex);
 });
-
-document.getElementById('back-btn').addEventListener('click', () => {
-    if (currentIndex > 0) {
-        currentIndex--;
-    } else {
-        currentIndex = words.length - 1;
-    }
-    displayWord(currentIndex);
-});
