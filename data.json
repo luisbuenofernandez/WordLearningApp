@@ -275,6 +275,4374 @@
             "pt": "🇧🇷 praça",
             "es": "🇺🇾 plaza",
             "en": "🇺🇸 square"
+        },
+        {
+            "es": "🇺🇾 Casa",
+            "It": "🇮🇹 Casa",
+            "pt": "🇧🇷 Casa",
+            "en": "🇺🇸 House"
+        },
+        {
+            "es": "🇺🇾 Libro",
+            "It": "🇮🇹 Libro",
+            "pt": "🇧🇷 Livro",
+            "en": "🇺🇸 Book"
+        },
+        {
+            "es": "🇺🇾 Coche",
+            "It": "🇮🇹 Coche",
+            "pt": "🇧🇷 Carro",
+            "en": "🇺🇸 Car"
+        },
+        {
+            "es": "🇺🇾 Perro",
+            "It": "🇮🇹 Perro",
+            "pt": "🇧🇷 Cachorro",
+            "en": "🇺🇸 Dog"
+        },
+        {
+            "es": "🇺🇾 Agua",
+            "It": "🇮🇹 Agua",
+            "pt": "🇧🇷 Água",
+            "en": "🇺🇸 Water"
+        },
+        {
+            "es": "🇺🇾 Escuela",
+            "It": "🇮🇹 Scuola",
+            "pt": "🇧🇷 Escola",
+            "en": "🇺🇸 School"
+        },
+        {
+            "es": "🇺🇾 Madre",
+            "It": "🇮🇹 Madre",
+            "pt": "🇧🇷 Mãe",
+            "en": "🇺🇸 Mother"
+        },
+        {
+            "es": "🇺🇾 Padre",
+            "It": "🇮🇹 Padre",
+            "pt": "🇧🇷 Pai",
+            "en": "🇺🇸 Father"
+        },
+        {
+            "es": "🇺🇾 Niño",
+            "It": "🇮🇹 Bambino/Bambina",
+            "pt": "🇧🇷 Criança",
+            "en": "🇺🇸 Child"
+        },
+        {
+            "es": "🇺🇾 Amigo",
+            "It": "🇮🇹 Amico/Amica",
+            "pt": "🇧🇷 Amigo/Amiga",
+            "en": "🇺🇸 Friend"
+        },
+        {
+            "es": "🇺🇾 Comida",
+            "It": "🇮🇹 Cibo",
+            "pt": "🇧🇷 Comida",
+            "en": "🇺🇸 Food"
+        },
+        {
+            "es": "🇺🇾 Ciudad",
+            "It": "🇮🇹 Città",
+            "pt": "🇧🇷 Cidade",
+            "en": "🇺🇸 City"
+        },
+        {
+            "es": "🇺🇾 Amor",
+            "It": "🇮🇹 Amore",
+            "pt": "🇧🇷 Amor",
+            "en": "🇺🇸 Love"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Trabajo",
+            "It": "🇮🇹 Lavoro",
+            "pt": "🇧🇷 Trabalho",
+            "en": "🇺🇸 Work"
+        },
+        {
+            "es": "🇺🇾 Día",
+            "It": "🇮🇹 Giorno",
+            "pt": "🇧🇷 Dia",
+            "en": "🇺🇸 Day"
+        },
+        {
+            "es": "🇺🇾 Noche",
+            "It": "🇮🇹 Notte",
+            "pt": "🇧🇷 Noite",
+            "en": "🇺🇸 Night"
+        },
+        {
+            "es": "🇺🇾 Semana",
+            "It": "🇮🇹 Settimana",
+            "pt": "🇧🇷 Semana",
+            "en": "🇺🇸 Week"
+        },
+        {
+            "es": "🇺🇾 Año",
+            "It": "🇮🇹 Anno",
+            "pt": "🇧🇷 Ano",
+            "en": "🇺🇸 Year"
+        },
+        {
+            "es": "🇺🇾 Sol",
+            "It": "🇮🇹 Sole",
+            "pt": "🇧🇷 Sol",
+            "en": "🇺🇸 Sun"
+        },
+        {
+            "es": "🇺🇾 Lluvia",
+            "It": "🇮🇹 Pioggia",
+            "pt": "🇧🇷 Chuva",
+            "en": "🇺🇸 Rain"
+        },
+        {
+            "es": "🇺🇾 Nieve",
+            "It": "🇮🇹 Neve",
+            "pt": "🇧🇷 Neve",
+            "en": "🇺🇸 Snow"
+        },
+        {
+            "es": "🇺🇾 Calle",
+            "It": "🇮🇹 Strada",
+            "pt": "🇧🇷 Rua",
+            "en": "🇺🇸 Street"
+        },
+        {
+            "es": "🇺🇾 Familia",
+            "It": "🇮🇹 Famiglia",
+            "pt": "🇧🇷 Família",
+            "en": "🇺🇸 Family"
+        },
+        {
+            "es": "🇺🇾 Ventana",
+            "It": "🇮🇹 Finestra",
+            "pt": "🇧🇷 Janela",
+            "en": "🇺🇸 Window"
+        },
+        {
+            "es": "🇺🇾 Puerta",
+            "It": "🇮🇹 Porta",
+            "pt": "🇧🇷 Porta",
+            "en": "🇺🇸 Door"
+        },
+        {
+            "es": "🇺🇾 Silla",
+            "It": "🇮🇹 Sedia",
+            "pt": "🇧🇷 Cadeira",
+            "en": "🇺🇸 Chair"
+        },
+        {
+            "es": "🇺🇾 Mesa",
+            "It": "🇮🇹 Tavolo",
+            "pt": "🇧🇷 Mesa",
+            "en": "🇺🇸 Table"
+        },
+        {
+            "es": "🇺🇾 Pluma",
+            "It": "🇮🇹 Penna",
+            "pt": "🇧🇷 Caneta",
+            "en": "🇺🇸 Pen"
+        },
+        {
+            "es": "🇺🇾 Papel",
+            "It": "🇮🇹 Carta",
+            "pt": "🇧🇷 Papel",
+            "en": "🇺🇸 Paper"
+        },
+        {
+            "es": "🇺🇾 Ordenador",
+            "It": "🇮🇹 Computer",
+            "pt": "🇧🇷 Computador",
+            "en": "🇺🇸 Computer"
+        },
+        {
+            "es": "🇺🇾 Teléfono",
+            "It": "🇮🇹 Telefono",
+            "pt": "🇧🇷 Telefone",
+            "en": "🇺🇸 Phone"
+        },
+        {
+            "es": "🇺🇾 Luz",
+            "It": "🇮🇹 Luce",
+            "pt": "🇧🇷 Luz",
+            "en": "🇺🇸 Light"
+        },
+        {
+            "es": "🇺🇾 Cielo",
+            "It": "🇮🇹 Cielo",
+            "pt": "🇧🇷 Céu",
+            "en": "🇺🇸 Sky"
+        },
+        {
+            "es": "🇺🇾 Cielo",
+            "It": "🇮🇹 Cielo",
+            "pt": "🇧🇷 Céu",
+            "en": "🇺🇸 Sky"
+        },
+        {
+            "es": "🇺🇾 Tierra",
+            "It": "🇮🇹 Terra",
+            "pt": "🇧🇷 Terra",
+            "en": "🇺🇸 Earth"
+        },
+        {
+            "es": "🇺🇾 País",
+            "It": "🇮🇹 Paese",
+            "pt": "🇧🇷 País",
+            "en": "🇺🇸 Country"
+        },
+        {
+            "es": "🇺🇾 Amigo",
+            "It": "🇮🇹 Amico/Amica",
+            "pt": "🇧🇷 Amigo/Amiga",
+            "en": "🇺🇸 Friend"
+        },
+        {
+            "es": "🇺🇾 Alma",
+            "It": "🇮🇹 Anima",
+            "pt": "🇧🇷 Alma",
+            "en": "🇺🇸 Soul"
+        },
+        {
+            "es": "🇺🇾 Mar",
+            "It": "🇮🇹 Mare",
+            "pt": "🇧🇷 Mar",
+            "en": "🇺🇸 Sea"
+        },
+        {
+            "es": "🇺🇾 Montaña",
+            "It": "🇮🇹 Montagna",
+            "pt": "🇧🇷 Montanha",
+            "en": "🇺🇸 Mountain"
+        },
+        {
+            "es": "🇺🇾 Río",
+            "It": "🇮🇹 Fiume",
+            "pt": "🇧🇷 Rio",
+            "en": "🇺🇸 River"
+        },
+        {
+            "es": "🇺🇾 Playa",
+            "It": "🇮🇹 Spiaggia",
+            "pt": "🇧🇷 Praia",
+            "en": "🇺🇸 Beach"
+        },
+        {
+            "es": "🇺🇾 Bosque",
+            "It": "🇮🇹 Bosco",
+            "pt": "🇧🇷 Floresta",
+            "en": "🇺🇸 Forest"
+        },
+        {
+            "es": "🇺🇾 Flor",
+            "It": "🇮🇹 Fiore",
+            "pt": "🇧🇷 Flor",
+            "en": "🇺🇸 Flower"
+        },
+        {
+            "es": "🇺🇾 Animal",
+            "It": "🇮🇹 Animale",
+            "pt": "🇧🇷 Animal",
+            "en": "🇺🇸 Animal"
+        },
+        {
+            "es": "🇺🇾 Árbol",
+            "It": "🇮🇹 Albero",
+            "pt": "🇧🇷 Árvore",
+            "en": "🇺🇸 Tree"
+        },
+        {
+            "es": "🇺🇾 Estrella",
+            "It": "🇮🇹 Stella",
+            "pt": "🇧🇷 Estrela",
+            "en": "🇺🇸 Star"
+        },
+        {
+            "es": "🇺🇾 Luna",
+            "It": "🇮🇹 Luna",
+            "pt": "🇧🇷 Lua",
+            "en": "🇺🇸 Moon"
+        },
+        {
+            "es": "🇺🇾 Sol",
+            "It": "🇮🇹 Sole",
+            "pt": "🇧🇷 Sol",
+            "en": "🇺🇸 Sun"
+        },
+        {
+            "es": "🇺🇾 Reloj",
+            "It": "🇮🇹 Orologio",
+            "pt": "🇧🇷 Relógio",
+            "en": "🇺🇸 Clock"
+        },
+        {
+            "es": "🇺🇾 Hora",
+            "It": "🇮🇹 Ora",
+            "pt": "🇧🇷 Hora",
+            "en": "🇺🇸 Hour"
+        },
+        {
+            "es": "🇺🇾 Minuto",
+            "It": "🇮🇹 Minuto",
+            "pt": "🇧🇷 Minuto",
+            "en": "🇺🇸 Minute"
+        },
+        {
+            "es": "🇺🇾 Segundo",
+            "It": "🇮🇹 Secondo",
+            "pt": "🇧🇷 Segundo",
+            "en": "🇺🇸 Second"
+        },
+        {
+            "es": "🇺🇾 Derecha",
+            "It": "🇮🇹 Destra",
+            "pt": "🇧🇷 Direita",
+            "en": "🇺🇸 Right"
+        },
+        {
+            "es": "🇺🇾 Izquierda",
+            "It": "🇮🇹 Sinistra",
+            "pt": "🇧🇷 Esquerda",
+            "en": "🇺🇸 Left"
+        },
+        {
+            "es": "🇺🇾 Arriba",
+            "It": "🇮🇹 Sopra",
+            "pt": "🇧🇷 Em cima",
+            "en": "🇺🇸 Up"
+        },
+        {
+            "es": "🇺🇾 Abajo",
+            "It": "🇮🇹 Giù",
+            "pt": "🇧🇷 Abaixo",
+            "en": "🇺🇸 Down"
+        },
+        {
+            "es": "🇺🇾 Dentro",
+            "It": "🇮🇹 Dentro",
+            "pt": "🇧🇷 Dentro",
+            "en": "🇺🇸 Inside"
+        },
+        {
+            "es": "🇺🇾 Fuera",
+            "It": "🇮🇹 Fuori",
+            "pt": "🇧🇷 Fora",
+            "en": "🇺🇸 Outside"
+        },
+        {
+            "es": "🇺🇾 Largo",
+            "It": "🇮🇹 Lungo",
+            "pt": "🇧🇷 Longo",
+            "en": "🇺🇸 Long"
+        },
+        {
+            "es": "🇺🇾 Corto",
+            "It": "🇮🇹 Corto",
+            "pt": "🇧🇷 Curto",
+            "en": "🇺🇸 Short"
+        },
+        {
+            "es": "🇺🇾 Grande",
+            "It": "🇮🇹 Grande",
+            "pt": "🇧🇷 Grande",
+            "en": "🇺🇸 Big"
+        },
+        {
+            "es": "🇺🇾 Pequeño",
+            "It": "🇮🇹 Piccolo",
+            "pt": "🇧🇷 Pequeno",
+            "en": "🇺🇸 Small"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Grande",
+            "It": "🇮🇹 Grande",
+            "pt": "🇧🇷 Grande",
+            "en": "🇺🇸 Big"
+        },
+        {
+            "es": "🇺🇾 Pequeño",
+            "It": "🇮🇹 Piccolo",
+            "pt": "🇧🇷 Pequeno",
+            "en": "🇺🇸 Small"
+        },
+        {
+            "es": "🇺🇾 Largo",
+            "It": "🇮🇹 Lungo",
+            "pt": "🇧🇷 Longo",
+            "en": "🇺🇸 Long"
+        },
+        {
+            "es": "🇺🇾 Corto",
+            "It": "🇮🇹 Corto",
+            "pt": "🇧🇷 Curto",
+            "en": "🇺🇸 Short"
+        },
+        {
+            "es": "🇺🇾 Dentro",
+            "It": "🇮🇹 Dentro",
+            "pt": "🇧🇷 Dentro",
+            "en": "🇺🇸 Inside"
+        },
+        {
+            "es": "🇺🇾 Fuera",
+            "It": "🇮🇹 Fuori",
+            "pt": "🇧🇷 Fora",
+            "en": "🇺🇸 Outside"
+        },
+        {
+            "es": "🇺🇾 Arriba",
+            "It": "🇮🇹 Sopra",
+            "pt": "🇧🇷 Em cima",
+            "en": "🇺🇸 Up"
+        },
+        {
+            "es": "🇺🇾 Abajo",
+            "It": "🇮🇹 Giù",
+            "pt": "🇧🇷 Abaixo",
+            "en": "🇺🇸 Down"
+        },
+        {
+            "es": "🇺🇾 Derecha",
+            "It": "🇮🇹 Destra",
+            "pt": "🇧🇷 Direita",
+            "en": "🇺🇸 Right"
+        },
+        {
+            "es": "🇺🇾 Izquierda",
+            "It": "🇮🇹 Sinistra",
+            "pt": "🇧🇷 Esquerda",
+            "en": "🇺🇸 Left"
+        },
+        {
+            "es": "🇺🇾 Segundo",
+            "It": "🇮🇹 Secondo",
+            "pt": "🇧🇷 Segundo",
+            "en": "🇺🇸 Second"
+        },
+        {
+            "es": "🇺🇾 Minuto",
+            "It": "🇮🇹 Minuto",
+            "pt": "🇧🇷 Minuto",
+            "en": "🇺🇸 Minute"
+        },
+        {
+            "es": "🇺🇾 Hora",
+            "It": "🇮🇹 Ora",
+            "pt": "🇧🇷 Hora",
+            "en": "🇺🇸 Hour"
+        },
+        {
+            "es": "🇺🇾 Reloj",
+            "It": "🇮🇹 Orologio",
+            "pt": "🇧🇷 Relógio",
+            "en": "🇺🇸 Clock"
+        },
+        {
+            "es": "🇺🇾 Sol",
+            "It": "🇮🇹 Sole",
+            "pt": "🇧🇷 Sol",
+            "en": "🇺🇸 Sun"
+        },
+        {
+            "es": "🇺🇾 Luna",
+            "It": "🇮🇹 Luna",
+            "pt": "🇧🇷 Lua",
+            "en": "🇺🇸 Moon"
+        },
+        {
+            "es": "🇺🇾 Estrella",
+            "It": "🇮🇹 Stella",
+            "pt": "🇧🇷 Estrela",
+            "en": "🇺🇸 Star"
+        },
+        {
+            "es": "🇺🇾 Árbol",
+            "It": "🇮🇹 Albero",
+            "pt": "🇧🇷 Árvore",
+            "en": "🇺🇸 Tree"
+        },
+        {
+            "es": "🇺🇾 Animal",
+            "It": "🇮🇹 Animale",
+            "pt": "🇧🇷 Animal",
+            "en": "🇺🇸 Animal"
+        },
+        {
+            "es": "🇺🇾 Flor",
+            "It": "🇮🇹 Fiore",
+            "pt": "🇧🇷 Flor",
+            "en": "🇺🇸 Flower"
+        },
+        {
+            "es": "🇺🇾 Bosque",
+            "It": "🇮🇹 Bosco",
+            "pt": "🇧🇷 Floresta",
+            "en": "🇺🇸 Forest"
+        },
+        {
+            "es": "🇺🇾 Playa",
+            "It": "🇮🇹 Spiaggia",
+            "pt": "🇧🇷 Praia",
+            "en": "🇺🇸 Beach"
+        },
+        {
+            "es": "🇺🇾 Río",
+            "It": "🇮🇹 Fiume",
+            "pt": "🇧🇷 Rio",
+            "en": "🇺🇸 River"
+        },
+        {
+            "es": "🇺🇾 Montaña",
+            "It": "🇮🇹 Montagna",
+            "pt": "🇧🇷 Montanha",
+            "en": "🇺🇸 Mountain"
+        },
+        {
+            "es": "🇺🇾 Mar",
+            "It": "🇮🇹 Mare",
+            "pt": "🇧🇷 Mar",
+            "en": "🇺🇸 Sea"
+        },
+        {
+            "es": "🇺🇾 Alma",
+            "It": "🇮🇹 Anima",
+            "pt": "🇧🇷 Alma",
+            "en": "🇺🇸 Soul"
+        },
+        {
+            "es": "🇺🇾 Amigo",
+            "It": "🇮🇹 Amico/Amica",
+            "pt": "🇧🇷 Amigo/Amiga",
+            "en": "🇺🇸 Friend"
+        },
+        {
+            "es": "🇺🇾 País",
+            "It": "🇮🇹 Paese",
+            "pt": "🇧🇷 País",
+            "en": "🇺🇸 Country"
+        },
+        {
+            "es": "🇺🇾 Tierra",
+            "It": "🇮🇹 Terra",
+            "pt": "🇧🇷 Terra",
+            "en": "🇺🇸 Earth"
+        },
+        {
+            "es": "🇺🇾 Perro",
+            "It": "🇮🇹 Cane",
+            "pt": "🇧🇷 Cachorro",
+            "en": "🇺🇸 Dog"
+        },
+        {
+            "es": "🇺🇾 Gato",
+            "It": "🇮🇹 Gatto",
+            "pt": "🇧🇷 Gato",
+            "en": "🇺🇸 Cat"
+        },
+        {
+            "es": "🇺🇾 Coche",
+            "It": "🇮🇹 Auto",
+            "pt": "🇧🇷 Carro",
+            "en": "🇺🇸 Car"
+        },
+        {
+            "es": "🇺🇾 Avión",
+            "It": "🇮🇹 Aereo",
+            "pt": "🇧🇷 Avião",
+            "en": "🇺🇸 Airplane"
+        },
+        {
+            "es": "🇺🇾 Tren",
+            "It": "🇮🇹 Treno",
+            "pt": "🇧🇷 Trem",
+            "en": "🇺🇸 Train"
+        },
+        {
+            "es": "🇺🇾 Barco",
+            "It": "🇮🇹 Barca",
+            "pt": "🇧🇷 Barco",
+            "en": "🇺🇸 Boat"
+        },
+        {
+            "es": "🇺🇾 Bicicleta",
+            "It": "🇮🇹 Bicicletta",
+            "pt": "🇧🇷 Bicicleta",
+            "en": "🇺🇸 Bicycle"
+        },
+        {
+            "es": "🇺🇾 Libro",
+            "It": "🇮🇹 Libro",
+            "pt": "🇧🇷 Livro",
+            "en": "🇺🇸 Book"
+        },
+        {
+            "es": "🇺🇾 Película",
+            "It": "🇮🇹 Film",
+            "pt": "🇧🇷 Filme",
+            "en": "🇺🇸 Movie"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Casa",
+            "It": "🇮🇹 Casa",
+            "pt": "🇧🇷 Casa",
+            "en": "🇺🇸 House"
+        },
+        {
+            "es": "🇺🇾 Cielo",
+            "It": "🇮🇹 Cielo",
+            "pt": "🇧🇷 Céu",
+            "en": "🇺🇸 Sky"
+        },
+        {
+            "es": "🇺🇾 Tierra",
+            "It": "🇮🇹 Terra",
+            "pt": "🇧🇷 Terra",
+            "en": "🇺🇸 Earth"
+        },
+        {
+            "es": "🇺🇾 País",
+            "It": "🇮🇹 Paese",
+            "pt": "🇧🇷 País",
+            "en": "🇺🇸 Country"
+        },
+        {
+            "es": "🇺🇾 Amigo",
+            "It": "🇮🇹 Amico/Amica",
+            "pt": "🇧🇷 Amigo/Amiga",
+            "en": "🇺🇸 Friend"
+        },
+        {
+            "es": "🇺🇾 Alma",
+            "It": "🇮🇹 Anima",
+            "pt": "🇧🇷 Alma",
+            "en": "🇺🇸 Soul"
+        },
+        {
+            "es": "🇺🇾 Mar",
+            "It": "🇮🇹 Mare",
+            "pt": "🇧🇷 Mar",
+            "en": "🇺🇸 Sea"
+        },
+        {
+            "es": "🇺🇾 Montaña",
+            "It": "🇮🇹 Montagna",
+            "pt": "🇧🇷 Montanha",
+            "en": "🇺🇸 Mountain"
+        },
+        {
+            "es": "🇺🇾 Río",
+            "It": "🇮🇹 Fiume",
+            "pt": "🇧🇷 Rio",
+            "en": "🇺🇸 River"
+        },
+        {
+            "es": "🇺🇾 Playa",
+            "It": "🇮🇹 Spiaggia",
+            "pt": "🇧🇷 Praia",
+            "en": "🇺🇸 Beach"
+        },
+        {
+            "es": "🇺🇾 Bosque",
+            "It": "🇮🇹 Bosco",
+            "pt": "🇧🇷 Floresta",
+            "en": "🇺🇸 Forest"
+        },
+        {
+            "es": "🇺🇾 Flor",
+            "It": "🇮🇹 Fiore",
+            "pt": "🇧🇷 Flor",
+            "en": "🇺🇸 Flower"
+        },
+        {
+            "es": "🇺🇾 Animal",
+            "It": "🇮🇹 Animale",
+            "pt": "🇧🇷 Animal",
+            "en": "🇺🇸 Animal"
+        },
+        {
+            "es": "🇺🇾 Árbol",
+            "It": "🇮🇹 Albero",
+            "pt": "🇧🇷 Árvore",
+            "en": "🇺🇸 Tree"
+        },
+        {
+            "es": "🇺🇾 Estrella",
+            "It": "🇮🇹 Stella",
+            "pt": "🇧🇷 Estrela",
+            "en": "🇺🇸 Star"
+        },
+        {
+            "es": "🇺🇾 Luna",
+            "It": "🇮🇹 Luna",
+            "pt": "🇧🇷 Lua",
+            "en": "🇺🇸 Moon"
+        },
+        {
+            "es": "🇺🇾 Sol",
+            "It": "🇮🇹 Sole",
+            "pt": "🇧🇷 Sol",
+            "en": "🇺🇸 Sun"
+        },
+        {
+            "es": "🇺🇾 Reloj",
+            "It": "🇮🇹 Orologio",
+            "pt": "🇧🇷 Relógio",
+            "en": "🇺🇸 Clock"
+        },
+        {
+            "es": "🇺🇾 Hora",
+            "It": "🇮🇹 Ora",
+            "pt": "🇧🇷 Hora",
+            "en": "🇺🇸 Hour"
+        },
+        {
+            "es": "🇺🇾 Minuto",
+            "It": "🇮🇹 Minuto",
+            "pt": "🇧🇷 Minuto",
+            "en": "🇺🇸 Minute"
+        },
+        {
+            "es": "🇺🇾 Segundo",
+            "It": "🇮🇹 Secondo",
+            "pt": "🇧🇷 Segundo",
+            "en": "🇺🇸 Second"
+        },
+        {
+            "es": "🇺🇾 Derecha",
+            "It": "🇮🇹 Destra",
+            "pt": "🇧🇷 Direita",
+            "en": "🇺🇸 Right"
+        },
+        {
+            "es": "🇺🇾 Izquierda",
+            "It": "🇮🇹 Sinistra",
+            "pt": "🇧🇷 Esquerda",
+            "en": "🇺🇸 Left"
+        },
+        {
+            "es": "🇺🇾 Arriba",
+            "It": "🇮🇹 Sopra",
+            "pt": "🇧🇷 Em cima",
+            "en": "🇺🇸 Up"
+        },
+        {
+            "es": "🇺🇾 Abajo",
+            "It": "🇮🇹 Giù",
+            "pt": "🇧🇷 Abaixo",
+            "en": "🇺🇸 Down"
+        },
+        {
+            "es": "🇺🇾 Dentro",
+            "It": "🇮🇹 Dentro",
+            "pt": "🇧🇷 Dentro",
+            "en": "🇺🇸 Inside"
+        },
+        {
+            "es": "🇺🇾 Fuera",
+            "It": "🇮🇹 Fuori",
+            "pt": "🇧🇷 Fora",
+            "en": "🇺🇸 Outside"
+        },
+        {
+            "es": "🇺🇾 Largo",
+            "It": "🇮🇹 Lungo",
+            "pt": "🇧🇷 Longo",
+            "en": "🇺🇸 Long"
+        },
+        {
+            "es": "🇺🇾 Corto",
+            "It": "🇮🇹 Corto",
+            "pt": "🇧🇷 Curto",
+            "en": "🇺🇸 Short"
+        },
+        {
+            "es": "🇺🇾 Grande",
+            "It": "🇮🇹 Grande",
+            "pt": "🇧🇷 Grande",
+            "en": "🇺🇸 Big"
+        },
+        {
+            "es": "🇺🇾 Pequeño",
+            "It": "🇮🇹 Piccolo",
+            "pt": "🇧🇷 Pequeno",
+            "en": "🇺🇸 Small"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Adentro",
+            "It": "🇮🇹 Dentro",
+            "pt": "🇧🇷 Dentro",
+            "en": "🇺🇸 Inside"
+        },
+        {
+            "es": "🇺🇾 Afuera",
+            "It": "🇮🇹 Fuori",
+            "pt": "🇧🇷 Fora",
+            "en": "🇺🇸 Outside"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Nuevo",
+            "It": "🇮🇹 Nuovo",
+            "pt": "🇧🇷 Novo",
+            "en": "🇺🇸 New"
+        },
+        {
+            "es": "🇺🇾 Viejo",
+            "It": "🇮🇹 Vecchio",
+            "pt": "🇧🇷 Velho",
+            "en": "🇺🇸 Old"
+        },
+        {
+            "es": "🇺🇾 Bueno",
+            "It": "🇮🇹 Buono",
+            "pt": "🇧🇷 Bom",
+            "en": "🇺🇸 Good"
+        },
+        {
+            "es": "🇺🇾 Malo",
+            "It": "🇮🇹 Cattivo",
+            "pt": "🇧🇷 Mau",
+            "en": "🇺🇸 Bad"
+        },
+        {
+            "es": "🇺🇾 Trabajo",
+            "It": "🇮🇹 Lavoro",
+            "pt": "🇧🇷 Trabalho",
+            "en": "🇺🇸 Work"
+        },
+        {
+            "es": "🇺🇾 Viaje",
+            "It": "🇮🇹 Viaggio",
+            "pt": "🇧🇷 Viagem",
+            "en": "🇺🇸 Trip"
+        },
+        {
+            "es": "🇺🇾 Problema",
+            "It": "🇮🇹 Problema",
+            "pt": "🇧🇷 Problema",
+            "en": "🇺🇸 Problem"
+        },
+        {
+            "es": "🇺🇾 Solución",
+            "It": "🇮🇹 Soluzione",
+            "pt": "🇧🇷 Solução",
+            "en": "🇺🇸 Solution"
+        },
+        {
+            "es": "🇺🇾 Dinero",
+            "It": "🇮🇹 Denaro",
+            "pt": "🇧🇷 Dinheiro",
+            "en": "🇺🇸 Money"
+        },
+        {
+            "es": "🇺🇾 Comida",
+            "It": "🇮🇹 Cibo",
+            "pt": "🇧🇷 Comida",
+            "en": "🇺🇸 Food"
+        },
+        {
+            "es": "🇺🇾 Bebida",
+            "It": "🇮🇹 Bevanda",
+            "pt": "🇧🇷 Bebida",
+            "en": "🇺🇸 Drink"
+        },
+        {
+            "es": "🇺🇾 Amor",
+            "It": "🇮🇹 Amore",
+            "pt": "🇧🇷 Amor",
+            "en": "🇺🇸 Love"
+        },
+        {
+            "es": "🇺🇾 Odio",
+            "It": "🇮🇹 Odio",
+            "pt": "🇧🇷 Ódio",
+            "en": "🇺🇸 Hate"
+        },
+        {
+            "es": "🇺🇾 Feliz",
+            "It": "🇮🇹 Felice",
+            "pt": "🇧🇷 Feliz",
+            "en": "🇺🇸 Happy"
+        },
+        {
+            "es": "🇺🇾 Triste",
+            "It": "🇮🇹 Triste",
+            "pt": "🇧🇷 Triste",
+            "en": "🇺🇸 Sad"
+        },
+        {
+            "es": "🇺🇾 Difícil",
+            "It": "🇮🇹 Difficile",
+            "pt": "🇧🇷 Difícil",
+            "en": "🇺🇸 Difficult"
+        },
+        {
+            "es": "🇺🇾 Fácil",
+            "It": "🇮🇹 Facile",
+            "pt": "🇧🇷 Fácil",
+            "en": "🇺🇸 Easy"
+        },
+        {
+            "es": "🇺🇾 Rápido",
+            "It": "🇮🇹 Veloce",
+            "pt": "🇧🇷 Rápido",
+            "en": "🇺🇸 Fast"
+        },
+        {
+            "es": "🇺🇾 Lento",
+            "It": "🇮🇹 Lento",
+            "pt": "🇧🇷 Lento",
+            "en": "🇺🇸 Slow"
+        },
+        {
+            "es": "🇺🇾 Importante",
+            "It": "🇮🇹 Importante",
+            "pt": "🇧🇷 Importante",
+            "en": "🇺🇸 Important"
+        },
+        {
+            "es": "🇺🇾 Interesante",
+            "It": "🇮🇹 Interessante",
+            "pt": "🇧🇷 Interessante",
+            "en": "🇺🇸 Interesting"
+        },
+        {
+            "es": "🇺🇾 Aburrido",
+            "It": "🇮🇹 Noioso",
+            "pt": "🇧🇷 Chato",
+            "en": "🇺🇸 Boring"
+        },
+        {
+            "es": "🇺🇾 Divertido",
+            "It": "🇮🇹 Divertente",
+            "pt": "🇧🇷 Divertido",
+            "en": "🇺🇸 Fun"
+        },
+        {
+            "es": "🇺🇾 Peligroso",
+            "It": "🇮🇹 Pericoloso",
+            "pt": "🇧🇷 Perigoso",
+            "en": "🇺🇸 Dangerous"
+        },
+        {
+            "es": "🇺🇾 Seguro",
+            "It": "🇮🇹 Sicuro",
+            "pt": "🇧🇷 Seguro",
+            "en": "🇺🇸 Safe"
+        },
+        {
+            "es": "🇺🇾 Salud",
+            "It": "🇮🇹 Salute",
+            "pt": "🇧🇷 Saúde",
+            "en": "🇺🇸 Health"
+        },
+        {
+            "es": "🇺🇾 Enfermedad",
+            "It": "🇮🇹 Malattia",
+            "pt": "🇧🇷 Doença",
+            "en": "🇺🇸 Illness"
+        },
+        {
+            "es": "🇺🇾 Medicina",
+            "It": "🇮🇹 Medicina",
+            "pt": "🇧🇷 Medicina",
+            "en": "🇺🇸 Medicine"
+        },
+        {
+            "es": "🇺🇾 Hospital",
+            "It": "🇮🇹 Ospedale",
+            "pt": "🇧🇷 Hospital",
+            "en": "🇺🇸 Hospital"
+        },
+        {
+            "es": "🇺🇾 Médico",
+            "It": "🇮🇹 Medico",
+            "pt": "🇧🇷 Médico",
+            "en": "🇺🇸 Doctor"
+        },
+        {
+            "es": "🇺🇾 Enfermera",
+            "It": "🇮🇹 Infermiera",
+            "pt": "🇧🇷 Enfermeira",
+            "en": "🇺🇸 Nurse"
+        },
+        {
+            "es": "🇺🇾 Escuela",
+            "It": "🇮🇹 Scuola",
+            "pt": "🇧🇷 Escola",
+            "en": "🇺🇸 School"
+        },
+        {
+            "es": "🇺🇾 Universidad",
+            "It": "🇮🇹 Università",
+            "pt": "🇧🇷 Universidade",
+            "en": "🇺🇸 University"
+        },
+        {
+            "es": "🇺🇾 Profesor",
+            "It": "🇮🇹 Professore",
+            "pt": "🇧🇷 Professor",
+            "en": "🇺🇸 Teacher"
+        },
+        {
+            "es": "🇺🇾 Estudiante",
+            "It": "🇮🇹 Studente",
+            "pt": "🇧🇷 Estudante",
+            "en": "🇺🇸 Student"
+        },
+        {
+            "es": "🇺🇾 Clase",
+            "It": "🇮🇹 Lezione",
+            "pt": "🇧🇷 Aula",
+            "en": "🇺🇸 Class"
+        },
+        {
+            "es": "🇺🇾 Lección",
+            "It": "🇮🇹 Lezione",
+            "pt": "🇧🇷 Lição",
+            "en": "🇺🇸 Lesson"
+        },
+        {
+            "es": "🇺🇾 Lección",
+            "It": "🇮🇹 Lezione",
+            "pt": "🇧🇷 Lição",
+            "en": "🇺🇸 Lesson"
+        },
+        {
+            "es": "🇺🇾 Examen",
+            "It": "🇮🇹 Esame",
+            "pt": "🇧🇷 Exame",
+            "en": "🇺🇸 Exam"
+        },
+        {
+            "es": "🇺🇾 Pregunta",
+            "It": "🇮🇹 Domanda",
+            "pt": "🇧🇷 Pergunta",
+            "en": "🇺🇸 Question"
+        },
+        {
+            "es": "🇺🇾 Respuesta",
+            "It": "🇮🇹 Risposta",
+            "pt": "🇧🇷 Resposta",
+            "en": "🇺🇸 Answer"
+        },
+        {
+            "es": "🇺🇾 Entrevista",
+            "It": "🇮🇹 Intervista",
+            "pt": "🇧🇷 Entrevista",
+            "en": "🇺🇸 Interview"
+        },
+        {
+            "es": "🇺🇾 Noticia",
+            "It": "🇮🇹 Notizia",
+            "pt": "🇧🇷 Notícia",
+            "en": "🇺🇸 News"
+        },
+        {
+            "es": "🇺🇾 Película",
+            "It": "🇮🇹 Film",
+            "pt": "🇧🇷 Filme",
+            "en": "🇺🇸 Movie"
+        },
+        {
+            "es": "🇺🇾 Libro",
+            "It": "🇮🇹 Libro",
+            "pt": "🇧🇷 Livro",
+            "en": "🇺🇸 Book"
+        },
+        {
+            "es": "🇺🇾 Página",
+            "It": "🇮🇹 Pagina",
+            "pt": "🇧🇷 Página",
+            "en": "🇺🇸 Page"
+        },
+        {
+            "es": "🇺🇾 Palabra",
+            "It": "🇮🇹 Parola",
+            "pt": "🇧🇷 Palavra",
+            "en": "🇺🇸 Word"
+        },
+        {
+            "es": "🇺🇾 Frase",
+            "It": "🇮🇹 Frase",
+            "pt": "🇧🇷 Frase",
+            "en": "🇺🇸 Phrase"
+        },
+        {
+            "es": "🇺🇾 Historia",
+            "It": "🇮🇹 Storia",
+            "pt": "🇧🇷 História",
+            "en": "🇺🇸 Story"
+        },
+        {
+            "es": "🇺🇾 Arte",
+            "It": "🇮🇹 Arte",
+            "pt": "🇧🇷 Arte",
+            "en": "🇺🇸 Art"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Canción",
+            "It": "🇮🇹 Canzone",
+            "pt": "🇧🇷 Canção",
+            "en": "🇺🇸 Song"
+        },
+        {
+            "es": "🇺🇾 Instrumento",
+            "It": "🇮🇹 Strumento",
+            "pt": "🇧🇷 Instrumento",
+            "en": "🇺🇸 Instrument"
+        },
+        {
+            "es": "🇺🇾 Casa",
+            "It": "🇮🇹 Casa",
+            "pt": "🇧🇷 Casa",
+            "en": "🇺🇸 House"
+        },
+        {
+            "es": "🇺🇾 Apartamento",
+            "It": "🇮🇹 Appartamento",
+            "pt": "🇧🇷 Apartamento",
+            "en": "🇺🇸 Apartment"
+        },
+        {
+            "es": "🇺🇾 Habitación",
+            "It": "🇮🇹 Camera",
+            "pt": "🇧🇷 Quarto",
+            "en": "🇺🇸 Room"
+        },
+        {
+            "es": "🇺🇾 Cocina",
+            "It": "🇮🇹 Cucina",
+            "pt": "🇧🇷 Cozinha",
+            "en": "🇺🇸 Kitchen"
+        },
+        {
+            "es": "🇺🇾 Baño",
+            "It": "🇮🇹 Bagno",
+            "pt": "🇧🇷 Banheiro",
+            "en": "🇺🇸 Bathroom"
+        },
+        {
+            "es": "🇺🇾 Dormitorio",
+            "It": "🇮🇹 Camera da letto",
+            "pt": "🇧🇷 Dormitório",
+            "en": "🇺🇸 Bedroom"
+        },
+        {
+            "es": "🇺🇾 Ventana",
+            "It": "🇮🇹 Finestra",
+            "pt": "🇧🇷 Janela",
+            "en": "🇺🇸 Window"
+        },
+        {
+            "es": "🇺🇾 Puerta",
+            "It": "🇮🇹 Porta",
+            "pt": "🇧🇷 Porta",
+            "en": "🇺🇸 Door"
+        },
+        {
+            "es": "🇺🇾 Piso",
+            "It": "🇮🇹 Pavimento",
+            "pt": "🇧🇷 Piso",
+            "en": "🇺🇸 Floor"
+        },
+        {
+            "es": "🇺🇾 Techo",
+            "It": "🇮🇹 Tetto",
+            "pt": "🇧🇷 Teto",
+            "en": "🇺🇸 Ceiling"
+        },
+        {
+            "es": "🇺🇾 Pared",
+            "It": "🇮🇹 Parete",
+            "pt": "🇧🇷 Parede",
+            "en": "🇺🇸 Wall"
+        },
+        {
+            "es": "🇺🇾 Mueble",
+            "It": "🇮🇹 Mobile",
+            "pt": "🇧🇷 Móvel",
+            "en": "🇺🇸 Furniture"
+        },
+        {
+            "es": "🇺🇾 Silla",
+            "It": "🇮🇹 Sedia",
+            "pt": "🇧🇷 Cadeira",
+            "en": "🇺🇸 Chair"
+        },
+        {
+            "es": "🇺🇾 Mesa",
+            "It": "🇮🇹 Tavolo",
+            "pt": "🇧🇷 Mesa",
+            "en": "🇺🇸 Table"
+        },
+        {
+            "es": "🇺🇾 Cama",
+            "It": "🇮🇹 Letto",
+            "pt": "🇧🇷 Cama",
+            "en": "🇺🇸 Bed"
+        },
+        {
+            "es": "🇺🇾 Educación",
+            "It": "🇮🇹 Educazione",
+            "pt": "🇧🇷 Educação",
+            "en": "🇺🇸 Education"
+        },
+        {
+            "es": "🇺🇾 Universitario",
+            "It": "🇮🇹 Universitario",
+            "pt": "🇧🇷 Universitário",
+            "en": "🇺🇸 University student"
+        },
+        {
+            "es": "🇺🇾 Profesional",
+            "It": "🇮🇹 Professionale",
+            "pt": "🇧🇷 Profissional",
+            "en": "🇺🇸 Professional"
+        },
+        {
+            "es": "🇺🇾 Carrera",
+            "It": "🇮🇹 Carriera",
+            "pt": "🇧🇷 Carreira",
+            "en": "🇺🇸 Career"
+        },
+        {
+            "es": "🇺🇾 Experiencia",
+            "It": "🇮🇹 Esperienza",
+            "pt": "🇧🇷 Experiência",
+            "en": "🇺🇸 Experience"
+        },
+        {
+            "es": "🇺🇾 Habilidad",
+            "It": "🇮🇹 Abilità",
+            "pt": "🇧🇷 Habilidade",
+            "en": "🇺🇸 Skill"
+        },
+        {
+            "es": "🇺🇾 Capacidad",
+            "It": "🇮🇹 Capacità",
+            "pt": "🇧🇷 Capacidade",
+            "en": "🇺🇸 Ability"
+        },
+        {
+            "es": "🇺🇾 Competencia",
+            "It": "🇮🇹 Competenza",
+            "pt": "🇧🇷 Competência",
+            "en": "🇺🇸 Competence"
+        },
+        {
+            "es": "🇺🇾 Profesión",
+            "It": "🇮🇹 Professione",
+            "pt": "🇧🇷 Profissão",
+            "en": "🇺🇸 Profession"
+        },
+        {
+            "es": "🇺🇾 Negocio",
+            "It": "🇮🇹 Affare",
+            "pt": "🇧🇷 Negócio",
+            "en": "🇺🇸 Business"
+        },
+        {
+            "es": "🇺🇾 Empresa",
+            "It": "🇮🇹 Azienda",
+            "pt": "🇧🇷 Empresa",
+            "en": "🇺🇸 Company"
+        },
+        {
+            "es": "🇺🇾 Economía",
+            "It": "🇮🇹 Economia",
+            "pt": "🇧🇷 Economia",
+            "en": "🇺🇸 Economy"
+        },
+        {
+            "es": "🇺🇾 Política",
+            "It": "🇮🇹 Politica",
+            "pt": "🇧🇷 Política",
+            "en": "🇺🇸 Politics"
+        },
+        {
+            "es": "🇺🇾 Sociedad",
+            "It": "🇮🇹 Società",
+            "pt": "🇧🇷 Sociedade",
+            "en": "🇺🇸 Society"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Tradición",
+            "It": "🇮🇹 Tradizione",
+            "pt": "🇧🇷 Tradição",
+            "en": "🇺🇸 Tradition"
+        },
+        {
+            "es": "🇺🇾 Costumbre",
+            "It": "🇮🇹 Abitudine",
+            "pt": "🇧🇷 Costume",
+            "en": "🇺🇸 Custom"
+        },
+        {
+            "es": "🇺🇾 Valor",
+            "It": "🇮🇹 Valore",
+            "pt": "🇧🇷 Valor",
+            "en": "🇺🇸 Value"
+        },
+        {
+            "es": "🇺🇾 Principio",
+            "It": "🇮🇹 Principio",
+            "pt": "🇧🇷 Princípio",
+            "en": "🇺🇸 Principle"
+        },
+        {
+            "es": "🇺🇾 Proyecto",
+            "It": "🇮🇹 Progetto",
+            "pt": "🇧🇷 Projeto",
+            "en": "🇺🇸 Project"
+        },
+        {
+            "es": "🇺🇾 Investigación",
+            "It": "🇮🇹 Ricerca",
+            "pt": "🇧🇷 Pesquisa",
+            "en": "🇺🇸 Research"
+        },
+        {
+            "es": "🇺🇾 Desarrollo",
+            "It": "🇮🇹 Sviluppo",
+            "pt": "🇧🇷 Desenvolvimento",
+            "en": "🇺🇸 Development"
+        },
+        {
+            "es": "🇺🇾 Tecnología",
+            "It": "🇮🇹 Tecnologia",
+            "pt": "🇧🇷 Tecnologia",
+            "en": "🇺🇸 Technology"
+        },
+        {
+            "es": "🇺🇾 Información",
+            "It": "🇮🇹 Informazione",
+            "pt": "🇧🇷 Informação",
+            "en": "🇺🇸 Information"
+        },
+        {
+            "es": "🇺🇾 Comunicación",
+            "It": "🇮🇹 Comunicazione",
+            "pt": "🇧🇷 Comunicação",
+            "en": "🇺🇸 Communication"
+        },
+        {
+            "es": "🇺🇾 Medio",
+            "It": "🇮🇹 Mezzo",
+            "pt": "🇧🇷 Meio",
+            "en": "🇺🇸 Media"
+        },
+        {
+            "es": "🇺🇾 Internet",
+            "It": "🇮🇹 Internet",
+            "pt": "🇧🇷 Internet",
+            "en": "🇺🇸 Internet"
+        },
+        {
+            "es": "🇺🇾 Redes sociales",
+            "It": "🇮🇹 Social network",
+            "pt": "🇧🇷 Redes sociais",
+            "en": "🇺🇸 Social media"
+        },
+        {
+            "es": "🇺🇾 Teléfono",
+            "It": "🇮🇹 Telefono",
+            "pt": "🇧🇷 Telefone",
+            "en": "🇺🇸 Phone"
+        },
+        {
+            "es": "🇺🇾 Mensaje",
+            "It": "🇮🇹 Messaggio",
+            "pt": "🇧🇷 Mensagem",
+            "en": "🇺🇸 Message"
+        },
+        {
+            "es": "🇺🇾 Correo electrónico",
+            "It": "🇮🇹 E-mail",
+            "pt": "🇧🇷 E-mail",
+            "en": "🇺🇸 Email"
+        },
+        {
+            "es": "🇺🇾 Viaje",
+            "It": "🇮🇹 Viaggio",
+            "pt": "🇧🇷 Viagem",
+            "en": "🇺🇸 Trip"
+        },
+        {
+            "es": "🇺🇾 Turismo",
+            "It": "🇮🇹 Turismo",
+            "pt": "🇧🇷 Turismo",
+            "en": "🇺🇸 Tourism"
+        },
+        {
+            "es": "🇺🇾 Desempleo",
+            "It": "🇮🇹 Disoccupazione",
+            "pt": "🇧🇷 Desemprego",
+            "en": "🇺🇸 Unemployment"
+        },
+        {
+            "es": "🇺🇾 Edificio",
+            "It": "🇮🇹 Edificio",
+            "pt": "🇧🇷 Edifício",
+            "en": "🇺🇸 Building"
+        },
+        {
+            "es": "🇺🇾 Elevador",
+            "It": "🇮🇹 Ascensore",
+            "pt": "🇧🇷 Elevador",
+            "en": "🇺🇸 Elevator"
+        },
+        {
+            "es": "🇺🇾 Impuesto",
+            "It": "🇮🇹 Imposta",
+            "pt": "🇧🇷 Imposto",
+            "en": "🇺🇸 Tax"
+        },
+        {
+            "es": "🇺🇾 Inversión",
+            "It": "🇮🇹 Investimento",
+            "pt": "🇧🇷 Investimento",
+            "en": "🇺🇸 Investment"
+        },
+        {
+            "es": "🇺🇾 Jubilación",
+            "It": "🇮🇹 Pensionamento",
+            "pt": "🇧🇷 Aposentadoria",
+            "en": "🇺🇸 Retirement"
+        },
+        {
+            "es": "🇺🇾 Mercado",
+            "It": "🇮🇹 Mercato",
+            "pt": "🇧🇷 Mercado",
+            "en": "🇺🇸 Market"
+        },
+        {
+            "es": "🇺🇾 Oficina",
+            "It": "🇮🇹 Ufficio",
+            "pt": "🇧🇷 Escritório",
+            "en": "🇺🇸 Office"
+        },
+        {
+            "es": "🇺🇾 Pension",
+            "It": "🇮🇹 Pensione",
+            "pt": "🇧🇷 Pensão",
+            "en": "🇺🇸 Pension"
+        },
+        {
+            "es": "🇺🇾 Publicidad",
+            "It": "🇮🇹 Pubblicità",
+            "pt": "🇧🇷 Publicidade",
+            "en": "🇺🇸 Advertising"
+        },
+        {
+            "es": "🇺🇾 Reciclaje",
+            "It": "🇮🇹 Riciclaggio",
+            "pt": "🇧🇷 Reciclagem",
+            "en": "🇺🇸 Recycling"
+        },
+        {
+            "es": "🇺🇾 Seguro",
+            "It": "🇮🇹 Assicurazione",
+            "pt": "🇧🇷 Seguro",
+            "en": "🇺🇸 Insurance"
+        },
+        {
+            "es": "🇺🇾 Sostenibilidad",
+            "It": "🇮🇹 Sostenibilità",
+            "pt": "🇧🇷 Sustentabilidade",
+            "en": "🇺🇸 Sustainability"
+        },
+        {
+            "es": "🇺🇾 Trabajo",
+            "It": "🇮🇹 Lavoro",
+            "pt": "🇧🇷 Trabalho",
+            "en": "🇺🇸 Work"
+        },
+        {
+            "es": "🇺🇾 Vivienda",
+            "It": "🇮🇹 Abitazione",
+            "pt": "🇧🇷 Habitação",
+            "en": "🇺🇸 Housing"
+        },
+        {
+            "es": "🇺🇾 Silla",
+            "It": "🇮🇹 Sedia",
+            "pt": "🇧🇷 Cadeira",
+            "en": "🇺🇸 Chair"
+        },
+        {
+            "es": "🇺🇾 Pared",
+            "It": "🇮🇹 Muro",
+            "pt": "🇧🇷 Parede",
+            "en": "🇺🇸 Wall"
+        },
+        {
+            "es": "🇺🇾 Batería",
+            "It": "🇮🇹 Batteria",
+            "pt": "🇧🇷 Bateria",
+            "en": "🇺🇸 Battery"
+        },
+        {
+            "es": "🇺🇾 Cielo",
+            "It": "🇮🇹 Cielo",
+            "pt": "🇧🇷 Céu",
+            "en": "🇺🇸 Sky"
+        },
+        {
+            "es": "🇺🇾 Comida",
+            "It": "🇮🇹 Cibo",
+            "pt": "🇧🇷 Comida",
+            "en": "🇺🇸 Food"
+        },
+        {
+            "es": "🇺🇾 Pasado",
+            "It": "🇮🇹 Passato",
+            "pt": "🇧🇷 Passado",
+            "en": "🇺🇸 Past"
+        },
+        {
+            "es": "🇺🇾 Piedra",
+            "It": "🇮🇹 Pietra",
+            "pt": "🇧🇷 Pedra",
+            "en": "🇺🇸 Stone"
+        },
+        {
+            "es": "🇺🇾 Salud",
+            "It": "🇮🇹 Salute",
+            "pt": "🇧🇷 Saúde",
+            "en": "🇺🇸 Health"
+        },
+        {
+            "es": "🇺🇾 Sueño",
+            "It": "🇮🇹 Sogno",
+            "pt": "🇧🇷 Sonho",
+            "en": "🇺🇸 Dream"
+        },
+        {
+            "es": "🇺🇾 Verano",
+            "It": "🇮🇹 Estate",
+            "pt": "🇧🇷 Verão",
+            "en": "🇺🇸 Summer"
+        },
+        {
+            "es": "🇺🇾 Cuerpo",
+            "It": "🇮🇹 Corpo",
+            "pt": "🇧🇷 Corpo",
+            "en": "🇺🇸 Body"
+        },
+        {
+            "es": "🇺🇾 Dinero",
+            "It": "🇮🇹 Denaro",
+            "pt": "🇧🇷 Dinheiro",
+            "en": "🇺🇸 Money"
+        },
+        {
+            "es": "🇺🇾 Estrella",
+            "It": "🇮🇹 Stella",
+            "pt": "🇧🇷 Estrela",
+            "en": "🇺🇸 Star"
+        },
+        {
+            "es": "🇺🇾 Fuego",
+            "It": "🇮🇹 Fuoco",
+            "pt": "🇧🇷 Fogo",
+            "en": "🇺🇸 Fire"
+        },
+        {
+            "es": "🇺🇾 Lluvia",
+            "It": "🇮🇹 Pioggia",
+            "pt": "🇧🇷 Chuva",
+            "en": "🇺🇸 Rain"
+        },
+        {
+            "es": "🇺🇾 Ropa",
+            "It": "🇮🇹 Vestiti",
+            "pt": "🇧🇷 Roupa",
+            "en": "🇺🇸 Clothes"
+        },
+        {
+            "es": "🇺🇾 Tierra",
+            "It": "🇮🇹 Terra",
+            "pt": "🇧🇷 Terra",
+            "en": "🇺🇸 Earth"
+        },
+        {
+            "es": "🇺🇾 Viento",
+            "It": "🇮🇹 Vento",
+            "pt": "🇧🇷 Vento",
+            "en": "🇺🇸 Wind"
+        },
+        {
+            "es": "🇺🇾 Árbol",
+            "It": "🇮🇹 Albero",
+            "pt": "🇧🇷 Árvore",
+            "en": "🇺🇸 Tree"
+        },
+        {
+            "es": "🇺🇾 Lección",
+            "It": "🇮🇹 Lezione",
+            "pt": "🇧🇷 Lição",
+            "en": "🇺🇸 Lesson"
+        },
+        {
+            "es": "🇺🇾 Silla",
+            "It": "🇮🇹 Sedia",
+            "pt": "🇧🇷 Cadeira",
+            "en": "🇺🇸 Chair"
+        },
+        {
+            "es": "🇺🇾 Pared",
+            "It": "🇮🇹 Muro",
+            "pt": "🇧🇷 Parede",
+            "en": "🇺🇸 Wall"
+        },
+        {
+            "es": "🇺🇾 Batería",
+            "It": "🇮🇹 Batteria",
+            "pt": "🇧🇷 Bateria",
+            "en": "🇺🇸 Battery"
+        },
+        {
+            "es": "🇺🇾 Cielo",
+            "It": "🇮🇹 Cielo",
+            "pt": "🇧🇷 Céu",
+            "en": "🇺🇸 Sky"
+        },
+        {
+            "es": "🇺🇾 Comida",
+            "It": "🇮🇹 Cibo",
+            "pt": "🇧🇷 Comida",
+            "en": "🇺🇸 Food"
+        },
+        {
+            "es": "🇺🇾 Pasado",
+            "It": "🇮🇹 Passato",
+            "pt": "🇧🇷 Passado",
+            "en": "🇺🇸 Past"
+        },
+        {
+            "es": "🇺🇾 Piedra",
+            "It": "🇮🇹 Pietra",
+            "pt": "🇧🇷 Pedra",
+            "en": "🇺🇸 Stone"
+        },
+        {
+            "es": "🇺🇾 Salud",
+            "It": "🇮🇹 Salute",
+            "pt": "🇧🇷 Saúde",
+            "en": "🇺🇸 Health"
+        },
+        {
+            "es": "🇺🇾 Sueño",
+            "It": "🇮🇹 Sogno",
+            "pt": "🇧🇷 Sonho",
+            "en": "🇺🇸 Dream"
+        },
+        {
+            "es": "🇺🇾 Verano",
+            "It": "🇮🇹 Estate",
+            "pt": "🇧🇷 Verão",
+            "en": "🇺🇸 Summer"
+        },
+        {
+            "es": "🇺🇾 Cuerpo",
+            "It": "🇮🇹 Corpo",
+            "pt": "🇧🇷 Corpo",
+            "en": "🇺🇸 Body"
+        },
+        {
+            "es": "🇺🇾 Dinero",
+            "It": "🇮🇹 Denaro",
+            "pt": "🇧🇷 Dinheiro",
+            "en": "🇺🇸 Money"
+        },
+        {
+            "es": "🇺🇾 Estrella",
+            "It": "🇮🇹 Stella",
+            "pt": "🇧🇷 Estrela",
+            "en": "🇺🇸 Star"
+        },
+        {
+            "es": "🇺🇾 Fuego",
+            "It": "🇮🇹 Fuoco",
+            "pt": "🇧🇷 Fogo",
+            "en": "🇺🇸 Fire"
+        },
+        {
+            "es": "🇺🇾 Lluvia",
+            "It": "🇮🇹 Pioggia",
+            "pt": "🇧🇷 Chuva",
+            "en": "🇺🇸 Rain"
+        },
+        {
+            "es": "🇺🇾 Ropa",
+            "It": "🇮🇹 Vestiti",
+            "pt": "🇧🇷 Roupa",
+            "en": "🇺🇸 Clothes"
+        },
+        {
+            "es": "🇺🇾 Tierra",
+            "It": "🇮🇹 Terra",
+            "pt": "🇧🇷 Terra",
+            "en": "🇺🇸 Earth"
+        },
+        {
+            "es": "🇺🇾 Viento",
+            "It": "🇮🇹 Vento",
+            "pt": "🇧🇷 Vento",
+            "en": "🇺🇸 Wind"
+        },
+        {
+            "es": "🇺🇾 Árbol",
+            "It": "🇮🇹 Albero",
+            "pt": "🇧🇷 Árvore",
+            "en": "🇺🇸 Tree"
+        },
+        {
+            "es": "🇺🇾 Lección",
+            "It": "🇮🇹 Lezione",
+            "pt": "🇧🇷 Lição",
+            "en": "🇺🇸 Lesson"
+        },
+        {
+            "es": "🇺🇾 Gobierno",
+            "It": "🇮🇹 Governo",
+            "pt": "🇧🇷 Governo",
+            "en": "🇺🇸 Government"
+        },
+        {
+            "es": "🇺🇾 Investigación",
+            "It": "🇮🇹 Ricerca",
+            "pt": "🇧🇷 Pesquisa",
+            "en": "🇺🇸 Research"
+        },
+        {
+            "es": "🇺🇾 Participación",
+            "It": "🇮🇹 Partecipazione",
+            "pt": "🇧🇷 Participação",
+            "en": "🇺🇸 Participation"
+        },
+        {
+            "es": "🇺🇾 Información",
+            "It": "🇮🇹 Informazione",
+            "pt": "🇧🇷 Informação",
+            "en": "🇺🇸 Information"
+        },
+        {
+            "es": "🇺🇾 Agricultura",
+            "It": "🇮🇹 Agricoltura",
+            "pt": "🇧🇷 Agricultura",
+            "en": "🇺🇸 Agriculture"
+        },
+        {
+            "es": "🇺🇾 Cambio",
+            "It": "🇮🇹 Cambiamento",
+            "pt": "🇧🇷 Mudança",
+            "en": "🇺🇸 Change"
+        },
+        {
+            "es": "🇺🇾 Comunicación",
+            "It": "🇮🇹 Comunicazione",
+            "pt": "🇧🇷 Comunicação",
+            "en": "🇺🇸 Communication"
+        },
+        {
+            "es": "🇺🇾 Beneficio",
+            "It": "🇮🇹 Beneficio",
+            "pt": "🇧🇷 Benefício",
+            "en": "🇺🇸 Benefit"
+        },
+        {
+            "es": "🇺🇾 Tecnología",
+            "It": "🇮🇹 Tecnologia",
+            "pt": "🇧🇷 Tecnologia",
+            "en": "🇺🇸 Technology"
+        },
+        {
+            "es": "🇺🇾 Desarrollo",
+            "It": "🇮🇹 Sviluppo",
+            "pt": "🇧🇷 Desenvolvimento",
+            "en": "🇺🇸 Development"
+        },
+        {
+            "es": "🇺🇾 Organización",
+            "It": "🇮🇹 Organizzazione",
+            "pt": "🇧🇷 Organização",
+            "en": "🇺🇸 Organization"
+        },
+        {
+            "es": "🇺🇾 Profesión",
+            "It": "🇮🇹 Professione",
+            "pt": "🇧🇷 Profissão",
+            "en": "🇺🇸 Profession"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Sociedad",
+            "It": "🇮🇹 Società",
+            "pt": "🇧🇷 Sociedade",
+            "en": "🇺🇸 Society"
+        },
+        {
+            "es": "🇺🇾 Historia",
+            "It": "🇮🇹 Storia",
+            "pt": "🇧🇷 História",
+            "en": "🇺🇸 History"
+        },
+        {
+            "es": "🇺🇾 Sector",
+            "It": "🇮🇹 Settore",
+            "pt": "🇧🇷 Setor",
+            "en": "🇺🇸 Sector"
+        },
+        {
+            "es": "🇺🇾 Mercado",
+            "It": "🇮🇹 Mercato",
+            "pt": "🇧🇷 Mercado",
+            "en": "🇺🇸 Market"
+        },
+        {
+            "es": "🇺🇾 Economía",
+            "It": "🇮🇹 Economia",
+            "pt": "🇧🇷 Economia",
+            "en": "🇺🇸 Economy"
+        },
+        {
+            "es": "🇺🇾 Industria",
+            "It": "🇮🇹 Industria",
+            "pt": "🇧🇷 Indústria",
+            "en": "🇺🇸 Industry"
+        },
+        {
+            "es": "🇺🇾 Inversión",
+            "It": "🇮🇹 Investimento",
+            "pt": "🇧🇷 Investimento",
+            "en": "🇺🇸 Investment"
+        },
+        {
+            "es": "🇺🇾 Empresa",
+            "It": "🇮🇹 Azienda",
+            "pt": "🇧🇷 Empresa",
+            "en": "🇺🇸 Company"
+        },
+        {
+            "es": "🇺🇾 Producción",
+            "It": "🇮🇹 Produzione",
+            "pt": "🇧🇷 Produção",
+            "en": "🇺🇸 Production"
+        },
+        {
+            "es": "🇺🇾 Tecnica",
+            "It": "🇮🇹 Tecnica",
+            "pt": "🇧🇷 Técnica",
+            "en": "🇺🇸 Technique"
+        },
+        {
+            "es": "🇺🇾 Proyecto",
+            "It": "🇮🇹 Progetto",
+            "pt": "🇧🇷 Projeto",
+            "en": "🇺🇸 Project"
+        },
+        {
+            "es": "🇺🇾 Medio ambiente",
+            "It": "🇮🇹 Ambiente",
+            "pt": "🇧🇷 Meio ambiente",
+            "en": "🇺🇸 Environment"
+        },
+        {
+            "es": "🇺🇾 Comunidad",
+            "It": "🇮🇹 Comunità",
+            "pt": "🇧🇷 Comunidade",
+            "en": "🇺🇸 Community"
+        },
+        {
+            "es": "🇺🇾 Recurso",
+            "It": "🇮🇹 Risorsa",
+            "pt": "🇧🇷 Recurso",
+            "en": "🇺🇸 Resource"
+        },
+        {
+            "es": "🇺🇾 Energía",
+            "It": "🇮🇹 Energia",
+            "pt": "🇧🇷 Energia",
+            "en": "🇺🇸 Energy"
+        },
+        {
+            "es": "🇺🇾 Capital",
+            "It": "🇮🇹 Capitale",
+            "pt": "🇧🇷 Capital",
+            "en": "🇺🇸 Capital"
+        },
+        {
+            "es": "🇺🇾 Innovación",
+            "It": "🇮🇹 Innovazione",
+            "pt": "🇧🇷 Inovação",
+            "en": "🇺🇸 Innovation"
+        },
+        {
+            "es": "🇺🇾 Seguridad",
+            "It": "🇮🇹 Sicurezza",
+            "pt": "🇧🇷 Segurança",
+            "en": "🇺🇸 Security"
+        },
+        {
+            "es": "🇺🇾 Tecnología",
+            "It": "🇮🇹 Tecnologia",
+            "pt": "🇧🇷 Tecnologia",
+            "en": "🇺🇸 Technology"
+        },
+        {
+            "es": "🇺🇾 Servicio",
+            "It": "🇮🇹 Servizio",
+            "pt": "🇧🇷 Serviço",
+            "en": "🇺🇸 Service"
+        },
+        {
+            "es": "🇺🇾 Infancia",
+            "It": "🇮🇹 Infanzia",
+            "pt": "🇧🇷 Infância",
+            "en": "🇺🇸 Childhood"
+        },
+        {
+            "es": "🇺🇾 Juventud",
+            "It": "🇮🇹 Gioventù",
+            "pt": "🇧🇷 Juventude",
+            "en": "🇺🇸 Youth"
+        },
+        {
+            "es": "🇺🇾 Adulto",
+            "It": "🇮🇹 Adulto",
+            "pt": "🇧🇷 Adulto",
+            "en": "🇺🇸 Adult"
+        },
+        {
+            "es": "🇺🇾 Persona",
+            "It": "🇮🇹 Persona",
+            "pt": "🇧🇷 Pessoa",
+            "en": "🇺🇸 Person"
+        },
+        {
+            "es": "🇺🇾 Familiar",
+            "It": "🇮🇹 Familiare",
+            "pt": "🇧🇷 Familiar",
+            "en": "🇺🇸 Family"
+        },
+        {
+            "es": "🇺🇾 Padre",
+            "It": "🇮🇹 Padre",
+            "pt": "🇧🇷 Pai",
+            "en": "🇺🇸 Father"
+        },
+        {
+            "es": "🇺🇾 Madre",
+            "It": "🇮🇹 Madre",
+            "pt": "🇧🇷 Mãe",
+            "en": "🇺🇸 Mother"
+        },
+        {
+            "es": "🇺🇾 Hijo",
+            "It": "🇮🇹 Figlio",
+            "pt": "🇧🇷 Filho",
+            "en": "🇺🇸 Son"
+        },
+        {
+            "es": "🇺🇾 Hija",
+            "It": "🇮🇹 Figlia",
+            "pt": "🇧🇷 Filha",
+            "en": "🇺🇸 Daughter"
+        },
+        {
+            "es": "🇺🇾 Hermano",
+            "It": "🇮🇹 Fratello",
+            "pt": "🇧🇷 Irmão",
+            "en": "🇺🇸 Brother"
+        },
+        {
+            "es": "🇺🇾 Hermana",
+            "It": "🇮🇹 Sorella",
+            "pt": "🇧🇷 Irmã",
+            "en": "🇺🇸 Sister"
+        },
+        {
+            "es": "🇺🇾 Abuelo",
+            "It": "🇮🇹 Nonno",
+            "pt": "🇧🇷 Avô",
+            "en": "🇺🇸 Grandfather"
+        },
+        {
+            "es": "🇺🇾 Abuela",
+            "It": "🇮🇹 Nonna",
+            "pt": "🇧🇷 Avó",
+            "en": "🇺🇸 Grandmother"
+        },
+        {
+            "es": "🇺🇾 Pariente",
+            "It": "🇮🇹 Parente",
+            "pt": "🇧🇷 Parente",
+            "en": "🇺🇸 Relative"
+        },
+        {
+            "es": "🇺🇾 Amigo",
+            "It": "🇮🇹 Amico",
+            "pt": "🇧🇷 Amigo",
+            "en": "🇺🇸 Friend"
+        },
+        {
+            "es": "🇺🇾 Amistad",
+            "It": "🇮🇹 Amicizia",
+            "pt": "🇧🇷 Amizade",
+            "en": "🇺🇸 Friendship"
+        },
+        {
+            "es": "🇺🇾 Relación",
+            "It": "🇮🇹 Relazione",
+            "pt": "🇧🇷 Relação",
+            "en": "🇺🇸 Relationship"
+        },
+        {
+            "es": "🇺🇾 Matrimonio",
+            "It": "🇮🇹 Matrimonio",
+            "pt": "🇧🇷 Casamento",
+            "en": "🇺🇸 Marriage"
+        },
+        {
+            "es": "🇺🇾 Pareja",
+            "It": "🇮🇹 Coppia",
+            "pt": "🇧🇷 Casal",
+            "en": "🇺🇸 Couple"
+        },
+        {
+            "es": "🇺🇾 Soltero",
+            "It": "🇮🇹 Celibe",
+            "pt": "🇧🇷 Solteiro",
+            "en": "🇺🇸 Single"
+        },
+        {
+            "es": "🇺🇾 Casado",
+            "It": "🇮🇹 Sposato",
+            "pt": "🇧🇷 Casado",
+            "en": "🇺🇸 Married"
+        },
+        {
+            "es": "🇺🇾 Divorcio",
+            "It": "🇮🇹 Divorzio",
+            "pt": "🇧🇷 Divórcio",
+            "en": "🇺🇸 Divorce"
+        },
+        {
+            "es": "🇺🇾 Novio",
+            "It": "🇮🇹 Fidanzato",
+            "pt": "🇧🇷 Namorado",
+            "en": "🇺🇸 Boyfriend"
+        },
+        {
+            "es": "🇺🇾 Novia",
+            "It": "🇮🇹 Fidanzata",
+            "pt": "🇧🇷 Namorada",
+            "en": "🇺🇸 Girlfriend"
+        },
+        {
+            "es": "🇺🇾 Mascota",
+            "It": "🇮🇹 Animale domestico",
+            "pt": "🇧🇷 Animal de estimação",
+            "en": "🇺🇸 Pet"
+        },
+        {
+            "es": "🇺🇾 Mascota",
+            "It": "🇮🇹 Mascotte",
+            "pt": "🇧🇷 Mascote",
+            "en": "🇺🇸 Mascot"
+        },
+        {
+            "es": "🇺🇾 Mascota",
+            "It": "🇮🇹 Mascotte",
+            "pt": "🇧🇷 Mascote",
+            "en": "🇺🇸 Mascot"
+        },
+        {
+            "es": "🇺🇾 Autor",
+            "It": "🇮🇹 Autore",
+            "pt": "🇧🇷 Autor",
+            "en": "🇺🇸 Author"
+        },
+        {
+            "es": "🇺🇾 Escritor",
+            "It": "🇮🇹 Scrittore",
+            "pt": "🇧🇷 Escritor",
+            "en": "🇺🇸 Writer"
+        },
+        {
+            "es": "🇺🇾 Artista",
+            "It": "🇮🇹 Artista",
+            "pt": "🇧🇷 Artista",
+            "en": "🇺🇸 Artist"
+        },
+        {
+            "es": "🇺🇾 Cantante",
+            "It": "🇮🇹 Cantante",
+            "pt": "🇧🇷 Cantor",
+            "en": "🇺🇸 Singer"
+        },
+        {
+            "es": "🇺🇾 Actor",
+            "It": "🇮🇹 Attore",
+            "pt": "🇧🇷 Ator",
+            "en": "🇺🇸 Actor"
+        },
+        {
+            "es": "🇺🇾 Actriz",
+            "It": "🇮🇹 Attrice",
+            "pt": "🇧🇷 Atriz",
+            "en": "🇺🇸 Actress"
+        },
+        {
+            "es": "🇺🇾 Burocracia",
+            "It": "🇮🇹 Burocrazia",
+            "pt": "🇧🇷 Burocracia",
+            "en": "🇺🇸 Bureaucracy"
+        },
+        {
+            "es": "🇺🇾 Diplomacia",
+            "It": "🇮🇹 Diplomazia",
+            "pt": "🇧🇷 Diplomacia",
+            "en": "🇺🇸 Diplomacy"
+        },
+        {
+            "es": "🇺🇾 Globalización",
+            "It": "🇮🇹 Globalizzazione",
+            "pt": "🇧🇷 Globalização",
+            "en": "🇺🇸 Globalization"
+        },
+        {
+            "es": "🇺🇾 Sostenibilidad",
+            "It": "🇮🇹 Sostenibilità",
+            "pt": "🇧🇷 Sustentabilidade",
+            "en": "🇺🇸 Sustainability"
+        },
+        {
+            "es": "🇺🇾 Democracia",
+            "It": "🇮🇹 Democrazia",
+            "pt": "🇧🇷 Democracia",
+            "en": "🇺🇸 Democracy"
+        },
+        {
+            "es": "🇺🇾 Capitalismo",
+            "It": "🇮🇹 Capitalismo",
+            "pt": "🇧🇷 Capitalismo",
+            "en": "🇺🇸 Capitalism"
+        },
+        {
+            "es": "🇺🇾 Liberalismo",
+            "It": "🇮🇹 Liberalismo",
+            "pt": "🇧🇷 Liberalismo",
+            "en": "🇺🇸 Liberalism"
+        },
+        {
+            "es": "🇺🇾 Comunismo",
+            "It": "🇮🇹 Comunismo",
+            "pt": "🇧🇷 Comunismo",
+            "en": "🇺🇸 Communism"
+        },
+        {
+            "es": "🇺🇾 Socialismo",
+            "It": "🇮🇹 Socialismo",
+            "pt": "🇧🇷 Socialismo",
+            "en": "🇺🇸 Socialism"
+        },
+        {
+            "es": "🇺🇾 Dictadura",
+            "It": "🇮🇹 Dittatura",
+            "pt": "🇧🇷 Ditadura",
+            "en": "🇺🇸 Dictatorship"
+        },
+        {
+            "es": "🇺🇾 Autocracia",
+            "It": "🇮🇹 Autocrazia",
+            "pt": "🇧🇷 Autocracia",
+            "en": "🇺🇸 Autocracy"
+        },
+        {
+            "es": "🇺🇾 Monarquía",
+            "It": "🇮🇹 Monarchia",
+            "pt": "🇧🇷 Monarquia",
+            "en": "🇺🇸 Monarchy"
+        },
+        {
+            "es": "🇺🇾 Federalismo",
+            "It": "🇮🇹 Federalismo",
+            "pt": "🇧🇷 Federalismo",
+            "en": "🇺🇸 Federalism"
+        },
+        {
+            "es": "🇺🇾 Constitución",
+            "It": "🇮🇹 Costituzione",
+            "pt": "🇧🇷 Constituição",
+            "en": "🇺🇸 Constitution"
+        },
+        {
+            "es": "🇺🇾 Legislación",
+            "It": "🇮🇹 Legislazione",
+            "pt": "🇧🇷 Legislação",
+            "en": "🇺🇸 Legislation"
+        },
+        {
+            "es": "🇺🇾 Jurisprudencia",
+            "It": "🇮🇹 Giurisprudenza",
+            "pt": "🇧🇷 Jurisprudência",
+            "en": "🇺🇸 Case law"
+        },
+        {
+            "es": "🇺🇾 Gobierno",
+            "It": "🇮🇹 Governo",
+            "pt": "🇧🇷 Governo",
+            "en": "🇺🇸 Government"
+        },
+        {
+            "es": "🇺🇾 Política",
+            "It": "🇮🇹 Politica",
+            "pt": "🇧🇷 Política",
+            "en": "🇺🇸 Politics"
+        },
+        {
+            "es": "🇺🇾 Parlamento",
+            "It": "🇮🇹 Parlamento",
+            "pt": "🇧🇷 Parlamento",
+            "en": "🇺🇸 Parliament"
+        },
+        {
+            "es": "🇺🇾 Legislativo",
+            "It": "🇮🇹 Legislativo",
+            "pt": "🇧🇷 Legislativo",
+            "en": "🇺🇸 Legislative"
+        },
+        {
+            "es": "🇺🇾 Ejecutivo",
+            "It": "🇮🇹 Esecutivo",
+            "pt": "🇧🇷 Executivo",
+            "en": "🇺🇸 Executive"
+        },
+        {
+            "es": "🇺🇾 Judicial",
+            "It": "🇮🇹 Giudiziario",
+            "pt": "🇧🇷 Judicial",
+            "en": "🇺🇸 Judicial"
+        },
+        {
+            "es": "🇺🇾 Presidencia",
+            "It": "🇮🇹 Presidenza",
+            "pt": "🇧🇷 Presidência",
+            "en": "🇺🇸 Presidency"
+        },
+        {
+            "es": "🇺🇾 Senado",
+            "It": "🇮🇹 Senato",
+            "pt": "🇧🇷 Senado",
+            "en": "🇺🇸 Senate"
+        },
+        {
+            "es": "🇺🇾 Cámara",
+            "It": "🇮🇹 Camera",
+            "pt": "🇧🇷 Câmara",
+            "en": "🇺🇸 Chamber"
+        },
+        {
+            "es": "🇺🇾 Poder",
+            "It": "🇮🇹 Potere",
+            "pt": "🇧🇷 Poder",
+            "en": "🇺🇸 Power"
+        },
+        {
+            "es": "🇺🇾 Autoridad",
+            "It": "🇮🇹 Autorità",
+            "pt": "🇧🇷 Autoridade",
+            "en": "🇺🇸 Authority"
+        },
+        {
+            "es": "🇺🇾 Justicia",
+            "It": "🇮🇹 Giustizia",
+            "pt": "🇧🇷 Justiça",
+            "en": "🇺🇸 Justice"
+        },
+        {
+            "es": "🇺🇾 Derecho",
+            "It": "🇮🇹 Diritto",
+            "pt": "🇧🇷 Direito",
+            "en": "🇺🇸 Law"
+        },
+        {
+            "es": "🇺🇾 Ley",
+            "It": "🇮🇹 Legge",
+            "pt": "🇧🇷 Lei",
+            "en": "🇺🇸 Law"
+        },
+        {
+            "es": "🇺🇾 Norma",
+            "It": "🇮🇹 Norma",
+            "pt": "🇧🇷 Norma",
+            "en": "🇺🇸 Norm"
+        },
+        {
+            "es": "🇺🇾 Constitucional",
+            "It": "🇮🇹 Costituzionale",
+            "pt": "🇧🇷 Constitucional",
+            "en": "🇺🇸 Constitutional"
+        },
+        {
+            "es": "🇺🇾 Viaje",
+            "It": "🇮🇹 Viaggio",
+            "pt": "🇧🇷 Viagem",
+            "en": "🇺🇸 Trip"
+        },
+        {
+            "es": "🇺🇾 Libertad",
+            "It": "🇮🇹 Libertà",
+            "pt": "🇧🇷 Liberdade",
+            "en": "🇺🇸 Freedom"
+        },
+        {
+            "es": "🇺🇾 Felicidad",
+            "It": "🇮🇹 Felicità",
+            "pt": "🇧🇷 Felicidade",
+            "en": "🇺🇸 Happiness"
+        },
+        {
+            "es": "🇺🇾 Amor",
+            "It": "🇮🇹 Amore",
+            "pt": "🇧🇷 Amor",
+            "en": "🇺🇸 Love"
+        },
+        {
+            "es": "🇺🇾 Tristeza",
+            "It": "🇮🇹 Tristezza",
+            "pt": "🇧🇷 Tristeza",
+            "en": "🇺🇸 Sadness"
+        },
+        {
+            "es": "🇺🇾 Alegría",
+            "It": "🇮🇹 Gioia",
+            "pt": "🇧🇷 Alegria",
+            "en": "🇺🇸 Joy"
+        },
+        {
+            "es": "🇺🇾 Esperanza",
+            "It": "🇮🇹 Speranza",
+            "pt": "🇧🇷 Esperança",
+            "en": "🇺🇸 Hope"
+        },
+        {
+            "es": "🇺🇾 Riqueza",
+            "It": "🇮🇹 Ricchezza",
+            "pt": "🇧🇷 Riqueza",
+            "en": "🇺🇸 Wealth"
+        },
+        {
+            "es": "🇺🇾 Pobreza",
+            "It": "🇮🇹 Povertà",
+            "pt": "🇧🇷 Pobreza",
+            "en": "🇺🇸 Poverty"
+        },
+        {
+            "es": "🇺🇾 Educación",
+            "It": "🇮🇹 Educazione",
+            "pt": "🇧🇷 Educação",
+            "en": "🇺🇸 Education"
+        },
+        {
+            "es": "🇺🇾 Salud",
+            "It": "🇮🇹 Salute",
+            "pt": "🇧🇷 Saúde",
+            "en": "🇺🇸 Health"
+        },
+        {
+            "es": "🇺🇾 Seguridad",
+            "It": "🇮🇹 Sicurezza",
+            "pt": "🇧🇷 Segurança",
+            "en": "🇺🇸 Security"
+        },
+        {
+            "es": "🇺🇾 Tecnología",
+            "It": "🇮🇹 Tecnologia",
+            "pt": "🇧🇷 Tecnologia",
+            "en": "🇺🇸 Technology"
+        },
+        {
+            "es": "🇺🇾 Comunicación",
+            "It": "🇮🇹 Comunicazione",
+            "pt": "🇧🇷 Comunicação",
+            "en": "🇺🇸 Communication"
+        },
+        {
+            "es": "🇺🇾 Información",
+            "It": "🇮🇹 Informazione",
+            "pt": "🇧🇷 Informação",
+            "en": "🇺🇸 Information"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Arte",
+            "It": "🇮🇹 Arte",
+            "pt": "🇧🇷 Arte",
+            "en": "🇺🇸 Art"
+        },
+        {
+            "es": "🇺🇾 Naturaleza",
+            "It": "🇮🇹 Natura",
+            "pt": "🇧🇷 Natureza",
+            "en": "🇺🇸 Nature"
+        },
+        {
+            "es": "🇺🇾 Ciencia",
+            "It": "🇮🇹 Scienza",
+            "pt": "🇧🇷 Ciência",
+            "en": "🇺🇸 Science"
+        },
+        {
+            "es": "🇺🇾 Historia",
+            "It": "🇮🇹 Storia",
+            "pt": "🇧🇷 História",
+            "en": "🇺🇸 History"
+        },
+        {
+            "es": "🇺🇾 Coche",
+            "It": "🇮🇹 Macchina",
+            "pt": "🇧🇷 Carro",
+            "en": "🇺🇸 Car"
+        },
+        {
+            "es": "🇺🇾 Avión",
+            "It": "🇮🇹 Aereo",
+            "pt": "🇧🇷 Avião",
+            "en": "🇺🇸 Airplane"
+        },
+        {
+            "es": "🇺🇾 Tren",
+            "It": "🇮🇹 Treno",
+            "pt": "🇧🇷 Trem",
+            "en": "🇺🇸 Train"
+        },
+        {
+            "es": "🇺🇾 Barco",
+            "It": "🇮🇹 Barca",
+            "pt": "🇧🇷 Barco",
+            "en": "🇺🇸 Boat"
+        },
+        {
+            "es": "🇺🇾 Bicicleta",
+            "It": "🇮🇹 Bicicletta",
+            "pt": "🇧🇷 Bicicleta",
+            "en": "🇺🇸 Bicycle"
+        },
+        {
+            "es": "🇺🇾 Teléfono",
+            "It": "🇮🇹 Telefono",
+            "pt": "🇧🇷 Telefone",
+            "en": "🇺🇸 Telephone"
+        },
+        {
+            "es": "🇺🇾 Computadora",
+            "It": "🇮🇹 Computer",
+            "pt": "🇧🇷 Computador",
+            "en": "🇺🇸 Computer"
+        },
+        {
+            "es": "🇺🇾 Internet",
+            "It": "🇮🇹 Internet",
+            "pt": "🇧🇷 Internet",
+            "en": "🇺🇸 Internet"
+        },
+        {
+            "es": "🇺🇾 Televisión",
+            "It": "🇮🇹 Televisione",
+            "pt": "🇧🇷 Televisão",
+            "en": "🇺🇸 Television"
+        },
+        {
+            "es": "🇺🇾 Periódico",
+            "It": "🇮🇹 Giornale",
+            "pt": "🇧🇷 Jornal",
+            "en": "🇺🇸 Newspaper"
+        },
+        {
+            "es": "🇺🇾 Libro",
+            "It": "🇮🇹 Libro",
+            "pt": "🇧🇷 Livro",
+            "en": "🇺🇸 Book"
+        },
+        {
+            "es": "🇺🇾 Película",
+            "It": "🇮🇹 Film",
+            "pt": "🇧🇷 Filme",
+            "en": "🇺🇸 Movie"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Teatro",
+            "It": "🇮🇹 Teatro",
+            "pt": "🇧🇷 Teatro",
+            "en": "🇺🇸 Theater"
+        },
+        {
+            "es": "🇺🇾 Restaurante",
+            "It": "🇮🇹 Ristorante",
+            "pt": "🇧🇷 Restaurante",
+            "en": "🇺🇸 Restaurant"
+        },
+        {
+            "es": "🇺🇾 Café",
+            "It": "🇮🇹 Caffè",
+            "pt": "🇧🇷 Café",
+            "en": "🇺🇸 Coffee"
+        },
+        {
+            "es": "🇺🇾 Mercado",
+            "It": "🇮🇹 Mercato",
+            "pt": "🇧🇷 Mercado",
+            "en": "🇺🇸 Market"
+        },
+        {
+            "es": "🇺🇾 Hospital",
+            "It": "🇮🇹 Ospedale",
+            "pt": "🇧🇷 Hospital",
+            "en": "🇺🇸 Hospital"
+        },
+        {
+            "es": "🇺🇾 Escuela",
+            "It": "🇮🇹 Scuola",
+            "pt": "🇧🇷 Escola",
+            "en": "🇺🇸 School"
+        },
+        {
+            "es": "🇺🇾 Universidad",
+            "It": "🇮🇹 Università",
+            "pt": "🇧🇷 Universidade",
+            "en": "🇺🇸 University"
+        },
+        {
+            "es": "🇺🇾 Plaza",
+            "It": "🇮🇹 Piazza",
+            "pt": "🇧🇷 Praça",
+            "en": "🇺🇸 Square"
+        },
+        {
+            "es": "🇺🇾 Parque",
+            "It": "🇮🇹 Parco",
+            "pt": "🇧🇷 Parque",
+            "en": "🇺🇸 Park"
+        },
+        {
+            "es": "🇺🇾 Playa",
+            "It": "🇮🇹 Spiaggia",
+            "pt": "🇧🇷 Praia",
+            "en": "🇺🇸 Beach"
+        },
+        {
+            "es": "🇺🇾 Montaña",
+            "It": "🇮🇹 Montagna",
+            "pt": "🇧🇷 Montanha",
+            "en": "🇺🇸 Mountain"
+        },
+        {
+            "es": "🇺🇾 Río",
+            "It": "🇮🇹 Fiume",
+            "pt": "🇧🇷 Rio",
+            "en": "🇺🇸 River"
+        },
+        {
+            "es": "🇺🇾 Lago",
+            "It": "🇮🇹 Lago",
+            "pt": "🇧🇷 Lago",
+            "en": "🇺🇸 Lake"
+        },
+        {
+            "es": "🇺🇾 Ciudad",
+            "It": "🇮🇹 Città",
+            "pt": "🇧🇷 Cidade",
+            "en": "🇺🇸 City"
+        },
+        {
+            "es": "🇺🇾 País",
+            "It": "🇮🇹 Paese",
+            "pt": "🇧🇷 País",
+            "en": "🇺🇸 Country"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Tradición",
+            "It": "🇮🇹 Tradizione",
+            "pt": "🇧🇷 Tradição",
+            "en": "🇺🇸 Tradition"
+        },
+        {
+            "es": "🇺🇾 Fiesta",
+            "It": "🇮🇹 Festa",
+            "pt": "🇧🇷 Festa",
+            "en": "🇺🇸 Party"
+        },
+        {
+            "es": "🇺🇾 Celebración",
+            "It": "🇮🇹 Celebrazione",
+            "pt": "🇧🇷 Celebração",
+            "en": "🇺🇸 Celebration"
+        },
+        {
+            "es": "🇺🇾 Cena",
+            "It": "🇮🇹 Cena",
+            "pt": "🇧🇷 Jantar",
+            "en": "🇺🇸 Dinner"
+        },
+        {
+            "es": "🇺🇾 Comida",
+            "It": "🇮🇹 Cibo",
+            "pt": "🇧🇷 Comida",
+            "en": "🇺🇸 Food"
+        },
+        {
+            "es": "🇺🇾 Bebida",
+            "It": "🇮🇹 Bevanda",
+            "pt": "🇧🇷 Bebida",
+            "en": "🇺🇸 Drink"
+        },
+        {
+            "es": "🇺🇾 Vino",
+            "It": "🇮🇹 Vino",
+            "pt": "🇧🇷 Vinho",
+            "en": "🇺🇸 Wine"
+        },
+        {
+            "es": "🇺🇾 Cerveza",
+            "It": "🇮🇹 Birra",
+            "pt": "🇧🇷 Cerveja",
+            "en": "🇺🇸 Beer"
+        },
+        {
+            "es": "🇺🇾 Trabajo",
+            "It": "🇮🇹 Lavoro",
+            "pt": "🇧🇷 Trabalho",
+            "en": "🇺🇸 Work"
+        },
+        {
+            "es": "🇺🇾 Oficina",
+            "It": "🇮🇹 Ufficio",
+            "pt": "🇧🇷 Escritório",
+            "en": "🇺🇸 Office"
+        },
+        {
+            "es": "🇺🇾 Empleo",
+            "It": "🇮🇹 Impiego",
+            "pt": "🇧🇷 Emprego",
+            "en": "🇺🇸 Employment"
+        },
+        {
+            "es": "🇺🇾 Dinero",
+            "It": "🇮🇹 Denaro",
+            "pt": "🇧🇷 Dinheiro",
+            "en": "🇺🇸 Money"
+        },
+        {
+            "es": "🇺🇾 Economía",
+            "It": "🇮🇹 Economia",
+            "pt": "🇧🇷 Economia",
+            "en": "🇺🇸 Economy"
+        },
+        {
+            "es": "🇺🇾 Negocio",
+            "It": "🇮🇹 Affare",
+            "pt": "🇧🇷 Negócio",
+            "en": "🇺🇸 Business"
+        },
+        {
+            "es": "🇺🇾 Mercado",
+            "It": "🇮🇹 Mercato",
+            "pt": "🇧🇷 Mercado",
+            "en": "🇺🇸 Market"
+        },
+        {
+            "es": "🇺🇾 Comercio",
+            "It": "🇮🇹 Commercio",
+            "pt": "🇧🇷 Comércio",
+            "en": "🇺🇸 Trade"
+        },
+        {
+            "es": "🇺🇾 Tienda",
+            "It": "🇮🇹 Negozio",
+            "pt": "🇧🇷 Loja",
+            "en": "🇺🇸 Store"
+        },
+        {
+            "es": "🇺🇾 Compras",
+            "It": "🇮🇹 Acquisti",
+            "pt": "🇧🇷 Compras",
+            "en": "🇺🇸 Shopping"
+        },
+        {
+            "es": "🇺🇾 Producto",
+            "It": "🇮🇹 Prodotto",
+            "pt": "🇧🇷 Produto",
+            "en": "🇺🇸 Product"
+        },
+        {
+            "es": "🇺🇾 Cliente",
+            "It": "🇮🇹 Cliente",
+            "pt": "🇧🇷 Cliente",
+            "en": "🇺🇸 Customer"
+        },
+        {
+            "es": "🇺🇾 Servicio",
+            "It": "🇮🇹 Servizio",
+            "pt": "🇧🇷 Serviço",
+            "en": "🇺🇸 Service"
+        },
+        {
+            "es": "🇺🇾 Atención",
+            "It": "🇮🇹 Attenzione",
+            "pt": "🇧🇷 Atenção",
+            "en": "🇺🇸 Attention"
+        },
+        {
+            "es": "🇺🇾 Cliente",
+            "It": "🇮🇹 Cliente",
+            "pt": "🇧🇷 Cliente",
+            "en": "🇺🇸 Client"
+        },
+        {
+            "es": "🇺🇾 Cliente",
+            "It": "🇮🇹 Cliente",
+            "pt": "🇧🇷 Cliente",
+            "en": "🇺🇸 Client"
+        },
+        {
+            "es": "🇺🇾 Automóvil",
+            "It": "🇮🇹 Automobile",
+            "pt": "🇧🇷 Automóvel",
+            "en": "🇺🇸 Automobile"
+        },
+        {
+            "es": "🇺🇾 Avión",
+            "It": "🇮🇹 Aereo",
+            "pt": "🇧🇷 Avião",
+            "en": "🇺🇸 Airplane"
+        },
+        {
+            "es": "🇺🇾 Barco",
+            "It": "🇮🇹 Barca",
+            "pt": "🇧🇷 Barco",
+            "en": "🇺🇸 Boat"
+        },
+        {
+            "es": "🇺🇾 Computadora",
+            "It": "🇮🇹 Computer",
+            "pt": "🇧🇷 Computador",
+            "en": "🇺🇸 Computer"
+        },
+        {
+            "es": "🇺🇾 Dinero",
+            "It": "🇮🇹 Denaro",
+            "pt": "🇧🇷 Dinheiro",
+            "en": "🇺🇸 Money"
+        },
+        {
+            "es": "🇺🇾 Empleo",
+            "It": "🇮🇹 Impiego",
+            "pt": "🇧🇷 Emprego",
+            "en": "🇺🇸 Employment"
+        },
+        {
+            "es": "🇺🇾 Escuela",
+            "It": "🇮🇹 Scuola",
+            "pt": "🇧🇷 Escola",
+            "en": "🇺🇸 School"
+        },
+        {
+            "es": "🇺🇾 Hospital",
+            "It": "🇮🇹 Ospedale",
+            "pt": "🇧🇷 Hospital",
+            "en": "🇺🇸 Hospital"
+        },
+        {
+            "es": "🇺🇾 Internet",
+            "It": "🇮🇹 Internet",
+            "pt": "🇧🇷 Internet",
+            "en": "🇺🇸 Internet"
+        },
+        {
+            "es": "🇺🇾 Mercado",
+            "It": "🇮🇹 Mercato",
+            "pt": "🇧🇷 Mercado",
+            "en": "🇺🇸 Market"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Oficina",
+            "It": "🇮🇹 Ufficio",
+            "pt": "🇧🇷 Escritório",
+            "en": "🇺🇸 Office"
+        },
+        {
+            "es": "🇺🇾 Restaurante",
+            "It": "🇮🇹 Ristorante",
+            "pt": "🇧🇷 Restaurante",
+            "en": "🇺🇸 Restaurant"
+        },
+        {
+            "es": "🇺🇾 Televisión",
+            "It": "🇮🇹 Televisione",
+            "pt": "🇧🇷 Televisão",
+            "en": "🇺🇸 Television"
+        },
+        {
+            "es": "🇺🇾 Teléfono",
+            "It": "🇮🇹 Telefono",
+            "pt": "🇧🇷 Telefone",
+            "en": "🇺🇸 Telephone"
+        },
+        {
+            "es": "🇺🇾 Trabajo",
+            "It": "🇮🇹 Lavoro",
+            "pt": "🇧🇷 Trabalho",
+            "en": "🇺🇸 Work"
+        },
+        {
+            "es": "🇺🇾 Universidad",
+            "It": "🇮🇹 Università",
+            "pt": "🇧🇷 Universidade",
+            "en": "🇺🇸 University"
+        },
+        {
+            "es": "🇺🇾 Vino",
+            "It": "🇮🇹 Vino",
+            "pt": "🇧🇷 Vinho",
+            "en": "🇺🇸 Wine"
+        },
+        {
+            "es": "🇺🇾 Café",
+            "It": "🇮🇹 Caffè",
+            "pt": "🇧🇷 Café",
+            "en": "🇺🇸 Coffee"
+        },
+        {
+            "es": "🇺🇾 Teatro",
+            "It": "🇮🇹 Teatro",
+            "pt": "🇧🇷 Teatro",
+            "en": "🇺🇸 Theater"
+        },
+        {
+            "es": "🇺🇾 Playa",
+            "It": "🇮🇹 Spiaggia",
+            "pt": "🇧🇷 Praia",
+            "en": "🇺🇸 Beach"
+        },
+        {
+            "es": "🇺🇾 Parque",
+            "It": "🇮🇹 Parco",
+            "pt": "🇧🇷 Parque",
+            "en": "🇺🇸 Park"
+        },
+        {
+            "es": "🇺🇾 Plaza",
+            "It": "🇮🇹 Piazza",
+            "pt": "🇧🇷 Praça",
+            "en": "🇺🇸 Square"
+        },
+        {
+            "es": "🇺🇾 Montaña",
+            "It": "🇮🇹 Montagna",
+            "pt": "🇧🇷 Montanha",
+            "en": "🇺🇸 Mountain"
+        },
+        {
+            "es": "🇺🇾 Río",
+            "It": "🇮🇹 Fiume",
+            "pt": "🇧🇷 Rio",
+            "en": "🇺🇸 River"
+        },
+        {
+            "es": "🇺🇾 Lago",
+            "It": "🇮🇹 Lago",
+            "pt": "🇧🇷 Lago",
+            "en": "🇺🇸 Lake"
+        },
+        {
+            "es": "🇺🇾 Ciudad",
+            "It": "🇮🇹 Città",
+            "pt": "🇧🇷 Cidade",
+            "en": "🇺🇸 City"
+        },
+        {
+            "es": "🇺🇾 País",
+            "It": "🇮🇹 Paese",
+            "pt": "🇧🇷 País",
+            "en": "🇺🇸 Country"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Tradición",
+            "It": "🇮🇹 Tradizione",
+            "pt": "🇧🇷 Tradição",
+            "en": "🇺🇸 Tradition"
+        },
+        {
+            "es": "🇺🇾 Fiesta",
+            "It": "🇮🇹 Festa",
+            "pt": "🇧🇷 Festa",
+            "en": "🇺🇸 Party"
+        },
+        {
+            "es": "🇺🇾 Celebración",
+            "It": "🇮🇹 Celebrazione",
+            "pt": "🇧🇷 Celebração",
+            "en": "🇺🇸 Celebration"
+        },
+        {
+            "es": "🇺🇾 Cena",
+            "It": "🇮🇹 Cena",
+            "pt": "🇧🇷 Jantar",
+            "en": "🇺🇸 Dinner"
+        },
+        {
+            "es": "🇺🇾 Psicología",
+            "It": "🇮🇹 Psicologia",
+            "pt": "🇧🇷 Psicologia",
+            "en": "🇺🇸 Psychology"
+        },
+        {
+            "es": "🇺🇾 Filosofía",
+            "It": "🇮🇹 Filosofia",
+            "pt": "🇧🇷 Filosofia",
+            "en": "🇺🇸 Philosophy"
+        },
+        {
+            "es": "🇺🇾 Química",
+            "It": "🇮🇹 Chimica",
+            "pt": "🇧🇷 Química",
+            "en": "🇺🇸 Chemistry"
+        },
+        {
+            "es": "🇺🇾 Biología",
+            "It": "🇮🇹 Biologia",
+            "pt": "🇧🇷 Biologia",
+            "en": "🇺🇸 Biology"
+        },
+        {
+            "es": "🇺🇾 Física",
+            "It": "🇮🇹 Fisica",
+            "pt": "🇧🇷 Física",
+            "en": "🇺🇸 Physics"
+        },
+        {
+            "es": "🇺🇾 Matemáticas",
+            "It": "🇮🇹 Matematica",
+            "pt": "🇧🇷 Matemática",
+            "en": "🇺🇸 Mathematics"
+        },
+        {
+            "es": "🇺🇾 Literatura",
+            "It": "🇮🇹 Letteratura",
+            "pt": "🇧🇷 Literatura",
+            "en": "🇺🇸 Literature"
+        },
+        {
+            "es": "🇺🇾 Historia",
+            "It": "🇮🇹 Storia",
+            "pt": "🇧🇷 História",
+            "en": "🇺🇸 History"
+        },
+        {
+            "es": "🇺🇾 Geografía",
+            "It": "🇮🇹 Geografia",
+            "pt": "🇧🇷 Geografia",
+            "en": "🇺🇸 Geography"
+        },
+        {
+            "es": "🇺🇾 Arte",
+            "It": "🇮🇹 Arte",
+            "pt": "🇧🇷 Arte",
+            "en": "🇺🇸 Art"
+        },
+        {
+            "es": "🇺🇾 Música",
+            "It": "🇮🇹 Musica",
+            "pt": "🇧🇷 Música",
+            "en": "🇺🇸 Music"
+        },
+        {
+            "es": "🇺🇾 Religión",
+            "It": "🇮🇹 Religione",
+            "pt": "🇧🇷 Religião",
+            "en": "🇺🇸 Religion"
+        },
+        {
+            "es": "🇺🇾 Política",
+            "It": "🇮🇹 Politica",
+            "pt": "🇧🇷 Política",
+            "en": "🇺🇸 Politics"
+        },
+        {
+            "es": "🇺🇾 Economía",
+            "It": "🇮🇹 Economia",
+            "pt": "🇧🇷 Economia",
+            "en": "🇺🇸 Economy"
+        },
+        {
+            "es": "🇺🇾 Tecnología",
+            "It": "🇮🇹 Tecnologia",
+            "pt": "🇧🇷 Tecnologia",
+            "en": "🇺🇸 Technology"
+        },
+        {
+            "es": "🇺🇾 Ciencia",
+            "It": "🇮🇹 Scienza",
+            "pt": "🇧🇷 Ciência",
+            "en": "🇺🇸 Science"
+        },
+        {
+            "es": "🇺🇾 Medicina",
+            "It": "🇮🇹 Medicina",
+            "pt": "🇧🇷 Medicina",
+            "en": "🇺🇸 Medicine"
+        },
+        {
+            "es": "🇺🇾 Arquitectura",
+            "It": "🇮🇹 Architettura",
+            "pt": "🇧🇷 Arquitetura",
+            "en": "🇺🇸 Architecture"
+        },
+        {
+            "es": "🇺🇾 Ingeniería",
+            "It": "🇮🇹 Ingegneria",
+            "pt": "🇧🇷 Engenharia",
+            "en": "🇺🇸 Engineering"
+        },
+        {
+            "es": "🇺🇾 Derecho",
+            "It": "🇮🇹 Diritto",
+            "pt": "🇧🇷 Direito",
+            "en": "🇺🇸 Law"
+        },
+        {
+            "es": "🇺🇾 Comunicación",
+            "It": "🇮🇹 Comunicazione",
+            "pt": "🇧🇷 Comunicação",
+            "en": "🇺🇸 Communication"
+        },
+        {
+            "es": "🇺🇾 Idioma",
+            "It": "🇮🇹 Lingua",
+            "pt": "🇧🇷 Idioma",
+            "en": "🇺🇸 Language"
+        },
+        {
+            "es": "🇺🇾 Educación",
+            "It": "🇮🇹 Educazione",
+            "pt": "🇧🇷 Educação",
+            "en": "🇺🇸 Education"
+        },
+        {
+            "es": "🇺🇾 Cultura",
+            "It": "🇮🇹 Cultura",
+            "pt": "🇧🇷 Cultura",
+            "en": "🇺🇸 Culture"
+        },
+        {
+            "es": "🇺🇾 Desarrollo",
+            "It": "🇮🇹 Sviluppo",
+            "pt": "🇧🇷 Desenvolvimento",
+            "en": "🇺🇸 Development"
+        },
+        {
+            "es": "🇺🇾 Innovación",
+            "It": "🇮🇹 Innovazione",
+            "pt": "🇧🇷 Inovação",
+            "en": "🇺🇸 Innovation"
+        },
+        {
+            "es": "🇺🇾 Investigación",
+            "It": "🇮🇹 Ricerca",
+            "pt": "🇧🇷 Pesquisa",
+            "en": "🇺🇸 Research"
+        },
+        {
+            "es": "🇺🇾 Emprendimiento",
+            "It": "🇮🇹 Imprenditoria",
+            "pt": "🇧🇷 Empreendedorismo",
+            "en": "🇺🇸 Entrepreneurship"
+        },
+        {
+            "es": "🇺🇾 Globalización",
+            "It": "🇮🇹 Globalizzazione",
+            "pt": "🇧🇷 Globalização",
+            "en": "🇺🇸 Globalization"
+        },
+        {
+            "es": "🇺🇾 Sostenibilidad",
+            "It": "🇮🇹 Sostenibilità",
+            "pt": "🇧🇷 Sustentabilidade",
+            "en": "🇺🇸 Sustainability"
+        },
+        {
+            "es": "🇺🇾 Seguridad",
+            "It": "🇮🇹 Sicurezza",
+            "pt": "🇧🇷 Segurança",
+            "en": "🇺🇸 Security"
+        },
+        {
+            "es": "🇺🇾 Defensa",
+            "It": "🇮🇹 Difesa",
+            "pt": "🇧🇷 Defesa",
+            "en": "🇺🇸 Defense"
+        },
+        {
+            "es": "🇺🇾 Arte",
+            "It": "🇮🇹 Arte",
+            "pt": "🇧🇷 Arte",
+            "en": "🇺🇸 Art"
+        },
+        {
+            "es": "🇺🇾 Axioma",
+            "It": "🇮🇹 Assioma",
+            "pt": "🇧🇷 Axioma",
+            "en": "🇺🇸 Axiom"
+        },
+        {
+            "es": "🇺🇾 Teorema",
+            "It": "🇮🇹 Teorema",
+            "pt": "🇧🇷 Teorema",
+            "en": "🇺🇸 Theorem"
+        },
+        {
+            "es": "🇺🇾 Hipótesis",
+            "It": "🇮🇹 Ipotesti",
+            "pt": "🇧🇷 Hipótese",
+            "en": "🇺🇸 Hypothesis"
+        },
+        {
+            "es": "🇺🇾 Experimento",
+            "It": "🇮🇹 Esperimento",
+            "pt": "🇧🇷 Experimento",
+            "en": "🇺🇸 Experiment"
+        },
+        {
+            "es": "🇺🇾 Método",
+            "It": "🇮🇹 Metodo",
+            "pt": "🇧🇷 Método",
+            "en": "🇺🇸 Method"
+        },
+        {
+            "es": "🇺🇾 Análisis",
+            "It": "🇮🇹 Analisi",
+            "pt": "🇧🇷 Análise",
+            "en": "🇺🇸 Analysis"
+        },
+        {
+            "es": "🇺🇾 Investigación",
+            "It": "🇮🇹 Ricerca",
+            "pt": "🇧🇷 Pesquisa",
+            "en": "🇺🇸 Research"
+        },
+        {
+            "es": "🇺🇾 Publicación",
+            "It": "🇮🇹 Pubblicazione",
+            "pt": "🇧🇷 Publicação",
+            "en": "🇺🇸 Publication"
+        },
+        {
+            "es": "🇺🇾 Revisión",
+            "It": "🇮🇹 Revisione",
+            "pt": "🇧🇷 Revisão",
+            "en": "🇺🇸 Review"
+        },
+        {
+            "es": "🇺🇾 Conclusión",
+            "It": "🇮🇹 Conclusione",
+            "pt": "🇧🇷 Conclusão",
+            "en": "🇺🇸 Conclusion"
+        },
+        {
+            "es": "🇺🇾 Documento",
+            "It": "🇮🇹 Documento",
+            "pt": "🇧🇷 Documento",
+            "en": "🇺🇸 Document"
+        },
+        {
+            "es": "🇺🇾 Estudio",
+            "It": "🇮🇹 Studio",
+            "pt": "🇧🇷 Estudo",
+            "en": "🇺🇸 Study"
+        },
+        {
+            "es": "🇺🇾 Tesis",
+            "It": "🇮🇹 Tesi",
+            "pt": "🇧🇷 Tese",
+            "en": "🇺🇸 Thesis"
+        },
+        {
+            "es": "🇺🇾 Ensayo",
+            "It": "🇮🇹 Saggio",
+            "pt": "🇧🇷 Ensaio",
+            "en": "🇺🇸 Essay"
+        },
+        {
+            "es": "🇺🇾 Investigador",
+            "It": "🇮🇹 Ricercatore",
+            "pt": "🇧🇷 Pesquisador",
+            "en": "🇺🇸 Researcher"
+        },
+        {
+            "es": "🇺🇾 Academia",
+            "It": "🇮🇹 Accademia",
+            "pt": "🇧🇷 Academia",
+            "en": "🇺🇸 Academy"
+        },
+        {
+            "es": "🇺🇾 Profesor",
+            "It": "🇮🇹 Professore",
+            "pt": "🇧🇷 Professor",
+            "en": "🇺🇸 Professor"
+        },
+        {
+            "es": "🇺🇾 Conferencia",
+            "It": "🇮🇹 Conferenza",
+            "pt": "🇧🇷 Conferência",
+            "en": "🇺🇸 Conference"
+        },
+        {
+            "es": "🇺🇾 Seminario",
+            "It": "🇮🇹 Seminario",
+            "pt": "🇧🇷 Seminário",
+            "en": "🇺🇸 Seminar"
+        },
+        {
+            "es": "🇺🇾 Laboratorio",
+            "It": "🇮🇹 Laboratorio",
+            "pt": "🇧🇷 Laboratório",
+            "en": "🇺🇸 Laboratory"
+        },
+        {
+            "es": "🇺🇾 Profesional",
+            "It": "🇮🇹 Professionista",
+            "pt": "🇧🇷 Profissional",
+            "en": "🇺🇸 Professional"
+        },
+        {
+            "es": "🇺🇾 Colaboración",
+            "It": "🇮🇹 Collaborazione",
+            "pt": "🇧🇷 Colaboração",
+            "en": "🇺🇸 Collaboration"
+        },
+        {
+            "es": "🇺🇾 Investigación",
+            "It": "🇮🇹 Ricerca",
+            "pt": "🇧🇷 Pesquisa",
+            "en": "🇺🇸 Research"
+        },
+        {
+            "es": "🇺🇾 Profundidad",
+            "It": "🇮🇹 Profondità",
+            "pt": "🇧🇷 Profundidade",
+            "en": "🇺🇸 Depth"
+        },
+        {
+            "es": "🇺🇾 Experiencia",
+            "It": "🇮🇹 Esperienza",
+            "pt": "🇧🇷 Experiência",
+            "en": "🇺🇸 Experience"
+        },
+        {
+            "es": "🇺🇾 Abstracción",
+            "It": "🇮🇹 Astrazione",
+            "pt": "🇧🇷 Abstração",
+            "en": "🇺🇸 Abstraction"
+        },
+        {
+            "es": "🇺🇾 Innovación",
+            "It": "🇮🇹 Innovazione",
+            "pt": "🇧🇷 Inovação",
+            "en": "🇺🇸 Innovation"
+        },
+        {
+            "es": "🇺🇾 Procedimiento",
+            "It": "🇮🇹 Procedura",
+            "pt": "🇧🇷 Procedimento",
+            "en": "🇺🇸 Procedure"
+        },
+        {
+            "es": "🇺🇾 Evidencia",
+            "It": "🇮🇹 Evidenza",
+            "pt": "🇧🇷 Evidência",
+            "en": "🇺🇸 Evidence"
+        },
+        {
+            "es": "🇺🇾 Publicación",
+            "It": "🇮🇹 Pubblicazione",
+            "pt": "🇧🇷 Publicação",
+            "en": "🇺🇸 Publication"
+        },
+        {
+            "es": "🇺🇾 Ciencia",
+            "It": "🇮🇹 Scienza",
+            "pt": "🇧🇷 Ciência",
+            "en": "🇺🇸 Science"
+        },
+        {
+            "es": "🇺🇾 Innovación",
+            "It": "🇮🇹 Innovazione",
+            "pt": "🇧🇷 Inovação",
+            "en": "🇺🇸 Innovation"
+        },
+        {
+            "es": "🇺🇾 Problema",
+            "It": "🇮🇹 Problema",
+            "pt": "🇧🇷 Problema",
+            "en": "🇺🇸 Problem"
+        },
+        {
+            "es": "🇺🇾 Psicología",
+            "It": "🇮🇹 Psicologia",
+            "pt": "🇧🇷 Psicologia",
+            "en": "🇺🇸 Psychology"
+        },
+        {
+            "es": "🇺🇾 Neurociencia",
+            "It": "🇮🇹 Neuroscienza",
+            "pt": "🇧🇷 Neurociência",
+            "en": "🇺🇸 Neuroscience"
+        },
+        {
+            "es": "🇺🇾 Salud mental",
+            "It": "🇮🇹 Salute mentale",
+            "pt": "🇧🇷 Saúde mental",
+            "en": "🇺🇸 Mental health"
+        },
+        {
+            "es": "🇺🇾 Desarrollo personal",
+            "It": "🇮🇹 Sviluppo personale",
+            "pt": "🇧🇷 Desenvolvimento pessoal",
+            "en": "🇺🇸 Personal development"
+        },
+        {
+            "es": "🇺🇾 Espiritualidad",
+            "It": "🇮🇹 Spiritualità",
+            "pt": "🇧🇷 Espiritualidade",
+            "en": "🇺🇸 Spirituality"
+        },
+        {
+            "es": "🇺🇾 Cognición",
+            "It": "🇮🇹 Cognizione",
+            "pt": "🇧🇷 Cognição",
+            "en": "🇺🇸 Cognition"
+        },
+        {
+            "es": "🇺🇾 Emoción",
+            "It": "🇮🇹 Emozione",
+            "pt": "🇧🇷 Emoção",
+            "en": "🇺🇸 Emotion"
+        },
+        {
+            "es": "🇺🇾 Terapia",
+            "It": "🇮🇹 Terapia",
+            "pt": "🇧🇷 Terapia",
+            "en": "🇺🇸 Therapy"
+        },
+        {
+            "es": "🇺🇾 Autoestima",
+            "It": "🇮🇹 Autostima",
+            "pt": "🇧🇷 Autoestima",
+            "en": "🇺🇸 Self-esteem"
+        },
+        {
+            "es": "🇺🇾 Mindfulness",
+            "It": "🇮🇹 Mindfulness",
+            "pt": "🇧🇷 Mindfulness",
+            "en": "🇺🇸 Mindfulness"
+        },
+        {
+            "es": "🇺🇾 Ansiedad",
+            "It": "🇮🇹 Ansia",
+            "pt": "🇧🇷 Ansiedade",
+            "en": "🇺🇸 Anxiety"
+        },
+        {
+            "es": "🇺🇾 Depresión",
+            "It": "🇮🇹 Depressione",
+            "pt": "🇧🇷 Depressão",
+            "en": "🇺🇸 Depression"
+        },
+        {
+            "es": "🇺🇾 Estrés",
+            "It": "🇮🇹 Stress",
+            "pt": "🇧🇷 Estresse",
+            "en": "🇺🇸 Stress"
+        },
+        {
+            "es": "🇺🇾 Resiliencia",
+            "It": "🇮🇹 Resilienza",
+            "pt": "🇧🇷 Resiliência",
+            "en": "🇺🇸 Resilience"
+        },
+        {
+            "es": "🇺🇾 Psicoterapia",
+            "It": "🇮🇹 Psicoterapia",
+            "pt": "🇧🇷 Psicoterapia",
+            "en": "🇺🇸 Psychotherapy"
+        },
+        {
+            "es": "🇺🇾 Inteligencia emocional",
+            "It": "🇮🇹 Intelligenza emotiva",
+            "pt": "🇧🇷 Inteligência emocional",
+            "en": "🇺🇸 Emotional intelligence"
+        },
+        {
+            "es": "🇺🇾 Autocompasión",
+            "It": "🇮🇹 Autocommiserazione",
+            "pt": "🇧🇷 Autocompaixão",
+            "en": "🇺🇸 Self-compassion"
+        },
+        {
+            "es": "🇺🇾 Bienestar",
+            "It": "🇮🇹 Benessere",
+            "pt": "🇧🇷 Bem-estar",
+            "en": "🇺🇸 Well-being"
+        },
+        {
+            "es": "🇺🇾 Psicoanálisis",
+            "It": "🇮🇹 Psicoanalisi",
+            "pt": "🇧🇷 Psicanálise",
+            "en": "🇺🇸 Psychoanalysis"
+        },
+        {
+            "es": "🇺🇾 Neuroplasticidad",
+            "It": "🇮🇹 Neuroplasticità",
+            "pt": "🇧🇷 Neuroplasticidade",
+            "en": "🇺🇸 Neuroplasticity"
+        },
+        {
+            "es": "🇺🇾 Empatía",
+            "It": "🇮🇹 Empatia",
+            "pt": "🇧🇷 Empatia",
+            "en": "🇺🇸 Empathy"
+        },
+        {
+            "es": "🇺🇾 Motivación",
+            "It": "🇮🇹 Motivazione",
+            "pt": "🇧🇷 Motivação",
+            "en": "🇺🇸 Motivation"
+        },
+        {
+            "es": "🇺🇾 Conciencia",
+            "It": "🇮🇹 Coscienza",
+            "pt": "🇧🇷 Consciência",
+            "en": "🇺🇸 Awareness"
+        },
+        {
+            "es": "🇺🇾 Mindset",
+            "It": "🇮🇹 Mindset",
+            "pt": "🇧🇷 Mindset",
+            "en": "🇺🇸 Mindset"
+        },
+        {
+            "es": "🇺🇾 Relajación",
+            "It": "🇮🇹 Rilassamento",
+            "pt": "🇧🇷 Relaxamento",
+            "en": "🇺🇸 Relaxation"
+        },
+        {
+            "es": "🇺🇾 Meditación",
+            "It": "🇮🇹 Meditazione",
+            "pt": "🇧🇷 Meditação",
+            "en": "🇺🇸 Meditation"
+        },
+        {
+            "es": "🇺🇾 Espacio personal",
+            "It": "🇮🇹 Spazio personale",
+            "pt": "🇧🇷 Espaço pessoal",
+            "en": "🇺🇸 Personal space"
+        },
+        {
+            "es": "🇺🇾 Conexión emocional",
+            "It": "🇮🇹 Connessione emotiva",
+            "pt": "🇧🇷 Conexão emocional",
+            "en": "🇺🇸 Emotional connection"
+        },
+        {
+            "es": "🇺🇾 Autoconocimiento",
+            "It": "🇮🇹 Autoconoscenza",
+            "pt": "🇧🇷 Autoconhecimento",
+            "en": "🇺🇸 Self-awareness"
+        },
+        {
+            "es": "🇺🇾 Autoaceptación",
+            "It": "🇮🇹 Autoaccettazione",
+            "pt": "🇧🇷 Autoaceitação",
+            "en": "🇺🇸 Self-acceptance"
+        },
+        {
+            "es": "🇺🇾 Coaching",
+            "It": "🇮🇹 Coaching",
+            "pt": "🇧🇷 Coaching",
+            "en": "🇺🇸 Coaching"
+        },
+        {
+            "es": "🇺🇾 Terapia cognitiva",
+            "It": "🇮🇹 Terapia cognitiva",
+            "pt": "🇧🇷 Terapia cognitiva",
+            "en": "🇺🇸 Cognitive therapy"
+        },
+        {
+            "es": "🇺🇾 Neurología",
+            "It": "🇮🇹 Neurologia",
+            "pt": "🇧🇷 Neurologia",
+            "en": "🇺🇸 Neurology"
+        },
+        {
+            "es": "🇺🇾 Psiquiatría",
+            "It": "🇮🇹 Psichiatria",
+            "pt": "🇧🇷 Psiquiatria",
+            "en": "🇺🇸 Psychiatry"
+        },
+        {
+            "es": "🇺🇾 Consciencia plena",
+            "It": "🇮🇹 Consapevolezza piena",
+            "pt": "🇧🇷 Consciência plena",
+            "en": "🇺🇸 Full awareness"
+        },
+        {
+            "es": "🇺🇾 Terapia gestalt",
+            "It": "🇮🇹 Terapia gestalt",
+            "pt": "🇧🇷 Terapia gestáltica",
+            "en": "🇺🇸 Gestalt therapy"
+        },
+        {
+            "es": "🇺🇾 Psicología positiva",
+            "It": "🇮🇹 Psicologia positiva",
+            "pt": "🇧🇷 Psicologia positiva",
+            "en": "🇺🇸 Positive psychology"
+        },
+        {
+            "es": "🇺🇾 Teoría del apego",
+            "It": "🇮🇹 Teoria dell'attaccamento",
+            "pt": "🇧🇷 Teoria do apego",
+            "en": "🇺🇸 Attachment theory"
+        },
+        {
+            "es": "🇺🇾 Resolución de conflictos",
+            "It": "🇮🇹 Risoluzione dei conflitti",
+            "pt": "🇧🇷 Resolução de conflitos",
+            "en": "🇺🇸 Conflict resolution"
+        },
+        {
+            "es": "🇺🇾 Coaching personal",
+            "It": "🇮🇹 Coaching personale",
+            "pt": "🇧🇷 Coaching pessoal",
+            "en": "🇺🇸 Personal coaching"
+        },
+        {
+            "es": "🇺🇾 Regulación emocional",
+            "It": "🇮🇹 Regolazione emotiva",
+            "pt": "🇧🇷 Regulação emocional",
+            "en": "🇺🇸 Emotional regulation"
+        },
+        {
+            "es": "🇺🇾 Neurociencia cognitiva",
+            "It": "🇮🇹 Neuroscienza cognitiva",
+            "pt": "🇧🇷 Neurociência cognitiva",
+            "en": "🇺🇸 Cognitive neuroscience"
+        },
+        {
+            "es": "🇺🇾 Resiliencia emocional",
+            "It": "🇮🇹 Resilienza emotiva",
+            "pt": "🇧🇷 Resiliência emocional",
+            "en": "🇺🇸 Emotional resilience"
+        },
+        {
+            "es": "🇺🇾 Psicoterapia de grupo",
+            "It": "🇮🇹 Psicoterapia di gruppo",
+            "pt": "🇧🇷 Psicoterapia em grupo",
+            "en": "🇺🇸 Group therapy"
+        },
+        {
+            "es": "🇺🇾 Terapia de pareja",
+            "It": "🇮🇹 Terapia di coppia",
+            "pt": "🇧🇷 Terapia de casal",
+            "en": "🇺🇸 Couples therapy"
+        },
+        {
+            "es": "🇺🇾 Inteligencia emocional",
+            "It": "🇮🇹 Intelligenza emotiva",
+            "pt": "🇧🇷 Inteligência emocional",
+            "en": "🇺🇸 Emotional intelligence"
+        },
+        {
+            "es": "🇺🇾 Psicoanálisis",
+            "It": "🇮🇹 Psicoanalisi",
+            "pt": "🇧🇷 Psicanálise",
+            "en": "🇺🇸 Psychoanalysis"
+        },
+        {
+            "es": "🇺🇾 Mindfulness",
+            "It": "🇮🇹 Mindfulness",
+            "pt": "🇧🇷 Mindfulness",
+            "en": "🇺🇸 Mindfulness"
+        },
+        {
+            "es": "🇺🇾 Terapia familiar",
+            "It": "🇮🇹 Terapia familiare",
+            "pt": "🇧🇷 Terapia familiar",
+            "en": "🇺🇸 Family therapy"
+        },
+        {
+            "es": "🇺🇾 Psicología evolutiva",
+            "It": "🇮🇹 Psicologia evolutiva",
+            "pt": "🇧🇷 Psicologia evolutiva",
+            "en": "🇺🇸 Developmental psychology"
+        },
+        {
+            "es": "🇺🇾 Psicopatología",
+            "It": "🇮🇹 Psicopatologia",
+            "pt": "🇧🇷 Psicopatologia",
+            "en": "🇺🇸 Psychopathology"
+        },
+        {
+            "es": "🇺🇾 Terapia conductual",
+            "It": "🇮🇹 Terapia comportamentale",
+            "pt": "🇧🇷 Terapia comportamental",
+            "en": "🇺🇸 Behavioral therapy"
+        },
+        {
+            "es": "🇺🇾 Trastorno mental",
+            "It": "🇮🇹 Disturbo mentale",
+            "pt": "🇧🇷 Transtorno mental",
+            "en": "🇺🇸 Mental disorder"
+        },
+        {
+            "es": "🇺🇾 Psicoterapia individual",
+            "It": "🇮🇹 Psicoterapia individuale",
+            "pt": "🇧🇷 Psicoterapia individual",
+            "en": "🇺🇸 Individual therapy"
+        },
+        {
+            "es": "🇺🇾 Tratamiento psicológico",
+            "It": "🇮🇹 Trattamento psicologico",
+            "pt": "🇧🇷 Tratamento psicológico",
+            "en": "🇺🇸 Psychological treatment"
+        },
+        {
+            "es": "🇺🇾 Programación",
+            "It": "🇮🇹 Programmazione",
+            "pt": "🇧🇷 Programação",
+            "en": "🇺🇸 Programming"
+        },
+        {
+            "es": "🇺🇾 Desarrollo web",
+            "It": "🇮🇹 Sviluppo web",
+            "pt": "🇧🇷 Desenvolvimento web",
+            "en": "🇺🇸 Web development"
+        },
+        {
+            "es": "🇺🇾 Inteligencia artificial",
+            "It": "🇮🇹 Intelligenza artificiale",
+            "pt": "🇧🇷 Inteligência artificial",
+            "en": "🇺🇸 Artificial intelligence"
+        },
+        {
+            "es": "🇺🇾 Ciberseguridad",
+            "It": "🇮🇹 Sicurezza informatica",
+            "pt": "🇧🇷 Segurança cibernética",
+            "en": "🇺🇸 Cybersecurity"
+        },
+        {
+            "es": "🇺🇾 Base de datos",
+            "It": "🇮🇹 Base di dati",
+            "pt": "🇧🇷 Banco de dados",
+            "en": "🇺🇸 Database"
+        },
+        {
+            "es": "🇺🇾 Computación en la nube",
+            "It": "🇮🇹 Cloud computing",
+            "pt": "🇧🇷 Computação em nuvem",
+            "en": "🇺🇸 Cloud computing"
+        },
+        {
+            "es": "🇺🇾 Desarrollo de software",
+            "It": "🇮🇹 Sviluppo software",
+            "pt": "🇧🇷 Desenvolvimento de software",
+            "en": "🇺🇸 Software development"
+        },
+        {
+            "es": "🇺🇾 Redes sociales",
+            "It": "🇮🇹 Social network",
+            "pt": "🇧🇷 Redes sociais",
+            "en": "🇺🇸 Social media"
+        },
+        {
+            "es": "🇺🇾 Big data",
+            "It": "🇮🇹 Big data",
+            "pt": "🇧🇷 Big data",
+            "en": "🇺🇸 Big data"
+        },
+        {
+            "es": "🇺🇾 Internet de las cosas (IoT)",
+            "It": "🇮🇹 Internet delle cose (IoT)",
+            "pt": "🇧🇷 Internet das coisas (IoT)",
+            "en": "🇺🇸 Internet of Things (IoT)"
+        },
+        {
+            "es": "🇺🇾 Algoritmo",
+            "It": "🇮🇹 Algoritmo",
+            "pt": "🇧🇷 Algoritmo",
+            "en": "🇺🇸 Algorithm"
+        },
+        {
+            "es": "🇺🇾 Ingeniería de software",
+            "It": "🇮🇹 Ingegneria del software",
+            "pt": "🇧🇷 Engenharia de software",
+            "en": "🇺🇸 Software engineering"
+        },
+        {
+            "es": "🇺🇾 Seguridad informática",
+            "It": "🇮🇹 Sicurezza informatica",
+            "pt": "🇧🇷 Segurança informática",
+            "en": "🇺🇸 Computer security"
+        },
+        {
+            "es": "🇺🇾 Desarrollo móvil",
+            "It": "🇮🇹 Sviluppo mobile",
+            "pt": "🇧🇷 Desenvolvimento móvel",
+            "en": "🇺🇸 Mobile development"
+        },
+        {
+            "es": "🇺🇾 Ingeniería de datos",
+            "It": "🇮🇹 Ingegneria dei dati",
+            "pt": "🇧🇷 Engenharia de dados",
+            "en": "🇺🇸 Data engineering"
+        },
+        {
+            "es": "🇺🇾 Redes de computadoras",
+            "It": "🇮🇹 Reti di computer",
+            "pt": "🇧🇷 Redes de computadores",
+            "en": "🇺🇸 Computer networks"
+        },
+        {
+            "es": "🇺🇾 Programación orientada a objetos",
+            "It": "🇮🇹 Programmazione ad oggetti",
+            "pt": "🇧🇷 Programação orientada a objetos",
+            "en": "🇺🇸 Object-oriented programming"
+        },
+        {
+            "es": "🇺🇾 Desarrollo ágil",
+            "It": "🇮🇹 Sviluppo agile",
+            "pt": "🇧🇷 Desenvolvimento ágil",
+            "en": "🇺🇸 Agile development"
+        },
+        {
+            "es": "🇺🇾 Ingeniería de sistemas",
+            "It": "🇮🇹 Ingegneria dei sistemi",
+            "pt": "🇧🇷 Engenharia de sistemas",
+            "en": "🇺🇸 Systems engineering"
+        },
+        {
+            "es": "🇺🇾 Desarrollo de aplicaciones",
+            "It": "🇮🇹 Sviluppo di applicazioni",
+            "pt": "🇧🇷 Desenvolvimento de aplicações",
+            "en": "🇺🇸 Application development"
+        },
+        {
+            "es": "🇺🇾 Cincuenta",
+            "It": "🇮🇹 Cinquanta",
+            "pt": "🇧🇷 Cinquenta",
+            "en": "🇺🇸 Fifty"
+        },
+        {
+            "es": "🇺🇾 Setenta y cinco",
+            "It": "🇮🇹 Settantacinque",
+            "pt": "🇧🇷 Setenta e cinco",
+            "en": "🇺🇸 Seventy-five"
+        },
+        {
+            "es": "🇺🇾 Ciento veinte",
+            "It": "🇮🇹 Cento venti",
+            "pt": "🇧🇷 Cento e vinte",
+            "en": "🇺🇸 One hundred twenty"
+        },
+        {
+            "es": "🇺🇾 Doscientos",
+            "It": "🇮🇹 Duecento",
+            "pt": "🇧🇷 Duzentos",
+            "en": "🇺🇸 Two hundred"
+        },
+        {
+            "es": "🇺🇾 Mil",
+            "It": "🇮🇹 Mille",
+            "pt": "🇧🇷 Mil",
+            "en": "🇺🇸 Thousand"
+        },
+        {
+            "es": "🇺🇾 Un millón",
+            "It": "🇮🇹 Un milione",
+            "pt": "🇧🇷 Um milhão",
+            "en": "🇺🇸 One million"
+        },
+        {
+            "es": "🇺🇾 Setecientos cincuenta y nueve",
+            "It": "🇮🇹 Settecentocinquantanove",
+            "pt": "🇧🇷 Setecentos e cinquenta e nove",
+            "en": "🇺🇸 Seven hundred fifty-nine"
+        },
+        {
+            "es": "🇺🇾 Mil doscientos treinta y cuatro",
+            "It": "🇮🇹 Milleduecentotrentaquattro",
+            "pt": "🇧🇷 Mil duzentos e trinta e quatro",
+            "en": "🇺🇸 One thousand two hundred thirty-four"
+        },
+        {
+            "es": "🇺🇾 Quinientos mil",
+            "It": "🇮🇹 Cinquecentomila",
+            "pt": "🇧🇷 Quinhentos mil",
+            "en": "🇺🇸 Five hundred thousand"
+        },
+        {
+            "es": "🇺🇾 Dos millones",
+            "It": "🇮🇹 Due milioni",
+            "pt": "🇧🇷 Dois milhões",
+            "en": "🇺🇸 Two million"
+        },
+        {
+            "es": "🇺🇾 Un billón",
+            "It": "🇮🇹 Un bilione",
+            "pt": "🇧🇷 Um bilhão",
+            "en": "🇺🇸 One billion"
+        },
+        {
+            "es": "🇺🇾 Ochocientos mil quinientos veinticuatro millones",
+            "It": "🇮🇹 Ottocentocinquantaduemilioni",
+            "pt": "🇧🇷 Oitocentos mil quinhentos e vinte e quatro milhões",
+            "en": "🇺🇸 Eight hundred fifty-two million"
+        },
+        {
+            "es": "🇺🇾 Dos billones setecientos treinta y cuatro mil quinientos millones",
+            "It": "🇮🇹 Due miliardi settecentotrentaquattromilamila",
+            "pt": "🇧🇷 Dois trilhões setecentos e trinta e quatro bilhões e quinhentos milhões",
+            "en": "🇺🇸 Two trillion seven hundred thirty-four billion five hundred million"
+        },
+        {
+            "es": "🇺🇾 Diez mil millones",
+            "It": "🇮🇹 Dieci miliardi",
+            "pt": "🇧🇷 Dez bilhões",
+            "en": "🇺🇸 Ten billion"
+        },
+        {
+            "es": "🇺🇾 Quince trillones",
+            "It": "🇮🇹 Quindici trilioni",
+            "pt": "🇧🇷 Quinze trilhões",
+            "en": "🇺🇸 Fifteen trillion"
+        },
+        {
+            "es": "🇺🇾 Nove cuatrillones",
+            "It": "🇮🇹 Nove quadrilioni",
+            "pt": "🇧🇷 Nove quatrilhões",
+            "en": "🇺🇸 Nine quadrillion"
+        },
+        {
+            "es": "🇺🇾 Cero",
+            "It": "🇮🇹 Zero",
+            "pt": "🇧🇷 Zero",
+            "en": "🇺🇸 Zero"
+        },
+        {
+            "es": "🇺🇾 Uno",
+            "It": "🇮🇹 Uno",
+            "pt": "🇧🇷 Um",
+            "en": "🇺🇸 One"
+        },
+        {
+            "es": "🇺🇾 Diez",
+            "It": "🇮🇹 Dieci",
+            "pt": "🇧🇷 Dez",
+            "en": "🇺🇸 Ten"
+        },
+        {
+            "es": "🇺🇾 Veinte",
+            "It": "🇮🇹 Venti",
+            "pt": "🇧🇷 Vinte",
+            "en": "🇺🇸 Twenty"
+        },
+        {
+            "es": "🇺🇾 Treinta",
+            "It": "🇮🇹 Trenta",
+            "pt": "🇧🇷 Trinta",
+            "en": "🇺🇸 Thirty"
+        },
+        {
+            "es": "🇺🇾 Cincuenta",
+            "It": "🇮🇹 Cinquanta",
+            "pt": "🇧🇷 Cinquenta",
+            "en": "🇺🇸 Fifty"
+        },
+        {
+            "es": "🇺🇾 Cien",
+            "It": "🇮🇹 Cento",
+            "pt": "🇧🇷 Cem",
+            "en": "🇺🇸 One hundred"
+        },
+        {
+            "es": "🇺🇾 Cuarenta y cinco",
+            "It": "🇮🇹 Quarantacinque",
+            "pt": "🇧🇷 Quarenta e cinco",
+            "en": "🇺🇸 Forty-five"
+        },
+        {
+            "es": "🇺🇾 Setenta",
+            "It": "🇮🇹 Settanta",
+            "pt": "🇧🇷 Setenta",
+            "en": "🇺🇸 Seventy"
+        },
+        {
+            "es": "🇺🇾 Noventa y nueve",
+            "It": "🇮🇹 Novantanove",
+            "pt": "🇧🇷 Noventa e nove",
+            "en": "🇺🇸 Ninety-nine"
+        },
+        {
+            "es": "🇺🇾 Ciento veinte",
+            "It": "🇮🇹 Cento venti",
+            "pt": "🇧🇷 Cento e vinte",
+            "en": "🇺🇸 One hundred twenty"
+        },
+        {
+            "es": "🇺🇾 Dos mil quinientos",
+            "It": "🇮🇹 Duemilacinquecento",
+            "pt": "🇧🇷 Dois mil e quinhentos",
+            "en": "🇺🇸 Two thousand five hundred"
+        },
+        {
+            "es": "🇺🇾 Diez mil",
+            "It": "🇮🇹 Diecimila",
+            "pt": "🇧🇷 Dez mil",
+            "en": "🇺🇸 Ten thousand"
+        },
+        {
+            "es": "🇺🇾 Cincuenta mil",
+            "It": "🇮🇹 Cinquantamila",
+            "pt": "🇧🇷 Cinquenta mil",
+            "en": "🇺🇸 Fifty thousand"
+        },
+        {
+            "es": "🇺🇾 Cien mil",
+            "It": "🇮🇹 Centomila",
+            "pt": "🇧🇷 Cem mil",
+            "en": "🇺🇸 One hundred thousand"
+        },
+        {
+            "es": "🇺🇾 Rojo",
+            "It": "🇮🇹 Rosso",
+            "pt": "🇧🇷 Vermelho",
+            "en": "🇺🇸 Red"
+        },
+        {
+            "es": "🇺🇾 Azul",
+            "It": "🇮🇹 Blu",
+            "pt": "🇧🇷 Azul",
+            "en": "🇺🇸 Blue"
+        },
+        {
+            "es": "🇺🇾 Verde",
+            "It": "🇮🇹 Verde",
+            "pt": "🇧🇷 Verde",
+            "en": "🇺🇸 Green"
+        },
+        {
+            "es": "🇺🇾 Amarillo",
+            "It": "🇮🇹 Giallo",
+            "pt": "🇧🇷 Amarelo",
+            "en": "🇺🇸 Yellow"
+        },
+        {
+            "es": "🇺🇾 Blanco",
+            "It": "🇮🇹 Bianco",
+            "pt": "🇧🇷 Branco",
+            "en": "🇺🇸 White"
+        },
+        {
+            "es": "🇺🇾 Negro",
+            "It": "🇮🇹 Nero",
+            "pt": "🇧🇷 Preto",
+            "en": "🇺🇸 Black"
+        },
+        {
+            "es": "🇺🇾 Marrón",
+            "It": "🇮🇹 Marrone",
+            "pt": "🇧🇷 Marrom",
+            "en": "🇺🇸 Brown"
+        },
+        {
+            "es": "🇺🇾 Violeta",
+            "It": "🇮🇹 Viola",
+            "pt": "🇧🇷 Violeta",
+            "en": "🇺🇸 Purple"
+        },
+        {
+            "es": "🇺🇾 Naranja",
+            "It": "🇮🇹 Arancione",
+            "pt": "🇧🇷 Laranja",
+            "en": "🇺🇸 Orange"
+        },
+        {
+            "es": "🇺🇾 Gris",
+            "It": "🇮🇹 Grigio",
+            "pt": "🇧🇷 Cinza",
+            "en": "🇺🇸 Gray"
+        },
+        {
+            "es": "🇺🇾 Turquesa",
+            "It": "🇮🇹 Turchese",
+            "pt": "🇧🇷 Turquesa",
+            "en": "🇺🇸 Turquoise"
+        },
+        {
+            "es": "🇺🇾 Índigo",
+            "It": "🇮🇹 Indaco",
+            "pt": "🇧🇷 Índigo",
+            "en": "🇺🇸 Indigo"
+        },
+        {
+            "es": "🇺🇾 Magenta",
+            "It": "🇮🇹 Magenta",
+            "pt": "🇧🇷 Magenta",
+            "en": "🇺🇸 Magenta"
+        },
+        {
+            "es": "🇺🇾 Coral",
+            "It": "🇮🇹 Corallo",
+            "pt": "🇧🇷 Coral",
+            "en": "🇺🇸 Coral"
+        },
+        {
+            "es": "🇺🇾 Beige",
+            "It": "🇮🇹 Beige",
+            "pt": "🇧🇷 Bege",
+            "en": "🇺🇸 Beige"
+        },
+        {
+            "es": "🇺🇾 Rosa",
+            "It": "🇮🇹 Rosa",
+            "pt": "🇧🇷 Rosa",
+            "en": "🇺🇸 Pink"
+        },
+        {
+            "es": "🇺🇾 Morado",
+            "It": "🇮🇹 Porpora",
+            "pt": "🇧🇷 Roxo",
+            "en": "🇺🇸 Purple"
+        },
+        {
+            "es": "🇺🇾 Celeste",
+            "It": "🇮🇹 Celeste",
+            "pt": "🇧🇷 Celeste",
+            "en": "🇺🇸 Sky blue"
+        },
+        {
+            "es": "🇺🇾 Verde limón",
+            "It": "🇮🇹 Verde limone",
+            "pt": "🇧🇷 Verde limão",
+            "en": "🇺🇸 Lime green"
+        },
+        {
+            "es": "🇺🇾 Turquesa",
+            "It": "🇮🇹 Turchese",
+            "pt": "🇧🇷 Turquesa",
+            "en": "🇺🇸 Turquoise"
+        },
+        {
+            "es": "🇺🇾 Oro",
+            "It": "🇮🇹 Oro",
+            "pt": "🇧🇷 Ouro",
+            "en": "🇺🇸 Gold"
+        },
+        {
+            "es": "🇺🇾 Plata",
+            "It": "🇮🇹 Argento",
+            "pt": "🇧🇷 Prata",
+            "en": "🇺🇸 Silver"
+        },
+        {
+            "es": "🇺🇾 Caoba",
+            "It": "🇮🇹 Mogano",
+            "pt": "🇧🇷 Mogno",
+            "en": "🇺🇸 Mahogany"
+        },
+        {
+            "es": "🇺🇾 Ámbar",
+            "It": "🇮🇹 Ambra",
+            "pt": "🇧🇷 Âmbar",
+            "en": "🇺🇸 Amber"
+        },
+        {
+            "es": "🇺🇾 Coral",
+            "It": "🇮🇹 Corallo",
+            "pt": "🇧🇷 Coral",
+            "en": "🇺🇸 Coral"
+        },
+        {
+            "es": "🇺🇾 Esmeralda",
+            "It": "🇮🇹 Smeraldo",
+            "pt": "🇧🇷 Esmeralda",
+            "en": "🇺🇸 Emerald"
+        },
+        {
+            "es": "🇺🇾 Índigo",
+            "It": "🇮🇹 Indaco",
+            "pt": "🇧🇷 Índigo",
+            "en": "🇺🇸 Indigo"
+        },
+        {
+            "es": "🇺🇾 Lavanda",
+            "It": "🇮🇹 Lavanda",
+            "pt": "🇧🇷 Lavanda",
+            "en": "🇺🇸 Lavender"
+        },
+        {
+            "es": "🇺🇾 Zafiro",
+            "It": "🇮🇹 Zaffiro",
+            "pt": "🇧🇷 Safira",
+            "en": "🇺🇸 Sapphire"
+        },
+        {
+            "es": "🇺🇾 Platino",
+            "It": "🇮🇹 Platino",
+            "pt": "🇧🇷 Platina",
+            "en": "🇺🇸 Platinum"
+        },
+        {
+            "es": "🇺🇾 Aguamarina",
+            "It": "🇮🇹 Acquamarina",
+            "pt": "🇧🇷 Água-marinha",
+            "en": "🇺🇸 Aquamarine"
+        },
+        {
+            "es": "🇺🇾 Caqui",
+            "It": "🇮🇹 Cachi",
+            "pt": "🇧🇷 Cáqui",
+            "en": "🇺🇸 Khaki"
         }
     ]
 }
