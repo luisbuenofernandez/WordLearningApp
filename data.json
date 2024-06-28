@@ -1,875 +1,1492 @@
 {
-    "words": [
-        {
+        "words": [
+          {
             "it": "🇮🇹 ciao",
             "pt": "🇧🇷 olá",
             "es": "🇺🇾 hola",
-            "en": "🇺🇸 hello"
-        },
-        {
+            "en": "🇺🇸 hello",
+            "fr": "🇫🇷 bonjour",
+            "de": "🇩🇪 hallo",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 addio",
             "pt": "🇧🇷 adeus",
             "es": "🇺🇾 adiós",
-            "en": "🇺🇸 goodbye"
-        },
-        {
+            "en": "🇺🇸 goodbye",
+            "fr": "🇫🇷 au revoir",
+            "de": "🇩🇪 auf Wiedersehen",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 per favore",
             "pt": "🇧🇷 por favor",
             "es": "🇺🇾 por favor",
-            "en": "🇺🇸 please"
-        },
-        {
+            "en": "🇺🇸 please",
+            "fr": "🇫🇷 s'il vous plaît",
+            "de": "🇩🇪 bitte",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 grazie",
             "pt": "🇧🇷 obrigado",
             "es": "🇺🇾 gracias",
-            "en": "🇺🇸 thank you"
-        },
-        {
+            "en": "🇺🇸 thank you",
+            "fr": "🇫🇷 merci",
+            "de": "🇩🇪 danke",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 scusa",
             "pt": "🇧🇷 desculpa",
             "es": "🇺🇾 lo siento",
-            "en": "🇺🇸 sorry"
-        },
-        {
+            "en": "🇺🇸 sorry",
+            "fr": "🇫🇷 désolé",
+            "de": "🇩🇪 entschuldigung",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 sì",
             "pt": "🇧🇷 sim",
             "es": "🇺🇾 sí",
-            "en": "🇺🇸 yes"
-        },
-        {
+            "en": "🇺🇸 yes",
+            "fr": "🇫🇷 oui",
+            "de": "🇩🇪 ja",
+            "level": "A1"
+          },
+        
+          {
+            "it": "🇮🇹 ciao",
+            "pt": "🇧🇷 olá",
+            "es": "🇺🇾 hola",
+            "en": "🇺🇸 hello",
+            "fr": "🇫🇷 bonjour",
+            "de": "🇩🇪 hallo",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 addio",
+            "pt": "🇧🇷 adeus",
+            "es": "🇺🇾 adiós",
+            "en": "🇺🇸 goodbye",
+            "fr": "🇫🇷 au revoir",
+            "de": "🇩🇪 auf Wiedersehen",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 per favore",
+            "pt": "🇧🇷 por favor",
+            "es": "🇺🇾 por favor",
+            "en": "🇺🇸 please",
+            "fr": "🇫🇷 s'il vous plaît",
+            "de": "🇩🇪 bitte",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 grazie",
+            "pt": "🇧🇷 obrigado",
+            "es": "🇺🇾 gracias",
+            "en": "🇺🇸 thank you",
+            "fr": "🇫🇷 merci",
+            "de": "🇩🇪 danke",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 scusa",
+            "pt": "🇧🇷 desculpa",
+            "es": "🇺🇾 lo siento",
+            "en": "🇺🇸 sorry",
+            "fr": "🇫🇷 désolé",
+            "de": "🇩🇪 entschuldigung",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 sì",
+            "pt": "🇧🇷 sim",
+            "es": "🇺🇾 sí",
+            "en": "🇺🇸 yes",
+            "fr": "🇫🇷 oui",
+            "de": "🇩🇪 ja",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 no",
             "pt": "🇧🇷 não",
             "es": "🇺🇾 no",
-            "en": "🇺🇸 no"
-        },
-        {
+            "en": "🇺🇸 no",
+            "fr": "🇫🇷 non",
+            "de": "🇩🇪 nein",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 acqua",
             "pt": "🇧🇷 água",
             "es": "🇺🇾 agua",
-            "en": "🇺🇸 water"
-        },
-        {
+            "en": "🇺🇸 water",
+            "fr": "🇫🇷 eau",
+            "de": "🇩🇪 wasser",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 cibo",
             "pt": "🇧🇷 comida",
             "es": "🇺🇾 comida",
-            "en": "🇺🇸 food"
-        },
-        {
+            "en": "🇺🇸 food",
+            "fr": "🇫🇷 nourriture",
+            "de": "🇩🇪 essen",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 casa",
             "pt": "🇧🇷 casa",
             "es": "🇺🇾 casa",
-            "en": "🇺🇸 house"
-        },
-        {
+            "en": "🇺🇸 house",
+            "fr": "🇫🇷 maison",
+            "de": "🇩🇪 haus",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 scuola",
             "pt": "🇧🇷 escola",
             "es": "🇺🇾 escuela",
-            "en": "🇺🇸 school"
-        },
-        {
+            "en": "🇺🇸 school",
+            "fr": "🇫🇷 école",
+            "de": "🇩🇪 schule",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 auto",
             "pt": "🇧🇷 carro",
             "es": "🇺🇾 auto",
-            "en": "🇺🇸 car"
-        },
-        {
+            "en": "🇺🇸 car",
+            "fr": "🇫🇷 voiture",
+            "de": "🇩🇪 auto",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 libro",
             "pt": "🇧🇷 livro",
             "es": "🇺🇾 libro",
-            "en": "🇺🇸 book"
-        },
-        {
+            "en": "🇺🇸 book",
+            "fr": "🇫🇷 livre",
+            "de": "🇩🇪 buch",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 bambino",
             "pt": "🇧🇷 criança",
             "es": "🇺🇾 niño",
-            "en": "🇺🇸 child"
-        },
-        {
+            "en": "🇺🇸 child",
+            "fr": "🇫🇷 enfant",
+            "de": "🇩🇪 kind",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 amico",
             "pt": "🇧🇷 amigo",
             "es": "🇺🇾 amigo",
-            "en": "🇺🇸 friend"
-        },
-        {
+            "en": "🇺🇸 friend",
+            "fr": "🇫🇷 ami",
+            "de": "🇩🇪 freund",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 felice",
             "pt": "🇧🇷 feliz",
             "es": "🇺🇾 feliz",
-            "en": "🇺🇸 happy"
-        },
-        {
+            "en": "🇺🇸 happy",
+            "fr": "🇫🇷 heureux",
+            "de": "🇩🇪 glücklich",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 madre",
             "pt": "🇧🇷 mãe",
             "es": "🇺🇾 madre",
-            "en": "🇺🇸 mother"
-        },
-        {
+            "en": "🇺🇸 mother",
+            "fr": "🇫🇷 mère",
+            "de": "🇩🇪 mutter",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 padre",
             "pt": "🇧🇷 pai",
             "es": "🇺🇾 padre",
-            "en": "🇺🇸 father"
-        },
-        {
+            "en": "🇺🇸 father",
+            "fr": "🇫🇷 père",
+            "de": "🇩🇪 vater",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 fratello",
             "pt": "🇧🇷 irmão",
             "es": "🇺🇾 hermano",
-            "en": "🇺🇸 brother"
-        },
-        {
+            "en": "🇺🇸 brother",
+            "fr": "🇫🇷 frère",
+            "de": "🇩🇪 bruder",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 sorella",
             "pt": "🇧🇷 irmã",
             "es": "🇺🇾 hermana",
-            "en": "🇺🇸 sister"
-        },
-        {
+            "en": "🇺🇸 sister",
+            "fr": "🇫🇷 soeur",
+            "de": "🇩🇪 schwester",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 cane",
             "pt": "🇧🇷 cachorro",
             "es": "🇺🇾 perro",
-            "en": "🇺🇸 dog"
-        },
-        {
+            "en": "🇺🇸 dog",
+            "fr": "🇫🇷 chien",
+            "de": "🇩🇪 hund",
+            "level": "A1"
+          },{
+            "it": "🇮🇹 ciao",
+            "pt": "🇧🇷 olá",
+            "es": "🇺🇾 hola",
+            "en": "🇺🇸 hello",
+            "fr": "🇫🇷 bonjour",
+            "de": "🇩🇪 hallo",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 addio",
+            "pt": "🇧🇷 adeus",
+            "es": "🇺🇾 adiós",
+            "en": "🇺🇸 goodbye",
+            "fr": "🇫🇷 au revoir",
+            "de": "🇩🇪 auf Wiedersehen",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 per favore",
+            "pt": "🇧🇷 por favor",
+            "es": "🇺🇾 por favor",
+            "en": "🇺🇸 please",
+            "fr": "🇫🇷 s'il vous plaît",
+            "de": "🇩🇪 bitte",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 grazie",
+            "pt": "🇧🇷 obrigado",
+            "es": "🇺🇾 gracias",
+            "en": "🇺🇸 thank you",
+            "fr": "🇫🇷 merci",
+            "de": "🇩🇪 danke",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 scusa",
+            "pt": "🇧🇷 desculpa",
+            "es": "🇺🇾 lo siento",
+            "en": "🇺🇸 sorry",
+            "fr": "🇫🇷 désolé",
+            "de": "🇩🇪 entschuldigung",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 sì",
+            "pt": "🇧🇷 sim",
+            "es": "🇺🇾 sí",
+            "en": "🇺🇸 yes",
+            "fr": "🇫🇷 oui",
+            "de": "🇩🇪 ja",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 no",
+            "pt": "🇧🇷 não",
+            "es": "🇺🇾 no",
+            "en": "🇺🇸 no",
+            "fr": "🇫🇷 non",
+            "de": "🇩🇪 nein",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 acqua",
+            "pt": "🇧🇷 água",
+            "es": "🇺🇾 agua",
+            "en": "🇺🇸 water",
+            "fr": "🇫🇷 eau",
+            "de": "🇩🇪 wasser",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 cibo",
+            "pt": "🇧🇷 comida",
+            "es": "🇺🇾 comida",
+            "en": "🇺🇸 food",
+            "fr": "🇫🇷 nourriture",
+            "de": "🇩🇪 essen",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 casa",
+            "pt": "🇧🇷 casa",
+            "es": "🇺🇾 casa",
+            "en": "🇺🇸 house",
+            "fr": "🇫🇷 maison",
+            "de": "🇩🇪 haus",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 scuola",
+            "pt": "🇧🇷 escola",
+            "es": "🇺🇾 escuela",
+            "en": "🇺🇸 school",
+            "fr": "🇫🇷 école",
+            "de": "🇩🇪 schule",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 auto",
+            "pt": "🇧🇷 carro",
+            "es": "🇺🇾 auto",
+            "en": "🇺🇸 car",
+            "fr": "🇫🇷 voiture",
+            "de": "🇩🇪 auto",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 libro",
+            "pt": "🇧🇷 livro",
+            "es": "🇺🇾 libro",
+            "en": "🇺🇸 book",
+            "fr": "🇫🇷 livre",
+            "de": "🇩🇪 buch",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 bambino",
+            "pt": "🇧🇷 criança",
+            "es": "🇺🇾 niño",
+            "en": "🇺🇸 child",
+            "fr": "🇫🇷 enfant",
+            "de": "🇩🇪 kind",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 amico",
+            "pt": "🇧🇷 amigo",
+            "es": "🇺🇾 amigo",
+            "en": "🇺🇸 friend",
+            "fr": "🇫🇷 ami",
+            "de": "🇩🇪 freund",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 felice",
+            "pt": "🇧🇷 feliz",
+            "es": "🇺🇾 feliz",
+            "en": "🇺🇸 happy",
+            "fr": "🇫🇷 heureux",
+            "de": "🇩🇪 glücklich",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 madre",
+            "pt": "🇧🇷 mãe",
+            "es": "🇺🇾 madre",
+            "en": "🇺🇸 mother",
+            "fr": "🇫🇷 mère",
+            "de": "🇩🇪 mutter",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 padre",
+            "pt": "🇧🇷 pai",
+            "es": "🇺🇾 padre",
+            "en": "🇺🇸 father",
+            "fr": "🇫🇷 père",
+            "de": "🇩🇪 vater",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 fratello",
+            "pt": "🇧🇷 irmão",
+            "es": "🇺🇾 hermano",
+            "en": "🇺🇸 brother",
+            "fr": "🇫🇷 frère",
+            "de": "🇩🇪 bruder",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 sorella",
+            "pt": "🇧🇷 irmã",
+            "es": "🇺🇾 hermana",
+            "en": "🇺🇸 sister",
+            "fr": "🇫🇷 soeur",
+            "de": "🇩🇪 schwester",
+            "level": "A1"
+          },
+          {
+            "it": "🇮🇹 cane",
+            "pt": "🇧🇷 cachorro",
+            "es": "🇺🇾 perro",
+            "en": "🇺🇸 dog",
+            "fr": "🇫🇷 chien",
+            "de": "🇩🇪 hund",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 gatto",
             "pt": "🇧🇷 gato",
             "es": "🇺🇾 gato",
-            "en": "🇺🇸 cat"
-        },
-        {
+            "en": "🇺🇸 cat",
+            "fr": "🇫🇷 chat",
+            "de": "🇩🇪 katze",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 giorno",
             "pt": "🇧🇷 dia",
             "es": "🇺🇾 día",
-            "en": "🇺🇸 day"
-        },
-        {
+            "en": "🇺🇸 day",
+            "fr": "🇫🇷 jour",
+            "de": "🇩🇪 tag",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 notte",
             "pt": "🇧🇷 noite",
             "es": "🇺🇾 noche",
-            "en": "🇺🇸 night"
-        },
-        {
+            "en": "🇺🇸 night",
+            "fr": "🇫🇷 nuit",
+            "de": "🇩🇪 nacht",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 lavoro",
             "pt": "🇧🇷 trabalho",
             "es": "🇺🇾 trabajo",
-            "en": "🇺🇸 work"
-        },
-        {
+            "en": "🇺🇸 work",
+            "fr": "🇫🇷 travail",
+            "de": "🇩🇪 arbeit",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 denaro",
             "pt": "🇧🇷 dinheiro",
             "es": "🇺🇾 dinero",
-            "en": "🇺🇸 money"
-        },
-        {
+            "en": "🇺🇸 money",
+            "fr": "🇫🇷 argent",
+            "de": "🇩🇪 geld",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 mercato",
             "pt": "🇧🇷 mercado",
             "es": "🇺🇾 mercado",
-            "en": "🇺🇸 market"
-        },
-        {
+            "en": "🇺🇸 market",
+            "fr": "🇫🇷 marché",
+            "de": "🇩🇪 markt",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 ospedale",
             "pt": "🇧🇷 hospital",
             "es": "🇺🇾 hospital",
-            "en": "🇺🇸 hospital"
-        },
-        {
+            "en": "🇺🇸 hospital",
+            "fr": "🇫🇷 hôpital",
+            "de": "🇩🇪 krankenhaus",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 banca",
             "pt": "🇧🇷 banco",
             "es": "🇺🇾 banco",
-            "en": "🇺🇸 bank"
-        },
-        {
+            "en": "🇺🇸 bank",
+            "fr": "🇫🇷 banque",
+            "de": "🇩🇪 bank",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 chiesa",
             "pt": "🇧🇷 igreja",
             "es": "🇺🇾 iglesia",
-            "en": "🇺🇸 church"
-        },
-        {
+            "en": "🇺🇸 church",
+            "fr": "🇫🇷 église",
+            "de": "🇩🇪 kirche",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 ristorante",
             "pt": "🇧🇷 restaurante",
             "es": "🇺🇾 restaurante",
-            "en": "🇺🇸 restaurant"
-        },
-        {
+            "en": "🇺🇸 restaurant",
+            "fr": "🇫🇷 restaurant",
+            "de": "🇩🇪 restaurant",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 musica",
             "pt": "🇧🇷 música",
             "es": "🇺🇾 música",
-            "en": "🇺🇸 music"
-        },
-        {
+            "en": "🇺🇸 music",
+            "fr": "🇫🇷 musique",
+            "de": "🇩🇪 musik",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 film",
             "pt": "🇧🇷 filme",
             "es": "🇺🇾 película",
-            "en": "🇺🇸 movie"
-        },
-        {
+            "en": "🇺🇸 movie",
+            "fr": "🇫🇷 film",
+            "de": "🇩🇪 film",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 gioco",
             "pt": "🇧🇷 jogo",
             "es": "🇺🇾 juego",
-            "en": "🇺🇸 game"
-        },
-        {
+            "en": "🇺🇸 game",
+            "fr": "🇫🇷 jeu",
+            "de": "🇩🇪 spiel",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 festa",
             "pt": "🇧🇷 festa",
             "es": "🇺🇾 fiesta",
-            "en": "🇺🇸 party"
-        },
-        {
+            "en": "🇺🇸 party",
+            "fr": "🇫🇷 fête",
+            "de": "🇩🇪 party",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 compleanno",
             "pt": "🇧🇷 aniversário",
             "es": "🇺🇾 cumpleaños",
-            "en": "🇺🇸 birthday"
-        },
-        {
+            "en": "🇺🇸 birthday",
+            "fr": "🇫🇷 anniversaire",
+            "de": "🇩🇪 geburtstag",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 numero",
             "pt": "🇧🇷 número",
             "es": "🇺🇾 número",
-            "en": "🇺🇸 number"
-        },
-        {
+            "en": "🇺🇸 number",
+            "fr": "🇫🇷 nombre",
+            "de": "🇩🇪 nummer",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 nome",
             "pt": "🇧🇷 nome",
             "es": "🇺🇾 nombre",
-            "en": "🇺🇸 name"
-        },
-        {
+            "en": "🇺🇸 name",
+            "fr": "🇫🇷 nom",
+            "de": "🇩🇪 name",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 telefono",
             "pt": "🇧🇷 telefone",
             "es": "🇺🇾 teléfono",
-            "en": "🇺🇸 phone"
-        },
-        {
+            "en": "🇺🇸 phone",
+            "fr": "🇫🇷 téléphone",
+            "de": "🇩🇪 telefon",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 indirizzo",
             "pt": "🇧🇷 endereço",
             "es": "🇺🇾 dirección",
-            "en": "🇺🇸 address"
-        },
-        {
+            "en": "🇺🇸 address",
+            "fr": "🇫🇷 adresse",
+            "de": "🇩🇪 adresse",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 città",
             "pt": "🇧🇷 cidade",
             "es": "🇺🇾 ciudad",
-            "en": "🇺🇸 city"
-        },
-        {
+            "en": "🇺🇸 city",
+            "fr": "🇫🇷 ville",
+            "de": "🇩🇪 stadt",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 paese",
             "pt": "🇧🇷 país",
             "es": "🇺🇾 país",
-            "en": "🇺🇸 country"
-        },
-        {
+            "en": "🇺🇸 country",
+            "fr": "🇫🇷 pays",
+            "de": "🇩🇪 land",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 mappa",
             "pt": "🇧🇷 mapa",
             "es": "🇺🇾 mapa",
-            "en": "🇺🇸 map"
-        },
-        {
+            "en": "🇺🇸 map",
+            "fr": "🇫🇷 carte",
+            "de": "🇩🇪 karte",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 strada",
             "pt": "🇧🇷 rua",
             "es": "🇺🇾 calle",
-            "en": "🇺🇸 street"
-        },
-        {
+            "en": "🇺🇸 street",
+            "fr": "🇫🇷 rue",
+            "de": "🇩🇪 straße",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 parco",
             "pt": "🇧🇷 parque",
             "es": "🇺🇾 parque",
-            "en": "🇺🇸 park"
-        },
-        {
+            "en": "🇺🇸 park",
+            "fr": "🇫🇷 parc",
+            "de": "🇩🇪 park",
+            "level": "A1"
+          },
+          {
             "it": "🇮🇹 piazza",
             "pt": "🇧🇷 praça",
             "es": "🇺🇾 plaza",
-            "en": "🇺🇸 square"
-        },
-        {
+            "en": "🇺🇸 square",
+            "fr": "🇫🇷 place",
+            "de": "🇩🇪 platz",
+            "level": "A1"
+          },
+          {
             "es": "🇺🇾 Casa",
             "it": "🇮🇹 Casa",
             "pt": "🇧🇷 Casa",
-            "en": "🇺🇸 House"
-        },
-        {
+            "en": "🇺🇸 House",
+            "fr": "🇫🇷 Maison",
+            "de": "🇩🇪 Haus",
+            "level": "A1"
+          },
+          {
             "es": "🇺🇾 Libro",
             "it": "🇮🇹 Libro",
             "pt": "🇧🇷 Livro",
-            "en": "🇺🇸 Book"
-        },
-        {
+            "en": "🇺🇸 Book",
+            "fr": "🇫🇷 Livre",
+            "de": "🇩🇪 Buch",
+            "level": "A1"
+          },
+          {
             "es": "🇺🇾 Coche",
             "it": "🇮🇹 Coche",
             "pt": "🇧🇷 Carro",
-            "en": "🇺🇸 Car"
-        },
-        {
+            "en": "🇺🇸 Car",
+            "fr": "🇫🇷 Voiture",
+            "de": "🇩🇪 Auto",
+            "level": "A1"
+          },
+          {
             "es": "🇺🇾 Perro",
             "it": "🇮🇹 Perro",
             "pt": "🇧🇷 Cachorro",
-            "en": "🇺🇸 Dog"
-        },
-        {
-            "es": "🇺🇾 Agua",
-            "it": "🇮🇹 Agua",
-            "pt": "🇧🇷 Água",
-            "en": "🇺🇸 Water"
-        },
-        {
-            "es": "🇺🇾 Escuela",
-            "it": "🇮🇹 Scuola",
-            "pt": "🇧🇷 Escola",
-            "en": "🇺🇸 School"
-        },
-        {
-            "es": "🇺🇾 Madre",
-            "it": "🇮🇹 Madre",
-            "pt": "🇧🇷 Mãe",
-            "en": "🇺🇸 Mother"
-        },
-        {
-            "es": "🇺🇾 Padre",
-            "it": "🇮🇹 Padre",
-            "pt": "🇧🇷 Pai",
-            "en": "🇺🇸 Father"
-        },
-        {
-            "es": "🇺🇾 Niño",
-            "it": "🇮🇹 Bambino/Bambina",
-            "pt": "🇧🇷 Criança",
-            "en": "🇺🇸 Child"
-        },
-        {
-            "es": "🇺🇾 Amigo",
-            "it": "🇮🇹 Amico/Amica",
-            "pt": "🇧🇷 Amigo/Amiga",
-            "en": "🇺🇸 Friend"
-        },
-        {
-            "es": "🇺🇾 Comida",
-            "it": "🇮🇹 Cibo",
-            "pt": "🇧🇷 Comida",
-            "en": "🇺🇸 Food"
-        },
-        {
-            "es": "🇺🇾 Ciudad",
-            "it": "🇮🇹 Città",
-            "pt": "🇧🇷 Cidade",
-            "en": "🇺🇸 City"
-        },
-        {
-            "es": "🇺🇾 Amor",
-            "it": "🇮🇹 Amore",
-            "pt": "🇧🇷 Amor",
-            "en": "🇺🇸 Love"
-        },
-        {
-            "es": "🇺🇾 Música",
-            "it": "🇮🇹 Musica",
-            "pt": "🇧🇷 Música",
-            "en": "🇺🇸 Music"
-        },
-        {
-            "es": "🇺🇾 Trabajo",
-            "it": "🇮🇹 Lavoro",
-            "pt": "🇧🇷 Trabalho",
-            "en": "🇺🇸 Work"
-        },
-        {
-            "es": "🇺🇾 Día",
-            "it": "🇮🇹 Giorno",
-            "pt": "🇧🇷 Dia",
-            "en": "🇺🇸 Day"
-        },
-        {
-            "es": "🇺🇾 Noche",
-            "it": "🇮🇹 Notte",
-            "pt": "🇧🇷 Noite",
-            "en": "🇺🇸 Night"
-        },
-        {
-            "es": "🇺🇾 Semana",
-            "it": "🇮🇹 Settimana",
-            "pt": "🇧🇷 Semana",
-            "en": "🇺🇸 Week"
-        },
-        {
-            "es": "🇺🇾 Año",
-            "it": "🇮🇹 Anno",
-            "pt": "🇧🇷 Ano",
-            "en": "🇺🇸 Year"
-        },
-        {
-            "es": "🇺🇾 Sol",
-            "it": "🇮🇹 Sole",
-            "pt": "🇧🇷 Sol",
-            "en": "🇺🇸 Sun"
-        },
-        {
-            "es": "🇺🇾 Lluvia",
-            "it": "🇮🇹 Pioggia",
-            "pt": "🇧🇷 Chuva",
-            "en": "🇺🇸 Rain"
-        },
-        {
-            "es": "🇺🇾 Nieve",
-            "it": "🇮🇹 Neve",
-            "pt": "🇧🇷 Neve",
-            "en": "🇺🇸 Snow"
-        },
-        {
-            "es": "🇺🇾 Calle",
-            "it": "🇮🇹 Strada",
-            "pt": "🇧🇷 Rua",
-            "en": "🇺🇸 Street"
-        },
-        {
-            "es": "🇺🇾 Familia",
-            "it": "🇮🇹 Famiglia",
-            "pt": "🇧🇷 Família",
-            "en": "🇺🇸 Family"
-        },
-        {
-            "es": "🇺🇾 Ventana",
-            "it": "🇮🇹 Finestra",
-            "pt": "🇧🇷 Janela",
-            "en": "🇺🇸 Window"
-        },
-        {
-            "es": "🇺🇾 Puerta",
-            "it": "🇮🇹 Porta",
-            "pt": "🇧🇷 Porta",
-            "en": "🇺🇸 Door"
-        },
-        {
-            "es": "🇺🇾 Silla",
-            "it": "🇮🇹 Sedia",
-            "pt": "🇧🇷 Cadeira",
-            "en": "🇺🇸 Chair"
-        },
-        {
-            "es": "🇺🇾 Mesa",
-            "it": "🇮🇹 Tavolo",
-            "pt": "🇧🇷 Mesa",
-            "en": "🇺🇸 Table"
-        },
-        {
-            "es": "🇺🇾 Pluma",
-            "it": "🇮🇹 Penna",
-            "pt": "🇧🇷 Caneta",
-            "en": "🇺🇸 Pen"
-        },
-        {
-            "es": "🇺🇾 Papel",
-            "it": "🇮🇹 Carta",
-            "pt": "🇧🇷 Papel",
-            "en": "🇺🇸 Paper"
-        },
-        {
-            "es": "🇺🇾 Ordenador",
-            "it": "🇮🇹 Computer",
-            "pt": "🇧🇷 Computador",
-            "en": "🇺🇸 Computer"
-        },
-        {
-            "es": "🇺🇾 Teléfono",
-            "it": "🇮🇹 Telefono",
-            "pt": "🇧🇷 Telefone",
-            "en": "🇺🇸 Phone"
-        },
-        {
-            "es": "🇺🇾 Luz",
-            "it": "🇮🇹 Luce",
-            "pt": "🇧🇷 Luz",
-            "en": "🇺🇸 Light"
-        },
-        {
-            "es": "🇺🇾 Cielo",
-            "it": "🇮🇹 Cielo",
-            "pt": "🇧🇷 Céu",
-            "en": "🇺🇸 Sky"
-        },
-        {
-            "es": "🇺🇾 Cielo",
-            "it": "🇮🇹 Cielo",
-            "pt": "🇧🇷 Céu",
-            "en": "🇺🇸 Sky"
-        },
-        {
-            "es": "🇺🇾 Tierra",
-            "it": "🇮🇹 Terra",
-            "pt": "🇧🇷 Terra",
-            "en": "🇺🇸 Earth"
-        },
-        {
-            "es": "🇺🇾 País",
-            "it": "🇮🇹 Paese",
-            "pt": "🇧🇷 País",
-            "en": "🇺🇸 Country"
-        },
-        {
-            "es": "🇺🇾 Amigo",
-            "it": "🇮🇹 Amico/Amica",
-            "pt": "🇧🇷 Amigo/Amiga",
-            "en": "🇺🇸 Friend"
-        },
-        {
-            "es": "🇺🇾 Alma",
-            "it": "🇮🇹 Anima",
-            "pt": "🇧🇷 Alma",
-            "en": "🇺🇸 Soul"
-        },
-        {
-            "es": "🇺🇾 Mar",
-            "it": "🇮🇹 Mare",
-            "pt": "🇧🇷 Mar",
-            "en": "🇺🇸 Sea"
-        },
-        {
-            "es": "🇺🇾 Montaña",
-            "it": "🇮🇹 Montagna",
-            "pt": "🇧🇷 Montanha",
-            "en": "🇺🇸 Mountain"
-        },
-        {
-            "es": "🇺🇾 Río",
-            "it": "🇮🇹 Fiume",
-            "pt": "🇧🇷 Rio",
-            "en": "🇺🇸 River"
-        },
-        {
-            "es": "🇺🇾 Playa",
-            "it": "🇮🇹 Spiaggia",
-            "pt": "🇧🇷 Praia",
-            "en": "🇺🇸 Beach"
-        },
-        {
-            "es": "🇺🇾 Bosque",
-            "it": "🇮🇹 Bosco",
-            "pt": "🇧🇷 Floresta",
-            "en": "🇺🇸 Forest"
-        },
-        {
-            "es": "🇺🇾 Flor",
-            "it": "🇮🇹 Fiore",
-            "pt": "🇧🇷 Flor",
-            "en": "🇺🇸 Flower"
-        },
-        {
-            "es": "🇺🇾 Animal",
-            "it": "🇮🇹 Animale",
-            "pt": "🇧🇷 Animal",
-            "en": "🇺🇸 Animal"
-        },
-        {
-            "es": "🇺🇾 Árbol",
-            "it": "🇮🇹 Albero",
-            "pt": "🇧🇷 Árvore",
-            "en": "🇺🇸 Tree"
-        },
-        {
-            "es": "🇺🇾 Estrella",
-            "it": "🇮🇹 Stella",
-            "pt": "🇧🇷 Estrela",
-            "en": "🇺🇸 Star"
-        },
-        {
-            "es": "🇺🇾 Luna",
-            "it": "🇮🇹 Luna",
-            "pt": "🇧🇷 Lua",
-            "en": "🇺🇸 Moon"
-        },
-        {
-            "es": "🇺🇾 Sol",
-            "it": "🇮🇹 Sole",
-            "pt": "🇧🇷 Sol",
-            "en": "🇺🇸 Sun"
-        },
-        {
-            "es": "🇺🇾 Reloj",
-            "it": "🇮🇹 Orologio",
-            "pt": "🇧🇷 Relógio",
-            "en": "🇺🇸 Clock"
-        },
-        {
-            "es": "🇺🇾 Hora",
-            "it": "🇮🇹 Ora",
-            "pt": "🇧🇷 Hora",
-            "en": "🇺🇸 Hour"
-        },
-        {
-            "es": "🇺🇾 Minuto",
-            "it": "🇮🇹 Minuto",
-            "pt": "🇧🇷 Minuto",
-            "en": "🇺🇸 Minute"
-        },
-        {
-            "es": "🇺🇾 Segundo",
-            "it": "🇮🇹 Secondo",
-            "pt": "🇧🇷 Segundo",
-            "en": "🇺🇸 Second"
-        },
-        {
-            "es": "🇺🇾 Derecha",
-            "it": "🇮🇹 Destra",
-            "pt": "🇧🇷 Direita",
-            "en": "🇺🇸 Right"
-        },
-        {
-            "es": "🇺🇾 Izquierda",
-            "it": "🇮🇹 Sinistra",
-            "pt": "🇧🇷 Esquerda",
-            "en": "🇺🇸 Left"
-        },
-        {
-            "es": "🇺🇾 Arriba",
-            "it": "🇮🇹 Sopra",
-            "pt": "🇧🇷 Em cima",
-            "en": "🇺🇸 Up"
-        },
-        {
-            "es": "🇺🇾 Abajo",
-            "it": "🇮🇹 Giù",
-            "pt": "🇧🇷 Abaixo",
-            "en": "🇺🇸 Down"
-        },
-        {
-            "es": "🇺🇾 Dentro",
-            "it": "🇮🇹 Dentro",
-            "pt": "🇧🇷 Dentro",
-            "en": "🇺🇸 Inside"
-        },
-        {
-            "es": "🇺🇾 Fuera",
-            "it": "🇮🇹 Fuori",
-            "pt": "🇧🇷 Fora",
-            "en": "🇺🇸 Outside"
-        },
-        {
-            "es": "🇺🇾 Largo",
-            "it": "🇮🇹 Lungo",
-            "pt": "🇧🇷 Longo",
-            "en": "🇺🇸 Long"
-        },
-        {
-            "es": "🇺🇾 Corto",
-            "it": "🇮🇹 Corto",
-            "pt": "🇧🇷 Curto",
-            "en": "🇺🇸 Short"
-        },
-        {
-            "es": "🇺🇾 Grande",
-            "it": "🇮🇹 Grande",
-            "pt": "🇧🇷 Grande",
-            "en": "🇺🇸 Big"
-        },
-        {
-            "es": "🇺🇾 Pequeño",
-            "it": "🇮🇹 Piccolo",
-            "pt": "🇧🇷 Pequeno",
-            "en": "🇺🇸 Small"
-        },
-        {
-            "es": "🇺🇾 Nuevo",
-            "it": "🇮🇹 Nuovo",
-            "pt": "🇧🇷 Novo",
-            "en": "🇺🇸 New"
-        },
-        {
-            "es": "🇺🇾 Viejo",
-            "it": "🇮🇹 Vecchio",
-            "pt": "🇧🇷 Velho",
-            "en": "🇺🇸 Old"
-        },
-        {
-            "es": "🇺🇾 Bueno",
-            "it": "🇮🇹 Buono",
-            "pt": "🇧🇷 Bom",
-            "en": "🇺🇸 Good"
-        },
-        {
-            "es": "🇺🇾 Malo",
-            "it": "🇮🇹 Cattivo",
-            "pt": "🇧🇷 Mau",
-            "en": "🇺🇸 Bad"
-        },
-        {
-            "es": "🇺🇾 Malo",
-            "it": "🇮🇹 Cattivo",
-            "pt": "🇧🇷 Mau",
-            "en": "🇺🇸 Bad"
-        },
-        {
-            "es": "🇺🇾 Nuevo",
-            "it": "🇮🇹 Nuovo",
-            "pt": "🇧🇷 Novo",
-            "en": "🇺🇸 New"
-        },
-        {
-            "es": "🇺🇾 Viejo",
-            "it": "🇮🇹 Vecchio",
-            "pt": "🇧🇷 Velho",
-            "en": "🇺🇸 Old"
-        },
-        {
-            "es": "🇺🇾 Bueno",
-            "it": "🇮🇹 Buono",
-            "pt": "🇧🇷 Bom",
-            "en": "🇺🇸 Good"
-        },
-        {
-            "es": "🇺🇾 Grande",
-            "it": "🇮🇹 Grande",
-            "pt": "🇧🇷 Grande",
-            "en": "🇺🇸 Big"
-        },
-        {
-            "es": "🇺🇾 Pequeño",
-            "it": "🇮🇹 Piccolo",
-            "pt": "🇧🇷 Pequeno",
-            "en": "🇺🇸 Small"
-        },
-        {
-            "es": "🇺🇾 Largo",
-            "it": "🇮🇹 Lungo",
-            "pt": "🇧🇷 Longo",
-            "en": "🇺🇸 Long"
-        },
-        {
-            "es": "🇺🇾 Corto",
-            "it": "🇮🇹 Corto",
-            "pt": "🇧🇷 Curto",
-            "en": "🇺🇸 Short"
-        },
-        {
-            "es": "🇺🇾 Dentro",
-            "it": "🇮🇹 Dentro",
-            "pt": "🇧🇷 Dentro",
-            "en": "🇺🇸 Inside"
-        },
-        {
-            "es": "🇺🇾 Fuera",
-            "it": "🇮🇹 Fuori",
-            "pt": "🇧🇷 Fora",
-            "en": "🇺🇸 Outside"
-        },
-        {
-            "es": "🇺🇾 Arriba",
-            "it": "🇮🇹 Sopra",
-            "pt": "🇧🇷 Em cima",
-            "en": "🇺🇸 Up"
-        },
-        {
-            "es": "🇺🇾 Abajo",
-            "it": "🇮🇹 Giù",
-            "pt": "🇧🇷 Abaixo",
-            "en": "🇺🇸 Down"
-        },
-        {
-            "es": "🇺🇾 Derecha",
-            "it": "🇮🇹 Destra",
-            "pt": "🇧🇷 Direita",
-            "en": "🇺🇸 Right"
-        },
-        {
-            "es": "🇺🇾 Izquierda",
-            "it": "🇮🇹 Sinistra",
-            "pt": "🇧🇷 Esquerda",
-            "en": "🇺🇸 Left"
-        },
-        {
-            "es": "🇺🇾 Segundo",
-            "it": "🇮🇹 Secondo",
-            "pt": "🇧🇷 Segundo",
-            "en": "🇺🇸 Second"
-        },
-        {
-            "es": "🇺🇾 Minuto",
-            "it": "🇮🇹 Minuto",
-            "pt": "🇧🇷 Minuto",
-            "en": "🇺🇸 Minute"
-        },
-        {
-            "es": "🇺🇾 Hora",
-            "it": "🇮🇹 Ora",
-            "pt": "🇧🇷 Hora",
-            "en": "🇺🇸 Hour"
-        },
-        {
-            "es": "🇺🇾 Reloj",
-            "it": "🇮🇹 Orologio",
-            "pt": "🇧🇷 Relógio",
-            "en": "🇺🇸 Clock"
-        },
-        {
-            "es": "🇺🇾 Sol",
-            "it": "🇮🇹 Sole",
-            "pt": "🇧🇷 Sol",
-            "en": "🇺🇸 Sun"
-        },
-        {
-            "es": "🇺🇾 Luna",
-            "it": "🇮🇹 Luna",
-            "pt": "🇧🇷 Lua",
-            "en": "🇺🇸 Moon"
-        },
-        {
-            "es": "🇺🇾 Estrella",
-            "it": "🇮🇹 Stella",
-            "pt": "🇧🇷 Estrela",
-            "en": "🇺🇸 Star"
-        },
-        {
-            "es": "🇺🇾 Árbol",
-            "it": "🇮🇹 Albero",
-            "pt": "🇧🇷 Árvore",
-            "en": "🇺🇸 Tree"
-        },
-        {
-            "es": "🇺🇾 Animal",
-            "it": "🇮🇹 Animale",
-            "pt": "🇧🇷 Animal",
-            "en": "🇺🇸 Animal"
-        },
-        {
-            "es": "🇺🇾 Flor",
-            "it": "🇮🇹 Fiore",
-            "pt": "🇧🇷 Flor",
-            "en": "🇺🇸 Flower"
-        },
-        {
-            "es": "🇺🇾 Bosque",
-            "it": "🇮🇹 Bosco",
-            "pt": "🇧🇷 Floresta",
-            "en": "🇺🇸 Forest"
-        },
-        {
-            "es": "🇺🇾 Playa",
-            "it": "🇮🇹 Spiaggia",
-            "pt": "🇧🇷 Praia",
-            "en": "🇺🇸 Beach"
-        },
-        {
-            "es": "🇺🇾 Río",
-            "it": "🇮🇹 Fiume",
-            "pt": "🇧🇷 Rio",
-            "en": "🇺🇸 River"
-        },
-        {
-            "es": "🇺🇾 Montaña",
-            "it": "🇮🇹 Montagna",
-            "pt": "🇧🇷 Montanha",
-            "en": "🇺🇸 Mountain"
-        },
-        {
-            "es": "🇺🇾 Mar",
-            "it": "🇮🇹 Mare",
-            "pt": "🇧🇷 Mar",
-            "en": "🇺🇸 Sea"
-        },
-        {
-            "es": "🇺🇾 Alma",
-            "it": "🇮🇹 Anima",
-            "pt": "🇧🇷 Alma",
-            "en": "🇺🇸 Soul"
-        },
-        {
-            "es": "🇺🇾 Amigo",
-            "it": "🇮🇹 Amico/Amica",
-            "pt": "🇧🇷 Amigo/Amiga",
-            "en": "🇺🇸 Friend"
-        },
+            "en": "🇺🇸 Dog",
+            "fr": "🇫🇷 Chien",
+            "de": "🇩🇪 Hund",
+            "level": "A1"
+          },
+            {
+                "es": "🇺🇾 Agua",
+                "it": "🇮🇹 Acqua",
+                "pt": "🇧🇷 Água",
+                "en": "🇺🇸 Water",
+                "fr": "🇫🇷 Eau",
+                "de": "🇩🇪 Wasser",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Escuela",
+                "it": "🇮🇹 Scuola",
+                "pt": "🇧🇷 Escola",
+                "en": "🇺🇸 School",
+                "fr": "🇫🇷 École",
+                "de": "🇩🇪 Schule",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Madre",
+                "it": "🇮🇹 Madre",
+                "pt": "🇧🇷 Mãe",
+                "en": "🇺🇸 Mother",
+                "fr": "🇫🇷 Mère",
+                "de": "🇩🇪 Mutter",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Padre",
+                "it": "🇮🇹 Padre",
+                "pt": "🇧🇷 Pai",
+                "en": "🇺🇸 Father",
+                "fr": "🇫🇷 Père",
+                "de": "🇩🇪 Vater",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Niño",
+                "it": "🇮🇹 Bambino/Bambina",
+                "pt": "🇧🇷 Criança",
+                "en": "🇺🇸 Child",
+                "fr": "🇫🇷 Enfant",
+                "de": "🇩🇪 Kind",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Amigo",
+                "it": "🇮🇹 Amico/Amica",
+                "pt": "🇧🇷 Amigo/Amiga",
+                "en": "🇺🇸 Friend",
+                "fr": "🇫🇷 Ami/Amie",
+                "de": "🇩🇪 Freund/Freundin",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Comida",
+                "it": "🇮🇹 Cibo",
+                "pt": "🇧🇷 Comida",
+                "en": "🇺🇸 Food",
+                "fr": "🇫🇷 Nourriture",
+                "de": "🇩🇪 Essen",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Ciudad",
+                "it": "🇮🇹 Città",
+                "pt": "🇧🇷 Cidade",
+                "en": "🇺🇸 City",
+                "fr": "🇫🇷 Ville",
+                "de": "🇩🇪 Stadt",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Amor",
+                "it": "🇮🇹 Amore",
+                "pt": "🇧🇷 Amor",
+                "en": "🇺🇸 Love",
+                "fr": "🇫🇷 Amour",
+                "de": "🇩🇪 Liebe",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Música",
+                "it": "🇮🇹 Musica",
+                "pt": "🇧🇷 Música",
+                "en": "🇺🇸 Music",
+                "fr": "🇫🇷 Musique",
+                "de": "🇩🇪 Musik",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Trabajo",
+                "it": "🇮🇹 Lavoro",
+                "pt": "🇧🇷 Trabalho",
+                "en": "🇺🇸 Work",
+                "fr": "🇫🇷 Travail",
+                "de": "🇩🇪 Arbeit",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Día",
+                "it": "🇮🇹 Giorno",
+                "pt": "🇧🇷 Dia",
+                "en": "🇺🇸 Day",
+                "fr": "🇫🇷 Jour",
+                "de": "🇩🇪 Tag",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Noche",
+                "it": "🇮🇹 Notte",
+                "pt": "🇧🇷 Noite",
+                "en": "🇺🇸 Night",
+                "fr": "🇫🇷 Nuit",
+                "de": "🇩🇪 Nacht",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Semana",
+                "it": "🇮🇹 Settimana",
+                "pt": "🇧🇷 Semana",
+                "en": "🇺🇸 Week",
+                "fr": "🇫🇷 Semaine",
+                "de": "🇩🇪 Woche",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Año",
+                "it": "🇮🇹 Anno",
+                "pt": "🇧🇷 Ano",
+                "en": "🇺🇸 Year",
+                "fr": "🇫🇷 An",
+                "de": "🇩🇪 Jahr",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Sol",
+                "it": "🇮🇹 Sole",
+                "pt": "🇧🇷 Sol",
+                "en": "🇺🇸 Sun",
+                "fr": "🇫🇷 Soleil",
+                "de": "🇩🇪 Sonne",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Lluvia",
+                "it": "🇮🇹 Pioggia",
+                "pt": "🇧🇷 Chuva",
+                "en": "🇺🇸 Rain",
+                "fr": "🇫🇷 Pluie",
+                "de": "🇩🇪 Regen",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Nieve",
+                "it": "🇮🇹 Neve",
+                "pt": "🇧🇷 Neve",
+                "en": "🇺🇸 Snow",
+                "fr": "🇫🇷 Neige",
+                "de": "🇩🇪 Schnee",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Calle",
+                "it": "🇮🇹 Strada",
+                "pt": "🇧🇷 Rua",
+                "en": "🇺🇸 Street",
+                "fr": "🇫🇷 Rue",
+                "de": "🇩🇪 Straße",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Familia",
+                "it": "🇮🇹 Famiglia",
+                "pt": "🇧🇷 Família",
+                "en": "🇺🇸 Family",
+                "fr": "🇫🇷 Famille",
+                "de": "🇩🇪 Familie",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Ventana",
+                "it": "🇮🇹 Finestra",
+                "pt": "🇧🇷 Janela",
+                "en": "🇺🇸 Window",
+                "fr": "🇫🇷 Fenêtre",
+                "de": "🇩🇪 Fenster",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Puerta",
+                "it": "🇮🇹 Porta",
+                "pt": "🇧🇷 Porta",
+                "en": "🇺🇸 Door",
+                "fr": "🇫🇷 Porte",
+                "de": "🇩🇪 Tür",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Silla",
+                "it": "🇮🇹 Sedia",
+                "pt": "🇧🇷 Cadeira",
+                "en": "🇺🇸 Chair",
+                "fr": "🇫🇷 Chaise",
+                "de": "🇩🇪 Stuhl",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Mesa",
+                "it": "🇮🇹 Tavolo",
+                "pt": "🇧🇷 Mesa",
+                "en": "🇺🇸 Table",
+                "fr": "🇫🇷 Table",
+                "de": "🇩🇪 Tisch",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Pluma",
+                "it": "🇮🇹 Penna",
+                "pt": "🇧🇷 Caneta",
+                "en": "🇺🇸 Pen",
+                "fr": "🇫🇷 Stylo",
+                "de": "🇩🇪 Stift",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Papel",
+                "it": "🇮🇹 Carta",
+                "pt": "🇧🇷 Papel",
+                "en": "🇺🇸 Paper",
+                "fr": "🇫🇷 Papier",
+                "de": "🇩🇪 Papier",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Ordenador",
+                "it": "🇮🇹 Computer",
+                "pt": "🇧🇷 Computador",
+                "en": "🇺🇸 Computer",
+                "fr": "🇫🇷 Ordinateur",
+                "de": "🇩🇪 Computer",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Teléfono",
+                "it": "🇮🇹 Telefono",
+                "pt": "🇧🇷 Telefone",
+                "en": "🇺🇸 Phone",
+                "fr": "🇫🇷 Téléphone",
+                "de": "🇩🇪 Telefon",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Luz",
+                "it": "🇮🇹 Luce",
+                "pt": "🇧🇷 Luz",
+                "en": "🇺🇸 Light",
+                "fr": "🇫🇷 Lumière",
+                "de": "🇩🇪 Licht",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Cielo",
+                "it": "🇮🇹 Cielo",
+                "pt": "🇧🇷 Céu",
+                "en": "🇺🇸 Sky",
+                "fr": "🇫🇷 Ciel",
+                "de": "🇩🇪 Himmel",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Tierra",
+                "it": "🇮🇹 Terra",
+                "pt": "🇧🇷 Terra",
+                "en": "🇺🇸 Earth",
+                "fr": "🇫🇷 Terre",
+                "de": "🇩🇪 Erde",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 País",
+                "it": "🇮🇹 Paese",
+                "pt": "🇧🇷 País",
+                "en": "🇺🇸 Country",
+                "fr": "🇫🇷 Pays",
+                "de": "🇩🇪 Land",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Alma",
+                "it": "🇮🇹 Anima",
+                "pt": "🇧🇷 Alma",
+                "en": "🇺🇸 Soul",
+                "fr": "🇫🇷 Âme",
+                "de": "🇩🇪 Seele",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Mar",
+                "it": "🇮🇹 Mare",
+                "pt": "🇧🇷 Mar",
+                "en": "🇺🇸 Sea",
+                "fr": "🇫🇷 Mer",
+                "de": "🇩🇪 Meer",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Montaña",
+                "it": "🇮🇹 Montagna",
+                "pt": "🇧🇷 Montanha",
+                "en": "🇺🇸 Mountain",
+                "fr": "🇫🇷 Montagne",
+                "de": "🇩🇪 Berg",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Río",
+                "it": "🇮🇹 Fiume",
+                "pt": "🇧🇷 Rio",
+                "en": "🇺🇸 River",
+                "fr": "🇫🇷 Rivière",
+                "de": "🇩🇪 Fluss",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Playa",
+                "it": "🇮🇹 Spiaggia",
+                "pt": "🇧🇷 Praia",
+                "en": "🇺🇸 Beach",
+                "fr": "🇫🇷 Plage",
+                "de": "🇩🇪 Strand",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Bosque",
+                "it": "🇮🇹 Bosco",
+                "pt": "🇧🇷 Floresta",
+                "en": "🇺🇸 Forest",
+                "fr": "🇫🇷 Forêt",
+                "de": "🇩🇪 Wald",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Flor",
+                "it": "🇮🇹 Fiore",
+                "pt": "🇧🇷 Flor",
+                "en": "🇺🇸 Flower",
+                "fr": "🇫🇷 Fleur",
+                "de": "🇩🇪 Blume",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Animal",
+                "it": "🇮🇹 Animale",
+                "pt": "🇧🇷 Animal",
+                "en": "🇺🇸 Animal",
+                "fr": "🇫🇷 Animal",
+                "de": "🇩🇪 Tier",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Árbol",
+                "it": "🇮🇹 Albero",
+                "pt": "🇧🇷 Árvore",
+                "en": "🇺🇸 Tree",
+                "fr": "🇫🇷 Arbre",
+                "de": "🇩🇪 Baum",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Estrella",
+                "it": "🇮🇹 Stella",
+                "pt": "🇧🇷 Estrela",
+                "en": "🇺🇸 Star",
+                "fr": "🇫🇷 Étoile",
+                "de": "🇩🇪 Stern",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Luna",
+                "it": "🇮🇹 Luna",
+                "pt": "🇧🇷 Lua",
+                "en": "🇺🇸 Moon",
+                "fr": "🇫🇷 Lune",
+                "de": "🇩🇪 Mond",
+                "level": "A1"
+            },
+        
+            {
+                "es": "🇺🇾 Sol",
+                "it": "🇮🇹 Sole",
+                "pt": "🇧🇷 Sol",
+                "en": "🇺🇸 Sun",
+                "fr": "🇫🇷 Soleil",
+                "de": "🇩🇪 Sonne",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Reloj",
+                "it": "🇮🇹 Orologio",
+                "pt": "🇧🇷 Relógio",
+                "en": "🇺🇸 Clock",
+                "fr": "🇫🇷 Horloge",
+                "de": "🇩🇪 Uhr",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Hora",
+                "it": "🇮🇹 Ora",
+                "pt": "🇧🇷 Hora",
+                "en": "🇺🇸 Hour",
+                "fr": "🇫🇷 Heure",
+                "de": "🇩🇪 Stunde",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Minuto",
+                "it": "🇮🇹 Minuto",
+                "pt": "🇧🇷 Minuto",
+                "en": "🇺🇸 Minute",
+                "fr": "🇫🇷 Minute",
+                "de": "🇩🇪 Minute",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Segundo",
+                "it": "🇮🇹 Secondo",
+                "pt": "🇧🇷 Segundo",
+                "en": "🇺🇸 Second",
+                "fr": "🇫🇷 Seconde",
+                "de": "🇩🇪 Sekunde",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Derecha",
+                "it": "🇮🇹 Destra",
+                "pt": "🇧🇷 Direita",
+                "en": "🇺🇸 Right",
+                "fr": "🇫🇷 Droite",
+                "de": "🇩🇪 Rechts",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Izquierda",
+                "it": "🇮🇹 Sinistra",
+                "pt": "🇧🇷 Esquerda",
+                "en": "🇺🇸 Left",
+                "fr": "🇫🇷 Gauche",
+                "de": "🇩🇪 Links",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Arriba",
+                "it": "🇮🇹 Sopra",
+                "pt": "🇧🇷 Em cima",
+                "en": "🇺🇸 Up",
+                "fr": "🇫🇷 Haut",
+                "de": "🇩🇪 Oben",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Abajo",
+                "it": "🇮🇹 Giù",
+                "pt": "🇧🇷 Abaixo",
+                "en": "🇺🇸 Down",
+                "fr": "🇫🇷 Bas",
+                "de": "🇩🇪 Unten",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Dentro",
+                "it": "🇮🇹 Dentro",
+                "pt": "🇧🇷 Dentro",
+                "en": "🇺🇸 Inside",
+                "fr": "🇫🇷 Dedans",
+                "de": "🇩🇪 Drinnen",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Fuera",
+                "it": "🇮🇹 Fuori",
+                "pt": "🇧🇷 Fora",
+                "en": "🇺🇸 Outside",
+                "fr": "🇫🇷 Dehors",
+                "de": "🇩🇪 Draußen",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Largo",
+                "it": "🇮🇹 Lungo",
+                "pt": "🇧🇷 Longo",
+                "en": "🇺🇸 Long",
+                "fr": "🇫🇷 Long",
+                "de": "🇩🇪 Lang",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Corto",
+                "it": "🇮🇹 Corto",
+                "pt": "🇧🇷 Curto",
+                "en": "🇺🇸 Short",
+                "fr": "🇫🇷 Court",
+                "de": "🇩🇪 Kurz",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Grande",
+                "it": "🇮🇹 Grande",
+                "pt": "🇧🇷 Grande",
+                "en": "🇺🇸 Big",
+                "fr": "🇫🇷 Grand",
+                "de": "🇩🇪 Groß",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Pequeño",
+                "it": "🇮🇹 Piccolo",
+                "pt": "🇧🇷 Pequeno",
+                "en": "🇺🇸 Small",
+                "fr": "🇫🇷 Petit",
+                "de": "🇩🇪 Klein",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Nuevo",
+                "it": "🇮🇹 Nuovo",
+                "pt": "🇧🇷 Novo",
+                "en": "🇺🇸 New",
+                "fr": "🇫🇷 Nouveau",
+                "de": "🇩🇪 Neu",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Viejo",
+                "it": "🇮🇹 Vecchio",
+                "pt": "🇧🇷 Velho",
+                "en": "🇺🇸 Old",
+                "fr": "🇫🇷 Vieux",
+                "de": "🇩🇪 Alt",
+                "level": "A2"
+            },{
+                "es": "🇺🇾 Bueno",
+                "it": "🇮🇹 Buono",
+                "pt": "🇧🇷 Bom",
+                "en": "🇺🇸 Good",
+                "fr": "🇫🇷 Bon",
+                "de": "🇩🇪 Gut",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Grande",
+                "it": "🇮🇹 Grande",
+                "pt": "🇧🇷 Grande",
+                "en": "🇺🇸 Big",
+                "fr": "🇫🇷 Grand",
+                "de": "🇩🇪 Groß",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Pequeño",
+                "it": "🇮🇹 Piccolo",
+                "pt": "🇧🇷 Pequeno",
+                "en": "🇺🇸 Small",
+                "fr": "🇫🇷 Petit",
+                "de": "🇩🇪 Klein",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Largo",
+                "it": "🇮🇹 Lungo",
+                "pt": "🇧🇷 Longo",
+                "en": "🇺🇸 Long",
+                "fr": "🇫🇷 Long",
+                "de": "🇩🇪 Lang",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Corto",
+                "it": "🇮🇹 Corto",
+                "pt": "🇧🇷 Curto",
+                "en": "🇺🇸 Short",
+                "fr": "🇫🇷 Court",
+                "de": "🇩🇪 Kurz",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Dentro",
+                "it": "🇮🇹 Dentro",
+                "pt": "🇧🇷 Dentro",
+                "en": "🇺🇸 Inside",
+                "fr": "🇫🇷 Dedans",
+                "de": "🇩🇪 Drinnen",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Fuera",
+                "it": "🇮🇹 Fuori",
+                "pt": "🇧🇷 Fora",
+                "en": "🇺🇸 Outside",
+                "fr": "🇫🇷 Dehors",
+                "de": "🇩🇪 Draußen",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Arriba",
+                "it": "🇮🇹 Sopra",
+                "pt": "🇧🇷 Em cima",
+                "en": "🇺🇸 Up",
+                "fr": "🇫🇷 Haut",
+                "de": "🇩🇪 Oben",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Abajo",
+                "it": "🇮🇹 Giù",
+                "pt": "🇧🇷 Abaixo",
+                "en": "🇺🇸 Down",
+                "fr": "🇫🇷 Bas",
+                "de": "🇩🇪 Unten",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Derecha",
+                "it": "🇮🇹 Destra",
+                "pt": "🇧🇷 Direita",
+                "en": "🇺🇸 Right",
+                "fr": "🇫🇷 Droite",
+                "de": "🇩🇪 Rechts",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Izquierda",
+                "it": "🇮🇹 Sinistra",
+                "pt": "🇧🇷 Esquerda",
+                "en": "🇺🇸 Left",
+                "fr": "🇫🇷 Gauche",
+                "de": "🇩🇪 Links",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Segundo",
+                "it": "🇮🇹 Secondo",
+                "pt": "🇧🇷 Segundo",
+                "en": "🇺🇸 Second",
+                "fr": "🇫🇷 Deuxième",
+                "de": "🇩🇪 Zweite",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Minuto",
+                "it": "🇮🇹 Minuto",
+                "pt": "🇧🇷 Minuto",
+                "en": "🇺🇸 Minute",
+                "fr": "🇫🇷 Minute",
+                "de": "🇩🇪 Minute",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Hora",
+                "it": "🇮🇹 Ora",
+                "pt": "🇧🇷 Hora",
+                "en": "🇺🇸 Hour",
+                "fr": "🇫🇷 Heure",
+                "de": "🇩🇪 Stunde",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Reloj",
+                "it": "🇮🇹 Orologio",
+                "pt": "🇧🇷 Relógio",
+                "en": "🇺🇸 Clock",
+                "fr": "🇫🇷 Horloge",
+                "de": "🇩🇪 Uhr",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Sol",
+                "it": "🇮🇹 Sole",
+                "pt": "🇧🇷 Sol",
+                "en": "🇺🇸 Sun",
+                "fr": "🇫🇷 Soleil",
+                "de": "🇩🇪 Sonne",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Luna",
+                "it": "🇮🇹 Luna",
+                "pt": "🇧🇷 Lua",
+                "en": "🇺🇸 Moon",
+                "fr": "🇫🇷 Lune",
+                "de": "🇩🇪 Mond",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Estrella",
+                "it": "🇮🇹 Stella",
+                "pt": "🇧🇷 Estrela",
+                "en": "🇺🇸 Star",
+                "fr": "🇫🇷 Étoile",
+                "de": "🇩🇪 Stern",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Árbol",
+                "it": "🇮🇹 Albero",
+                "pt": "🇧🇷 Árvore",
+                "en": "🇺🇸 Tree",
+                "fr": "🇫🇷 Arbre",
+                "de": "🇩🇪 Baum",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Animal",
+                "it": "🇮🇹 Animale",
+                "pt": "🇧🇷 Animal",
+                "en": "🇺🇸 Animal",
+                "fr": "🇫🇷 Animal",
+                "de": "🇩🇪 Tier",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Flor",
+                "it": "🇮🇹 Fiore",
+                "pt": "🇧🇷 Flor",
+                "en": "🇺🇸 Flower",
+                "fr": "🇫🇷 Fleur",
+                "de": "🇩🇪 Blume",
+                "level": "A1"
+            },
+            {
+                "es": "🇺🇾 Bosque",
+                "it": "🇮🇹 Bosco",
+                "pt": "🇧🇷 Floresta",
+                "en": "🇺🇸 Forest",
+                "fr": "🇫🇷 Forêt",
+                "de": "🇩🇪 Wald",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Playa",
+                "it":
+            
+             "🇮🇹 Spiaggia",
+                "pt": "🇧🇷 Praia",
+                "en": "🇺🇸 Beach",
+                "fr": "🇫🇷 Plage",
+                "de": "🇩🇪 Strand",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Río",
+                "it": "🇮🇹 Fiume",
+                "pt": "🇧🇷 Rio",
+                "en": "🇺🇸 River",
+                "fr": "🇫🇷 Rivière",
+                "de": "🇩🇪 Fluss",
+                "level": "B1"
+            },
+            {
+                "es": "🇺🇾 Montaña",
+                "it": "🇮🇹 Montagna",
+                "pt": "🇧🇷 Montanha",
+                "en": "🇺🇸 Mountain",
+                "fr": "🇫🇷 Montagne",
+                "de": "🇩🇪 Berg",
+                "level": "B2"
+            },
+            {
+                "es": "🇺🇾 Mar",
+                "it": "🇮🇹 Mare",
+                "pt": "🇧🇷 Mar",
+                "en": "🇺🇸 Sea",
+                "fr": "🇫🇷 Mer",
+                "de": "🇩🇪 Meer",
+                "level": "C1"
+            },
+            {
+                "es": "🇺🇾 Alma",
+                "it": "🇮🇹 Anima",
+                "pt": "🇧🇷 Alma",
+                "en": "🇺🇸 Soul",
+                "fr": "🇫🇷 Âme",
+                "de": "🇩🇪 Seele",
+                "level": "A2"
+            },
+            {
+                "es": "🇺🇾 Amigo",
+                "it": "🇮🇹 Amico/Amica",
+                "pt": "🇧🇷 Amigo/Amiga",
+                "en": "🇺🇸 Friend",
+                "fr": "🇫🇷 Ami/Amie",
+                "de": "🇩🇪 Freund/Freundin",
+                "level": "B1"
+            },
         {
             "es": "🇺🇾 País",
             "it": "🇮🇹 Paese",

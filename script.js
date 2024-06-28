@@ -14,6 +14,10 @@ function displayWord(index) {
     const pt = document.getElementById('pt');
     const en = document.getElementById('en');
     const es = document.getElementById('es');
+    
+    const de = document.getElementById('de');
+    const fr = document.getElementById('fr');
+    const level = document.getElementById('level');
 
     const currentWord = words[index];
     es.textContent = `${currentWord.es}`;
@@ -21,6 +25,10 @@ function displayWord(index) {
     it.textContent = `${currentWord.it}`;
     pt.textContent = `${currentWord.pt}`;
     en.textContent = `${currentWord.en}`;
+    de.textContent = `${currentWord.de}`;
+    fr.textContent = `${currentWord.fr}`;
+    level.textContent = `${currentWord.level}`;
+
 
 }
 
