@@ -1,473 +1,737 @@
 {
         "words": [
-          {
-            "it": "🇮🇹 ciao",
-            "pt": "🇧🇷 olá",
-            "es": "🇺🇾 hola",
-            "en": "🇺🇸 hello",
-            "fr": "🇫🇷 bonjour",
-            "de": "🇩🇪 hallo",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 addio",
-            "pt": "🇧🇷 adeus",
-            "es": "🇺🇾 adiós",
-            "en": "🇺🇸 goodbye",
-            "fr": "🇫🇷 au revoir",
-            "de": "🇩🇪 auf Wiedersehen",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 per favore",
-            "pt": "🇧🇷 por favor",
-            "es": "🇺🇾 por favor",
-            "en": "🇺🇸 please",
-            "fr": "🇫🇷 s'il vous plaît",
-            "de": "🇩🇪 bitte",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 grazie",
-            "pt": "🇧🇷 obrigado",
-            "es": "🇺🇾 gracias",
-            "en": "🇺🇸 thank you",
-            "fr": "🇫🇷 merci",
-            "de": "🇩🇪 danke",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 scusa",
-            "pt": "🇧🇷 desculpa",
-            "es": "🇺🇾 lo siento",
-            "en": "🇺🇸 sorry",
-            "fr": "🇫🇷 désolé",
-            "de": "🇩🇪 entschuldigung",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 sì",
-            "pt": "🇧🇷 sim",
-            "es": "🇺🇾 sí",
-            "en": "🇺🇸 yes",
-            "fr": "🇫🇷 oui",
-            "de": "🇩🇪 ja",
-            "level": "A1"
-          },
-        
-          {
-            "it": "🇮🇹 ciao",
-            "pt": "🇧🇷 olá",
-            "es": "🇺🇾 hola",
-            "en": "🇺🇸 hello",
-            "fr": "🇫🇷 bonjour",
-            "de": "🇩🇪 hallo",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 addio",
-            "pt": "🇧🇷 adeus",
-            "es": "🇺🇾 adiós",
-            "en": "🇺🇸 goodbye",
-            "fr": "🇫🇷 au revoir",
-            "de": "🇩🇪 auf Wiedersehen",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 per favore",
-            "pt": "🇧🇷 por favor",
-            "es": "🇺🇾 por favor",
-            "en": "🇺🇸 please",
-            "fr": "🇫🇷 s'il vous plaît",
-            "de": "🇩🇪 bitte",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 grazie",
-            "pt": "🇧🇷 obrigado",
-            "es": "🇺🇾 gracias",
-            "en": "🇺🇸 thank you",
-            "fr": "🇫🇷 merci",
-            "de": "🇩🇪 danke",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 scusa",
-            "pt": "🇧🇷 desculpa",
-            "es": "🇺🇾 lo siento",
-            "en": "🇺🇸 sorry",
-            "fr": "🇫🇷 désolé",
-            "de": "🇩🇪 entschuldigung",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 sì",
-            "pt": "🇧🇷 sim",
-            "es": "🇺🇾 sí",
-            "en": "🇺🇸 yes",
-            "fr": "🇫🇷 oui",
-            "de": "🇩🇪 ja",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 no",
-            "pt": "🇧🇷 não",
-            "es": "🇺🇾 no",
-            "en": "🇺🇸 no",
-            "fr": "🇫🇷 non",
-            "de": "🇩🇪 nein",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 acqua",
-            "pt": "🇧🇷 água",
-            "es": "🇺🇾 agua",
-            "en": "🇺🇸 water",
-            "fr": "🇫🇷 eau",
-            "de": "🇩🇪 wasser",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 cibo",
-            "pt": "🇧🇷 comida",
-            "es": "🇺🇾 comida",
-            "en": "🇺🇸 food",
-            "fr": "🇫🇷 nourriture",
-            "de": "🇩🇪 essen",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 casa",
-            "pt": "🇧🇷 casa",
-            "es": "🇺🇾 casa",
-            "en": "🇺🇸 house",
-            "fr": "🇫🇷 maison",
-            "de": "🇩🇪 haus",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 scuola",
-            "pt": "🇧🇷 escola",
-            "es": "🇺🇾 escuela",
-            "en": "🇺🇸 school",
-            "fr": "🇫🇷 école",
-            "de": "🇩🇪 schule",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 auto",
-            "pt": "🇧🇷 carro",
-            "es": "🇺🇾 auto",
-            "en": "🇺🇸 car",
-            "fr": "🇫🇷 voiture",
-            "de": "🇩🇪 auto",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 libro",
-            "pt": "🇧🇷 livro",
-            "es": "🇺🇾 libro",
-            "en": "🇺🇸 book",
-            "fr": "🇫🇷 livre",
-            "de": "🇩🇪 buch",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 bambino",
-            "pt": "🇧🇷 criança",
-            "es": "🇺🇾 niño",
-            "en": "🇺🇸 child",
-            "fr": "🇫🇷 enfant",
-            "de": "🇩🇪 kind",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 amico",
-            "pt": "🇧🇷 amigo",
-            "es": "🇺🇾 amigo",
-            "en": "🇺🇸 friend",
-            "fr": "🇫🇷 ami",
-            "de": "🇩🇪 freund",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 felice",
-            "pt": "🇧🇷 feliz",
-            "es": "🇺🇾 feliz",
-            "en": "🇺🇸 happy",
-            "fr": "🇫🇷 heureux",
-            "de": "🇩🇪 glücklich",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 madre",
-            "pt": "🇧🇷 mãe",
-            "es": "🇺🇾 madre",
-            "en": "🇺🇸 mother",
-            "fr": "🇫🇷 mère",
-            "de": "🇩🇪 mutter",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 padre",
-            "pt": "🇧🇷 pai",
-            "es": "🇺🇾 padre",
-            "en": "🇺🇸 father",
-            "fr": "🇫🇷 père",
-            "de": "🇩🇪 vater",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 fratello",
-            "pt": "🇧🇷 irmão",
-            "es": "🇺🇾 hermano",
-            "en": "🇺🇸 brother",
-            "fr": "🇫🇷 frère",
-            "de": "🇩🇪 bruder",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 sorella",
-            "pt": "🇧🇷 irmã",
-            "es": "🇺🇾 hermana",
-            "en": "🇺🇸 sister",
-            "fr": "🇫🇷 soeur",
-            "de": "🇩🇪 schwester",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 cane",
-            "pt": "🇧🇷 cachorro",
-            "es": "🇺🇾 perro",
-            "en": "🇺🇸 dog",
-            "fr": "🇫🇷 chien",
-            "de": "🇩🇪 hund",
-            "level": "A1"
-          },{
-            "it": "🇮🇹 ciao",
-            "pt": "🇧🇷 olá",
-            "es": "🇺🇾 hola",
-            "en": "🇺🇸 hello",
-            "fr": "🇫🇷 bonjour",
-            "de": "🇩🇪 hallo",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 addio",
-            "pt": "🇧🇷 adeus",
-            "es": "🇺🇾 adiós",
-            "en": "🇺🇸 goodbye",
-            "fr": "🇫🇷 au revoir",
-            "de": "🇩🇪 auf Wiedersehen",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 per favore",
-            "pt": "🇧🇷 por favor",
-            "es": "🇺🇾 por favor",
-            "en": "🇺🇸 please",
-            "fr": "🇫🇷 s'il vous plaît",
-            "de": "🇩🇪 bitte",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 grazie",
-            "pt": "🇧🇷 obrigado",
-            "es": "🇺🇾 gracias",
-            "en": "🇺🇸 thank you",
-            "fr": "🇫🇷 merci",
-            "de": "🇩🇪 danke",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 scusa",
-            "pt": "🇧🇷 desculpa",
-            "es": "🇺🇾 lo siento",
-            "en": "🇺🇸 sorry",
-            "fr": "🇫🇷 désolé",
-            "de": "🇩🇪 entschuldigung",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 sì",
-            "pt": "🇧🇷 sim",
-            "es": "🇺🇾 sí",
-            "en": "🇺🇸 yes",
-            "fr": "🇫🇷 oui",
-            "de": "🇩🇪 ja",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 no",
-            "pt": "🇧🇷 não",
-            "es": "🇺🇾 no",
-            "en": "🇺🇸 no",
-            "fr": "🇫🇷 non",
-            "de": "🇩🇪 nein",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 acqua",
-            "pt": "🇧🇷 água",
-            "es": "🇺🇾 agua",
-            "en": "🇺🇸 water",
-            "fr": "🇫🇷 eau",
-            "de": "🇩🇪 wasser",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 cibo",
-            "pt": "🇧🇷 comida",
-            "es": "🇺🇾 comida",
-            "en": "🇺🇸 food",
-            "fr": "🇫🇷 nourriture",
-            "de": "🇩🇪 essen",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 casa",
-            "pt": "🇧🇷 casa",
-            "es": "🇺🇾 casa",
-            "en": "🇺🇸 house",
-            "fr": "🇫🇷 maison",
-            "de": "🇩🇪 haus",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 scuola",
-            "pt": "🇧🇷 escola",
-            "es": "🇺🇾 escuela",
-            "en": "🇺🇸 school",
-            "fr": "🇫🇷 école",
-            "de": "🇩🇪 schule",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 auto",
-            "pt": "🇧🇷 carro",
-            "es": "🇺🇾 auto",
-            "en": "🇺🇸 car",
-            "fr": "🇫🇷 voiture",
-            "de": "🇩🇪 auto",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 libro",
-            "pt": "🇧🇷 livro",
-            "es": "🇺🇾 libro",
-            "en": "🇺🇸 book",
-            "fr": "🇫🇷 livre",
-            "de": "🇩🇪 buch",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 bambino",
-            "pt": "🇧🇷 criança",
-            "es": "🇺🇾 niño",
-            "en": "🇺🇸 child",
-            "fr": "🇫🇷 enfant",
-            "de": "🇩🇪 kind",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 amico",
-            "pt": "🇧🇷 amigo",
-            "es": "🇺🇾 amigo",
-            "en": "🇺🇸 friend",
-            "fr": "🇫🇷 ami",
-            "de": "🇩🇪 freund",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 felice",
-            "pt": "🇧🇷 feliz",
-            "es": "🇺🇾 feliz",
-            "en": "🇺🇸 happy",
-            "fr": "🇫🇷 heureux",
-            "de": "🇩🇪 glücklich",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 madre",
-            "pt": "🇧🇷 mãe",
-            "es": "🇺🇾 madre",
-            "en": "🇺🇸 mother",
-            "fr": "🇫🇷 mère",
-            "de": "🇩🇪 mutter",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 padre",
-            "pt": "🇧🇷 pai",
-            "es": "🇺🇾 padre",
-            "en": "🇺🇸 father",
-            "fr": "🇫🇷 père",
-            "de": "🇩🇪 vater",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 fratello",
-            "pt": "🇧🇷 irmão",
-            "es": "🇺🇾 hermano",
-            "en": "🇺🇸 brother",
-            "fr": "🇫🇷 frère",
-            "de": "🇩🇪 bruder",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 sorella",
-            "pt": "🇧🇷 irmã",
-            "es": "🇺🇾 hermana",
-            "en": "🇺🇸 sister",
-            "fr": "🇫🇷 soeur",
-            "de": "🇩🇪 schwester",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 cane",
-            "pt": "🇧🇷 cachorro",
-            "es": "🇺🇾 perro",
-            "en": "🇺🇸 dog",
-            "fr": "🇫🇷 chien",
-            "de": "🇩🇪 hund",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 gatto",
-            "pt": "🇧🇷 gato",
-            "es": "🇺🇾 gato",
-            "en": "🇺🇸 cat",
-            "fr": "🇫🇷 chat",
-            "de": "🇩🇪 katze",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 giorno",
-            "pt": "🇧🇷 dia",
-            "es": "🇺🇾 día",
-            "en": "🇺🇸 day",
-            "fr": "🇫🇷 jour",
-            "de": "🇩🇪 tag",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 notte",
-            "pt": "🇧🇷 noite",
-            "es": "🇺🇾 noche",
-            "en": "🇺🇸 night",
-            "fr": "🇫🇷 nuit",
-            "de": "🇩🇪 nacht",
-            "level": "A1"
-          },
-          {
-            "it": "🇮🇹 lavoro",
-            "pt": "🇧🇷 trabalho",
-            "es": "🇺🇾 trabajo",
-            "en": "🇺🇸 work",
-            "fr": "🇫🇷 travail",
-            "de": "🇩🇪 arbeit",
-            "level": "A1"
-          },
+
+
+            {
+                "es": "🇺🇾 Bueno",
+                "it": "🇮🇹 Buono",
+                "pt": "🇧🇷 Bom",
+                "en": "🇺🇸 Good",
+                "fr": "🇫🇷 Bon",
+                "de": "🇩🇪 Gut",
+                "level": "A1",
+                "emoji": "👍"
+            },
+            {
+                "es": "🇺🇾 Grande",
+                "it": "🇮🇹 Grande",
+                "pt": "🇧🇷 Grande",
+                "en": "🇺🇸 Big",
+                "fr": "🇫🇷 Grand",
+                "de": "🇩🇪 Groß",
+                "level": "A1",
+                "emoji": "📏"
+            },
+            {
+                "es": "🇺🇾 Pequeño",
+                "it": "🇮🇹 Piccolo",
+                "pt": "🇧🇷 Pequeno",
+                "en": "🇺🇸 Small",
+                "fr": "🇫🇷 Petit",
+                "de": "🇩🇪 Klein",
+                "level": "A1",
+                "emoji": "🪫"
+            },
+            {
+                "es": "🇺🇾 Largo",
+                "it": "🇮🇹 Lungo",
+                "pt": "🇧🇷 Longo",
+                "en": "🇺🇸 Long",
+                "fr": "🇫🇷 Long",
+                "de": "🇩🇪 Lang",
+                "level": "A2",
+                "emoji": "➡️"
+            },
+            {
+                "es": "🇺🇾 Corto",
+                "it": "🇮🇹 Corto",
+                "pt": "🇧🇷 Curto",
+                "en": "🇺🇸 Short",
+                "fr": "🇫🇷 Court",
+                "de": "🇩🇪 Kurz",
+                "level": "A2",
+                "emoji": "↔️"
+            },
+            {
+                "es": "🇺🇾 Dentro",
+                "it": "🇮🇹 Dentro",
+                "pt": "🇧🇷 Dentro",
+                "en": "🇺🇸 Inside",
+                "fr": "🇫🇷 Dedans",
+                "de": "🇩🇪 Drinnen",
+                "level": "A1",
+                "emoji": "🏠"
+            },
+            {
+                "es": "🇺🇾 Fuera",
+                "it": "🇮🇹 Fuori",
+                "pt": "🇧🇷 Fora",
+                "en": "🇺🇸 Outside",
+                "fr": "🇫🇷 Dehors",
+                "de": "🇩🇪 Draußen",
+                "level": "A1",
+                "emoji": "🏞️"
+            },
+            {
+                "es": "🇺🇾 Arriba",
+                "it": "🇮🇹 Sopra",
+                "pt": "🇧🇷 Em cima",
+                "en": "🇺🇸 Up",
+                "fr": "🇫🇷 En haut",
+                "de": "🇩🇪 Oben",
+                "level": "A1",
+                "emoji": "⬆️"
+            },
+            {
+                "es": "🇺🇾 Abajo",
+                "it": "🇮🇹 Giù",
+                "pt": "🇧🇷 Abaixo",
+                "en": "🇺🇸 Down",
+                "fr": "🇫🇷 En bas",
+                "de": "🇩🇪 Unten",
+                "level": "A1",
+                "emoji": "⬇️"
+            },
+            {
+                "es": "🇺🇾 Derecha",
+                "it": "🇮🇹 Destra",
+                "pt": "🇧🇷 Direita",
+                "en": "🇺🇸 Right",
+                "fr": "🇫🇷 Droite",
+                "de": "🇩🇪 Rechts",
+                "level": "A1",
+                "emoji": "➡️"
+            },
+            {
+                "es": "🇺🇾 Izquierda",
+                "it": "🇮🇹 Sinistra",
+                "pt": "🇧🇷 Esquerda",
+                "en": "🇺🇸 Left",
+                "fr": "🇫🇷 Gauche",
+                "de": "🇩🇪 Links",
+                "level": "A1",
+                "emoji": "⬅️"
+            },
+            {
+                "es": "🇺🇾 Segundo",
+                "it": "🇮🇹 Secondo",
+                "pt": "🇧🇷 Segundo",
+                "en": "🇺🇸 Second",
+                "fr": "🇫🇷 Seconde",
+                "de": "🇩🇪 Sekunde",
+                "level": "A1",
+                "emoji": "⏲️"
+            },
+            {
+                "es": "🇺🇾 Minuto",
+                "it": "🇮🇹 Minuto",
+                "pt": "🇧🇷 Minuto",
+                "en": "🇺🇸 Minute",
+                "fr": "🇫🇷 Minute",
+                "de": "🇩🇪 Minute",
+                "level": "A1",
+                "emoji": "⏱️"
+            },
+            {
+                "es": "🇺🇾 Hora",
+                "it": "🇮🇹 Ora",
+                "pt": "🇧🇷 Hora",
+                "en": "🇺🇸 Hour",
+                "fr": "🇫🇷 Heure",
+                "de": "🇩🇪 Stunde",
+                "level": "A1",
+                "emoji": "⏰"
+            },
+            {
+                "es": "🇺🇾 Reloj",
+                "it": "🇮🇹 Orologio",
+                "pt": "🇧🇷 Relógio",
+                "en": "🇺🇸 Clock",
+                "fr": "🇫🇷 Horloge",
+                "de": "🇩🇪 Uhr",
+                "level": "A1",
+                "emoji": "🕰️"
+            },
+            {
+                "es": "🇺🇾 Sol",
+                "it": "🇮🇹 Sole",
+                "pt": "🇧🇷 Sol",
+                "en": "🇺🇸 Sun",
+                "fr": "🇫🇷 Soleil",
+                "de": "🇩🇪 Sonne",
+                "level": "A1",
+                "emoji": "☀️"
+            },
+            {
+                "es": "🇺🇾 Luna",
+                "it": "🇮🇹 Luna",
+                "pt": "🇧🇷 Lua",
+                "en": "🇺🇸 Moon",
+                "fr": "🇫🇷 Lune",
+                "de": "🇩🇪 Mond",
+                "level": "A1",
+                "emoji": "🌕"
+            },
+            {
+                "es": "🇺🇾 Estrella",
+                "it": "🇮🇹 Stella",
+                "pt": "🇧🇷 Estrela",
+                "en": "🇺🇸 Star",
+                "fr": "🇫🇷 Étoile",
+                "de": "🇩🇪 Stern",
+                "level": "A1",
+                "emoji": "⭐"
+            },
+            {
+                "es": "🇺🇾 Árbol",
+                "it": "🇮🇹 Albero",
+                "pt": "🇧🇷 Árvore",
+                "en": "🇺🇸 Tree",
+                "fr": "🇫🇷 Arbre",
+                "de": "🇩🇪 Baum",
+                "level": "A1",
+                "emoji": "🌳"
+            },
+            {
+                "es": "🇺🇾 Animal",
+                "it": "🇮🇹 Animale",
+                "pt": "🇧🇷 Animal",
+                "en": "🇺🇸 Animal",
+                "fr": "🇫🇷 Animal",
+                "de": "🇩🇪 Tier",
+                "level": "A1",
+                "emoji": "🐾"
+            },
+            {
+                "es": "🇺🇾 Flor",
+                "it": "🇮🇹 Fiore",
+                "pt": "🇧🇷 Flor",
+                "en": "🇺🇸 Flower",
+                "fr": "🇫🇷 Fleur",
+                "de": "🇩🇪 Blume",
+                "level": "A1",
+                "emoji": "🌸"
+            },
+            {
+                "es": "🇺🇾 Bosque",
+                "it": "🇮🇹 Bosco",
+                "pt": "🇧🇷 Floresta",
+                "en": "🇺🇸 Forest",
+                "fr": "🇫🇷 Forêt",
+                "de": "🇩🇪 Wald",
+                "level": "A2",
+                "emoji": "🌲"
+            },
+            {
+                "es": "🇺🇾 Playa",
+                "it": "🇮🇹 Spiaggia",
+                "pt": "🇧🇷 Praia",
+                "en": "🇺🇸 Beach",
+                "fr": "🇫🇷 Plage",
+                "de": "🇩🇪 Strand",
+                "level": "A2",
+                "emoji": "🏖️"
+            },
+            {
+                "es": "🇺🇾 Río",
+                "it": "🇮🇹 Fiume",
+                "pt": "🇧🇷 Rio",
+                "en": "🇺🇸 River",
+                "fr": "🇫🇷 Rivière",
+                "de": "🇩🇪 Fluss",
+                "level": "A2",
+                "emoji": "🏞️"
+            },
+            {
+                "es": "🇺🇾 Montaña",
+                "it": "🇮🇹 Montagna",
+                "pt": "🇧🇷 Montanha",
+                "en": "🇺🇸 Mountain",
+                "fr": "🇫🇷 Montagne",
+                "de": "🇩🇪 Berg",
+                "level": "A2",
+                "emoji": "🏔️"
+            },
+            {
+                "es": "🇺🇾 Mar",
+                "it": "🇮🇹 Mare",
+                "pt": "🇧🇷 Mar",
+                "en": "🇺🇸 Sea",
+                "fr": "🇫🇷 Mer",
+                "de": "🇩🇪 Meer",
+                "level": "A2",
+                "emoji": "🌊"
+            },
+            {
+                "es": "🇺🇾 Alma",
+                "it": "🇮🇹 Anima",
+                "pt": "🇧🇷 Alma",
+                "en": "🇺🇸 Soul",
+                "fr": "🇫🇷 Âme",
+                "de": "🇩🇪 Seele",
+                "level": "B1",
+                "emoji": "🕊️"
+            },
+            {
+                "es": "🇺🇾 Amigo",
+                "it": "🇮🇹 Amico/Amica",
+                "pt": "🇧🇷 Amigo/Amiga",
+                "en": "🇺🇸 Friend",
+                "fr": "🇫🇷 Ami/Amie",
+                "de": "🇩🇪 Freund/Freundin",
+                "level": "A1",
+                "emoji": "👫"
+            },
+            {
+                "es": "🇺🇾 Hola",
+                "it": "🇮🇹 Ciao",
+                "pt": "🇧🇷 Olá",
+                "en": "🇺🇸 Hello",
+                "fr": "🇫🇷 Bonjour",
+                "de": "🇩🇪 Hallo",
+                "level": "A1",
+                "emoji": "👋"
+            },
+            {
+                "es": "🇺🇾 Adiós",
+                "it": "🇮🇹 Addio",
+                "pt": "🇧🇷 Adeus",
+                "en": "🇺🇸 Goodbye",
+                "fr": "🇫🇷 Au revoir",
+                "de": "🇩🇪 Auf Wiedersehen",
+                "level": "A1",
+                "emoji": "👋"
+            },
+            {
+                "es": "🇺🇾 Por favor",
+                "it": "🇮🇹 Per favore",
+                "pt": "🇧🇷 Por favor",
+                "en": "🇺🇸 Please",
+                "fr": "🇫🇷 S'il vous plaît",
+                "de": "🇩🇪 Bitte",
+                "level": "A1",
+                "emoji": "🙏"
+            },
+            {
+                "es": "🇺🇾 Gracias",
+                "it": "🇮🇹 Grazie",
+                "pt": "🇧🇷 Obrigado",
+                "en": "🇺🇸 Thank you",
+                "fr": "🇫🇷 Merci",
+                "de": "🇩🇪 Danke",
+                "level": "A1",
+                "emoji": "🙏"
+            },
+            {
+                "es": "🇺🇾 Lo siento",
+                "it": "🇮🇹 Scusa",
+                "pt": "🇧🇷 Desculpa",
+                "en": "🇺🇸 Sorry",
+                "fr": "🇫🇷 Désolé",
+                "de": "🇩🇪 Entschuldigung",
+                "level": "A1",
+                "emoji": "😔"
+            },
+            {
+                "es": "🇺🇾 Sí",
+                "it": "🇮🇹 Sì",
+                "pt": "🇧🇷 Sim",
+                "en": "🇺🇸 Yes",
+                "fr": "🇫🇷 Oui",
+                "de": "🇩🇪 Ja",
+                "level": "A1",
+                "emoji": "👍"
+            },
+            {
+                "es": "🇺🇾 No",
+                "it": "🇮🇹 No",
+                "pt": "🇧🇷 Não",
+                "en": "🇺🇸 No",
+                "fr": "🇫🇷 Non",
+                "de": "🇩🇪 Nein",
+                "level": "A1",
+                "emoji": "👎"
+            },
+            {
+                "es": "🇺🇾 Agua",
+                "it": "🇮🇹 Acqua",
+                "pt": "🇧🇷 Água",
+                "en": "🇺🇸 Water",
+                "fr": "🇫🇷 Eau",
+                "de": "🇩🇪 Wasser",
+                "level": "A1",
+                "emoji": "💧"
+            },
+            {
+                "es": "🇺🇾 Comida",
+                "it": "🇮🇹 Cibo",
+                "pt": "🇧🇷 Comida",
+                "en": "🇺🇸 Food",
+                "fr": "🇫🇷 Nourriture",
+                "de": "🇩🇪 Essen",
+                "level": "A1",
+                "emoji": "🍔"
+            },
+            {
+                "es": "🇺🇾 Casa",
+                "it": "🇮🇹 Casa",
+                "pt": "🇧🇷 Casa",
+                "en": "🇺🇸 House",
+                "fr": "🇫🇷 Maison",
+                "de": "🇩🇪 Haus",
+                "level": "A1",
+                "emoji": "🏠"
+            },
+            {
+                "es": "🇺🇾 Escuela",
+                "it": "🇮🇹 Scuola",
+                "pt": "🇧🇷 Escola",
+                "en": "🇺🇸 School",
+                "fr": "🇫🇷 École",
+                "de": "🇩🇪 Schule",
+                "level": "A1",
+                "emoji": "🏫"
+            },
+            {
+                "es": "🇺🇾 Auto",
+                "it": "🇮🇹 Auto",
+                "pt": "🇧🇷 Carro",
+                "en": "🇺🇸 Car",
+                "fr": "🇫🇷 Voiture",
+                "de": "🇩🇪 Auto",
+                "level": "A1",
+                "emoji": "🚗"
+            },
+            {
+                "es": "🇺🇾 Libro",
+                "it": "🇮🇹 Libro",
+                "pt": "🇧🇷 Livro",
+                "en": "🇺🇸 Book",
+                "fr": "🇫🇷 Livre",
+                "de": "🇩🇪 Buch",
+                "level": "A1",
+                "emoji": "📚"
+            },
+            {
+                "es": "🇺🇾 Niño",
+                "it": "🇮🇹 Bambino",
+                "pt": "🇧🇷 Criança",
+                "en": "🇺🇸 Child",
+                "fr": "🇫🇷 Enfant",
+                "de": "🇩🇪 Kind",
+                "level": "A1",
+                "emoji": "👶"
+            },
+            {
+                "es": "🇺🇾 Felice",
+                "it": "🇮🇹 Feliz",
+                "pt": "🇧🇷 Feliz",
+                "en": "🇺🇸 Happy",
+                "fr": "🇫🇷 Heureux",
+                "de": "🇩🇪 Glücklich",
+                "level": "A1",
+                "emoji": "😄"
+            },
+            {
+                "es": "🇺🇾 Madre",
+                "it": "🇮🇹 Madre",
+                "pt": "🇧🇷 Mãe",
+                "en": "🇺🇸 Mother",
+                "fr": "🇫🇷 Mère",
+                "de": "🇩🇪 Mutter",
+                "level": "A1",
+                "emoji": "👩"
+            },
+            {
+                "es": "🇺🇾 Padre",
+                "it": "🇮🇹 Padre",
+                "pt": "🇧🇷 Pai",
+                "en": "🇺🇸 Father",
+                "fr": "🇫🇷 Père",
+                "de": "🇩🇪 Vater",
+                "level": "A1",
+                "emoji": "👨"
+            },
+            {
+                "es": "🇺🇾 Hermano",
+                "it": "🇮🇹 Fratello",
+                "pt": "🇧🇷 Irmão",
+                "en": "🇺🇸 Brother",
+                "fr": "🇫🇷 Frère",
+                "de": "🇩🇪 Bruder",
+                "level": "A1",
+                "emoji": "👨‍👦"
+            },
+            {
+                "es": "🇺🇾 Hermana",
+                "it": "🇮🇹 Sorella",
+                "pt": "🇧🇷 Irmã",
+                "en": "🇺🇸 Sister",
+                "fr": "🇫🇷 Soeur",
+                "de": "🇩🇪 Schwester",
+                "level": "A1",
+                "emoji": "👩‍👧"
+            },
+            {
+                "es": "🇺🇾 Perro",
+                "it": "🇮🇹 Cane",
+                "pt": "🇧🇷 Cachorro",
+                "en": "🇺🇸 Dog",
+                "fr": "🇫🇷 Chien",
+                "de": "🇩🇪 Hund",
+                "level": "A1",
+                "emoji": "🐶"
+            },
+            {
+                "es": "🇺🇾 Hola",
+                "it": "🇮🇹 Ciao",
+                "pt": "🇧🇷 Olá",
+                "en": "🇺🇸 Hello",
+                "fr": "🇫🇷 Bonjour",
+                "de": "🇩🇪 Hallo",
+                "level": "A1",
+                "emoji": "👋"
+            },
+            {
+                "es": "🇺🇾 Adiós",
+                "it": "🇮🇹 Addio",
+                "pt": "🇧🇷 Adeus",
+                "en": "🇺🇸 Goodbye",
+                "fr": "🇫🇷 Au revoir",
+                "de": "🇩🇪 Auf Wiedersehen",
+                "level": "A1",
+                "emoji": "👋"
+            },
+            {
+                "es": "🇺🇾 Por favor",
+                "it": "🇮🇹 Per favore",
+                "pt": "🇧🇷 Por favor",
+                "en": "🇺🇸 Please",
+                "fr": "🇫🇷 S'il vous plaît",
+                "de": "🇩🇪 Bitte",
+                "level": "A1",
+                "emoji": "🙏"
+            },
+            {
+                "es": "🇺🇾 Gracias",
+                "it": "🇮🇹 Grazie",
+                "pt": "🇧🇷 Obrigado",
+                "en": "🇺🇸 Thank you",
+                "fr": "🇫🇷 Merci",
+                "de": "🇩🇪 Danke",
+                "level": "A1",
+                "emoji": "🙏"
+            },
+            {
+                "es": "🇺🇾 Lo siento",
+                "it": "🇮🇹 Scusa",
+                "pt": "🇧🇷 Desculpa",
+                "en": "🇺🇸 Sorry",
+                "fr": "🇫🇷 Désolé",
+                "de": "🇩🇪 Entschuldigung",
+                "level": "A1",
+                "emoji": "😔"
+            },
+            {
+                "es": "🇺🇾 Sí",
+                "it": "🇮🇹 Sì",
+                "pt": "🇧🇷 Sim",
+                "en": "🇺🇸 Yes",
+                "fr": "🇫🇷 Oui",
+                "de": "🇩🇪 Ja",
+                "level": "A1",
+                "emoji": "👍"
+            },
+            {
+                "es": "🇺🇾 No",
+                "it": "🇮🇹 No",
+                "pt": "🇧🇷 Não",
+                "en": "🇺🇸 No",
+                "fr": "🇫🇷 Non",
+                "de": "🇩🇪 Nein",
+                "level": "A1",
+                "emoji": "👎"
+            },
+            {
+                "es": "🇺🇾 Agua",
+                "it": "🇮🇹 Acqua",
+                "pt": "🇧🇷 Água",
+                "en": "🇺🇸 Water",
+                "fr": "🇫🇷 Eau",
+                "de": "🇩🇪 Wasser",
+                "level": "A1",
+                "emoji": "💧"
+            },{
+                
+                "es": "🇺🇾 Comida",
+                "it": "🇮🇹 Cibo",
+                "pt": "🇧🇷 Comida",
+                "en": "🇺🇸 Food",
+                "fr": "🇫🇷 Nourriture",
+                "de": "🇩🇪 Essen",
+                "level": "A1",
+                "emoji": "🍽️"
+            },
+            {
+                "es": "🇺🇾 Casa",
+                "it": "🇮🇹 Casa",
+                "pt": "🇧🇷 Casa",
+                "en": "🇺🇸 House",
+                "fr": "🇫🇷 Maison",
+                "de": "🇩🇪 Haus",
+                "level": "A1",
+                "emoji": "🏠"
+            },
+            {
+                "es": "🇺🇾 Escuela",
+                "it": "🇮🇹 Scuola",
+                "pt": "🇧🇷 Escola",
+                "en": "🇺🇸 School",
+                "fr": "🇫🇷 École",
+                "de": "🇩🇪 Schule",
+                "level": "A1",
+                "emoji": "🏫"
+            },
+            {
+                "es": "🇺🇾 Auto",
+                "it": "🇮🇹 Auto",
+                "pt": "🇧🇷 Carro",
+                "en": "🇺🇸 Car",
+                "fr": "🇫🇷 Voiture",
+                "de": "🇩🇪 Auto",
+                "level": "A1",
+                "emoji": "🚗"
+            },
+            {
+                "es": "🇺🇾 Libro",
+                "it": "🇮🇹 Libro",
+                "pt": "🇧🇷 Livro",
+                "en": "🇺🇸 Book",
+                "fr": "🇫🇷 Livre",
+                "de": "🇩🇪 Buch",
+                "level": "A1",
+                "emoji": "📚"
+            },
+            {
+                "es": "🇺🇾 Niño",
+                "it": "🇮🇹 Bambino",
+                "pt": "🇧🇷 Criança",
+                "en": "🇺🇸 Child",
+                "fr": "🇫🇷 Enfant",
+                "de": "🇩🇪 Kind",
+                "level": "A1",
+                "emoji": "🧒"
+            },
+            {
+                "es": "🇺🇾 Amigo",
+                "it": "🇮🇹 Amico",
+                "pt": "🇧🇷 Amigo",
+                "en": "🇺🇸 Friend",
+                "fr": "🇫🇷 Ami",
+                "de": "🇩🇪 Freund",
+                "level": "A1",
+                "emoji": "👫"
+            },
+            {
+                "es": "🇺🇾 Feliz",
+                "it": "🇮🇹 Felice",
+                "pt": "🇧🇷 Feliz",
+                "en": "🇺🇸 Happy",
+                "fr": "🇫🇷 Heureux",
+                "de": "🇩🇪 Glücklich",
+                "level": "A1",
+                "emoji": "😊"
+            },
+            {
+                "es": "🇺🇾 Madre",
+                "it": "🇮🇹 Madre",
+                "pt": "🇧🇷 Mãe",
+                "en": "🇺🇸 Mother",
+                "fr": "🇫🇷 Mère",
+                "de": "🇩🇪 Mutter",
+                "level": "A1",
+                "emoji": "👩"
+            },
+            {
+                "es": "🇺🇾 Padre",
+                "it": "🇮🇹 Padre",
+                "pt": "🇧🇷 Pai",
+                "en": "🇺🇸 Father",
+                "fr": "🇫🇷 Père",
+                "de": "🇩🇪 Vater",
+                "level": "A1",
+                "emoji": "👨"
+            },
+            {
+                "es": "🇺🇾 Hermano",
+                "it": "🇮🇹 Fratello",
+                "pt": "🇧🇷 Irmão",
+                "en": "🇺🇸 Brother",
+                "fr": "🇫🇷 Frère",
+                "de": "🇩🇪 Bruder",
+                "level": "A1",
+                "emoji": "👨‍👦"
+            },
+            {
+                "es": "🇺🇾 Hermana",
+                "it": "🇮🇹 Sorella",
+                "pt": "🇧🇷 Irmã",
+                "en": "🇺🇸 Sister",
+                "fr": "🇫🇷 Soeur",
+                "de": "🇩🇪 Schwester",
+                "level": "A1",
+                "emoji": "👩‍👧"
+            },
+            {
+                "es": "🇺🇾 Perro",
+                "it": "🇮🇹 Cane",
+                "pt": "🇧🇷 Cachorro",
+                "en": "🇺🇸 Dog",
+                "fr": "🇫🇷 Chien",
+                "de": "🇩🇪 Hund",
+                "level": "A1",
+                "emoji": "🐶"
+            },
+            {
+                "es": "🇺🇾 Gato",
+                "it": "🇮🇹 Gatto",
+                "pt": "🇧🇷 Gato",
+                "en": "🇺🇸 Cat",
+                "fr": "🇫🇷 Chat",
+                "de": "🇩🇪 Katze",
+                "level": "A1",
+                "emoji": "🐱"
+            },
+            {
+                "es": "🇺🇾 Día",
+                "it": "🇮🇹 Giorno",
+                "pt": "🇧🇷 Dia",
+                "en": "🇺🇸 Day",
+                "fr": "🇫🇷 Jour",
+                "de": "🇩🇪 Tag",
+                "level": "A1",
+                "emoji": "🌞"
+            },
+            {
+                "es": "🇺🇾 Noche",
+                "it": "🇮🇹 Notte",
+                "pt": "🇧🇷 Noite",
+                "en": "🇺🇸 Night",
+                "fr": "🇫🇷 Nuit",
+                "de": "🇩🇪 Nacht",
+                "level": "A1",
+                "emoji": "🌜"
+            },
+            {
+                "es": "🇺🇾 Trabajo",
+                "it": "🇮🇹 Lavoro",
+                "pt": "🇧🇷 Trabalho",
+                "en": "🇺🇸 Work",
+                "fr": "🇫🇷 Travail",
+                "de": "🇩🇪 Arbeit",
+                "level": "A1",
+                "emoji": "💼"
+            },
           {
             "it": "🇮🇹 denaro",
             "pt": "🇧🇷 dinheiro",

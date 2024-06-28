@@ -14,10 +14,10 @@ function displayWord(index) {
     const pt = document.getElementById('pt');
     const en = document.getElementById('en');
     const es = document.getElementById('es');
-    
     const de = document.getElementById('de');
     const fr = document.getElementById('fr');
     const level = document.getElementById('level');
+    let emoji = document.getElementById('emoji');
 
     const currentWord = words[index];
     es.textContent = `${currentWord.es}`;
@@ -27,7 +27,19 @@ function displayWord(index) {
     en.textContent = `${currentWord.en}`;
     de.textContent = `${currentWord.de}`;
     fr.textContent = `${currentWord.fr}`;
+
+    if (!currentWord.emoji) {
+        currentWord.emoji = "-";
+        emoji.textContent = `${currentWord.emoji}`;
+    }
+    if (!currentWord.level) {
+        currentWord.level = "-";
+        level.textContent = `${currentWord.level}`;
+    }
+
+    emoji.textContent = `${currentWord.emoji}`;
     level.textContent = `${currentWord.level}`;
+
 
 
 }
