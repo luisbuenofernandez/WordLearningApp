@@ -1,7 +1,8 @@
 let currentIndex = 0;
 let words = [];
 
-fetch('data.json')
+        fetch('JS+CSS+JSON/data.json')
+
     .then(response => response.json())
     .then(data => {
         words = data.words;
